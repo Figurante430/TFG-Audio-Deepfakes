@@ -1,0 +1,31 @@
+{
+  "freeze_tag": "tfg_final_real_voxpopuli_es_legacy_v1_2026-09-15",
+  "dataset": "facebook/voxpopuli",
+  "language": "es",
+  "split": "test",
+  "revision": "4ca6fb6d6bb37af66991d05974e6abcadd4b181e",
+  "source_tsv_url": "https://huggingface.co/datasets/facebook/voxpopuli/resolve/4ca6fb6d6bb37af66991d05974e6abcadd4b181e/data/es/asr_test.tsv?download=true",
+  "source_tar_url": "https://huggingface.co/datasets/facebook/voxpopuli/resolve/4ca6fb6d6bb37af66991d05974e6abcadd4b181e/data/es/test/test_part_0.tar.gz?download=true",
+  "pyarrow_used": false,
+  "pandas_used": false,
+  "datasets_library_used": false,
+  "dataset_viewer_rows_api_used": false,
+  "selection": "Deterministic SHA256 speaker/clip ranking, followed only by predeclared duration criterion 1.5-12 s.",
+  "n_speakers": 10,
+  "clips_per_speaker": 10,
+  "total_clips": 100,
+  "selected_source_speaker_ids": [
+    "1973",
+    "124708",
+    "28397",
+    "28390",
+    "125051",
+    "4555",
+    "125033",
+    "105596",
+    "97024",
+    "125035"
+  ],
+  "metadata": "C:\\Users\\gonza\\TFG\\Deepfake-Detection\\external_final_voxpopuli\\metadata_voxpopuli_real.csv",
+  "warning": "FINAL REAL HOLDOUT. Do not tune architecture, training data, augmentations or thresholds from detector results on this set."
+}

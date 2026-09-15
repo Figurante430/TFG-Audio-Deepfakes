@@ -1,0 +1,60 @@
+﻿path,label,prob_fake,generator,speaker_id,prediction_calibrated,prediction_05,threshold_calibrated,seed,held_out_speaker
+data_normalized/real/gonzalo/Gonzalo_ (4).wav,0,0.469970703125,real,gonzalo,0,0,0.99609375,2026,gonzalo
+data_normalized/real/gonzalo/Gonzalo_ (5).wav,0,1.7881393432617188e-07,real,gonzalo,0,0,0.99609375,2026,gonzalo
+data_normalized/real/gonzalo/Gonzalo_ (12).wav,0,3.039836883544922e-06,real,gonzalo,0,0,0.99609375,2026,gonzalo
+data_normalized/real/gonzalo/Gonzalo_ (14).wav,0,0.00010150671005249023,real,gonzalo,0,0,0.99609375,2026,gonzalo
+data_normalized/real/gonzalo/Gonzalo_ (15).wav,0,9.5367431640625e-07,real,gonzalo,0,0,0.99609375,2026,gonzalo
+data_normalized/real/gonzalo/Gonzalo_ (18).wav,0,7.569789886474609e-06,real,gonzalo,0,0,0.99609375,2026,gonzalo
+data_normalized/real/gonzalo/Gonzalo_ (29).wav,0,0.00035691261291503906,real,gonzalo,0,0,0.99609375,2026,gonzalo
+data_normalized/real/gonzalo/Gonzalo_ (32).wav,0,0.00391387939453125,real,gonzalo,0,0,0.99609375,2026,gonzalo
+data_normalized/real/gonzalo/Gonzalo_ (36).wav,0,1.0728836059570312e-06,real,gonzalo,0,0,0.99609375,2026,gonzalo
+data_normalized/tts/confucius4/004_ref1.wav,1,1.0,confucius4,gonzalo,1,1,0.99609375,2026,gonzalo
+data_normalized/tts/confucius4/005_ref1.wav,1,1.0,confucius4,gonzalo,1,1,0.99609375,2026,gonzalo
+data_normalized/tts/confucius4/012_ref1.wav,1,1.0,confucius4,gonzalo,1,1,0.99609375,2026,gonzalo
+data_normalized/tts/confucius4/014_ref1.wav,1,1.0,confucius4,gonzalo,1,1,0.99609375,2026,gonzalo
+data_normalized/tts/confucius4/015_ref1.wav,1,1.0,confucius4,gonzalo,1,1,0.99609375,2026,gonzalo
+data_normalized/tts/confucius4/018_ref1.wav,1,1.0,confucius4,gonzalo,1,1,0.99609375,2026,gonzalo
+data_normalized/tts/confucius4/029_ref1.wav,1,1.0,confucius4,gonzalo,1,1,0.99609375,2026,gonzalo
+data_normalized/tts/confucius4/032_ref1.wav,1,1.0,confucius4,gonzalo,1,1,0.99609375,2026,gonzalo
+data_normalized/tts/confucius4/036_ref1.wav,1,1.0,confucius4,gonzalo,1,1,0.99609375,2026,gonzalo
+data_normalized/tts/cosyvoice/004_ref1.wav,1,1.0,cosyvoice,gonzalo,1,1,0.99609375,2026,gonzalo
+data_normalized/tts/cosyvoice/005_ref1.wav,1,1.0,cosyvoice,gonzalo,1,1,0.99609375,2026,gonzalo
+data_normalized/tts/cosyvoice/012_ref1.wav,1,1.0,cosyvoice,gonzalo,1,1,0.99609375,2026,gonzalo
+data_normalized/tts/cosyvoice/014_ref1.wav,1,1.0,cosyvoice,gonzalo,1,1,0.99609375,2026,gonzalo
+data_normalized/tts/cosyvoice/015_ref1.wav,1,1.0,cosyvoice,gonzalo,1,1,0.99609375,2026,gonzalo
+data_normalized/tts/cosyvoice/018_ref1.wav,1,1.0,cosyvoice,gonzalo,1,1,0.99609375,2026,gonzalo
+data_normalized/tts/cosyvoice/029_ref1.wav,1,1.0,cosyvoice,gonzalo,1,1,0.99609375,2026,gonzalo
+data_normalized/tts/cosyvoice/032_ref1.wav,1,1.0,cosyvoice,gonzalo,1,1,0.99609375,2026,gonzalo
+data_normalized/tts/cosyvoice/036_ref1.wav,1,1.0,cosyvoice,gonzalo,1,1,0.99609375,2026,gonzalo
+data_normalized/tts/openVoice/004_ref1.wav,1,1.0,openvoice,gonzalo,1,1,0.99609375,2026,gonzalo
+data_normalized/tts/openVoice/005_ref1.wav,1,1.0,openvoice,gonzalo,1,1,0.99609375,2026,gonzalo
+data_normalized/tts/openVoice/012_ref1.wav,1,1.0,openvoice,gonzalo,1,1,0.99609375,2026,gonzalo
+data_normalized/tts/openVoice/014_ref1.wav,1,1.0,openvoice,gonzalo,1,1,0.99609375,2026,gonzalo
+data_normalized/tts/openVoice/015_ref1.wav,1,1.0,openvoice,gonzalo,1,1,0.99609375,2026,gonzalo
+data_normalized/tts/openVoice/018_ref1.wav,1,1.0,openvoice,gonzalo,1,1,0.99609375,2026,gonzalo
+data_normalized/tts/openVoice/029_ref1.wav,1,1.0,openvoice,gonzalo,1,1,0.99609375,2026,gonzalo
+data_normalized/tts/openVoice/032_ref1.wav,1,1.0,openvoice,gonzalo,1,1,0.99609375,2026,gonzalo
+data_normalized/tts/openVoice/036_ref1.wav,1,1.0,openvoice,gonzalo,1,1,0.99609375,2026,gonzalo
+data_normalized/tts/qwen/004_ref1.wav,1,1.0,qwen,gonzalo,1,1,0.99609375,2026,gonzalo
+data_normalized/tts/qwen/005_ref1.wav,1,1.0,qwen,gonzalo,1,1,0.99609375,2026,gonzalo
+data_normalized/tts/qwen/012_ref1.wav,1,1.0,qwen,gonzalo,1,1,0.99609375,2026,gonzalo
+data_normalized/tts/qwen/014_ref1.wav,1,1.0,qwen,gonzalo,1,1,0.99609375,2026,gonzalo
+data_normalized/tts/qwen/015_ref1.wav,1,1.0,qwen,gonzalo,1,1,0.99609375,2026,gonzalo
+data_normalized/tts/qwen/018_ref1.wav,1,1.0,qwen,gonzalo,1,1,0.99609375,2026,gonzalo
+data_normalized/tts/qwen/029_ref1.wav,1,1.0,qwen,gonzalo,1,1,0.99609375,2026,gonzalo
+data_normalized/tts/qwen/032_ref1.wav,1,1.0,qwen,gonzalo,1,1,0.99609375,2026,gonzalo
+data_normalized/tts/qwen/036_ref1.wav,1,1.0,qwen,gonzalo,1,1,0.99609375,2026,gonzalo
+data_normalized/tts/voxcpm2/004_ref1.wav,1,1.0,voxcpm2,gonzalo,1,1,0.99609375,2026,gonzalo
+data_normalized/tts/voxcpm2/005_ref1.wav,1,1.0,voxcpm2,gonzalo,1,1,0.99609375,2026,gonzalo
+data_normalized/tts/voxcpm2/012_ref1.wav,1,1.0,voxcpm2,gonzalo,1,1,0.99609375,2026,gonzalo
+data_normalized/tts/voxcpm2/014_ref1.wav,1,1.0,voxcpm2,gonzalo,1,1,0.99609375,2026,gonzalo
+data_normalized/tts/voxcpm2/015_ref1.wav,1,1.0,voxcpm2,gonzalo,1,1,0.99609375,2026,gonzalo
+data_normalized/tts/voxcpm2/018_ref1.wav,1,1.0,voxcpm2,gonzalo,1,1,0.99609375,2026,gonzalo
+data_normalized/tts/voxcpm2/029_ref1.wav,1,1.0,voxcpm2,gonzalo,1,1,0.99609375,2026,gonzalo
+data_normalized/tts/voxcpm2/032_ref1.wav,1,1.0,voxcpm2,gonzalo,1,1,0.99609375,2026,gonzalo
+data_normalized/tts/voxcpm2/036_ref1.wav,1,1.0,voxcpm2,gonzalo,1,1,0.99609375,2026,gonzalo
+data_normalized/sts/knnvc/168_ref5.wav,1,1.0,knnvc,gonzalo,1,1,0.99609375,2026,gonzalo
+data_normalized/sts/knnvc/177_ref5.wav,1,1.0,knnvc,gonzalo,1,1,0.99609375,2026,gonzalo
+data_normalized/sts/knnvc/183_ref5.wav,1,1.0,knnvc,gonzalo,1,1,0.99609375,2026,gonzalo
+data_normalized/sts/knnvc/185_ref5.wav,1,1.0,knnvc,gonzalo,1,1,0.99609375,2026,gonzalo
+data_normalized/sts/knnvc/189_ref5.wav,1,1.0,knnvc,gonzalo,1,1,0.99609375,2026,gonzalo

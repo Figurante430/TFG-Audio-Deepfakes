@@ -1,0 +1,81 @@
+﻿path,label,prediction,prob_fake,generator,speaker_id
+data_normalized/real/gonzalo/Gonzalo_ (4).wav,0,0,0.00995815172791481,real,gonzalo
+data_normalized/real/gonzalo/Gonzalo_ (5).wav,0,0,0.000260945875197649,real,gonzalo
+data_normalized/real/gonzalo/Gonzalo_ (12).wav,0,0,0.0009314034832641482,real,gonzalo
+data_normalized/real/gonzalo/Gonzalo_ (14).wav,0,0,0.0004221461422275752,real,gonzalo
+data_normalized/real/gonzalo/Gonzalo_ (15).wav,0,0,1.9580595107981935e-05,real,gonzalo
+data_normalized/real/gonzalo/Gonzalo_ (18).wav,0,0,6.445524195441976e-05,real,gonzalo
+data_normalized/real/gonzalo/Gonzalo_ (29).wav,0,0,0.0002415110357105732,real,gonzalo
+data_normalized/real/gonzalo/Gonzalo_ (32).wav,0,0,0.0004829670942854136,real,gonzalo
+data_normalized/real/gonzalo/Gonzalo_ (36).wav,0,0,0.00205199490301311,real,gonzalo
+data_normalized/real/mario/Mario_ (15).wav,0,0,0.0002708639367483556,real,mario
+data_normalized/real/mario/Mario_ (30).wav,0,0,0.020214514806866646,real,mario
+data_normalized/real/mario/Mario_ (40).wav,0,0,0.046317070722579956,real,mario
+data_normalized/real/marta/Marta_ (4).wav,0,0,0.22303906083106995,real,marta
+data_normalized/real/marta/Marta_ (5).wav,0,0,0.0019419952295720577,real,marta
+data_normalized/real/marta/Marta_ (12).wav,0,0,0.002000691369175911,real,marta
+data_normalized/real/marta/Marta_ (14).wav,0,0,0.0009166394011117518,real,marta
+data_normalized/real/marta/Marta_ (15).wav,0,0,0.00028082128847017884,real,marta
+data_normalized/real/marta/Marta_ (18).wav,0,0,0.00026506444555707276,real,marta
+data_normalized/real/marta/Marta_ (29).wav,0,0,0.0067482804879546165,real,marta
+data_normalized/real/marta/Marta_ (32).wav,0,0,0.011819272302091122,real,marta
+data_normalized/real/marta/Marta_ (36).wav,0,0,0.0009286892018280923,real,marta
+data_normalized/real/noelia/Noe_ (4).wav,0,0,0.0009438935085199773,real,noelia
+data_normalized/real/noelia/Noe_ (5).wav,0,0,6.3272200350184e-05,real,noelia
+data_normalized/real/noelia/Noe_ (12).wav,0,0,0.00019388474174775183,real,noelia
+data_normalized/real/noelia/Noe_ (14).wav,0,0,0.004820949397981167,real,noelia
+data_normalized/real/noelia/Noe_ (15).wav,0,0,0.0007145933923311532,real,noelia
+data_normalized/real/noelia/Noe_ (18).wav,0,0,0.00037357848486863077,real,noelia
+data_normalized/real/noelia/Noe_ (29).wav,0,0,0.0002806612174026668,real,noelia
+data_normalized/real/noelia/Noe_ (32).wav,0,0,9.039435826707631e-05,real,noelia
+data_normalized/real/noelia/Noe_ (36).wav,0,0,0.029365364462137222,real,noelia
+data_normalized/real/rober/Rober_ (4).wav,0,0,0.00046119591570459306,real,rober
+data_normalized/real/rober/Rober_ (5).wav,0,0,1.9614908524090424e-05,real,rober
+data_normalized/real/rober/Rober_ (12).wav,0,0,0.0007379923481494188,real,rober
+data_normalized/real/rober/Rober_ (14).wav,0,0,0.06190234795212746,real,rober
+data_normalized/real/rober/Rober_ (15).wav,0,0,6.110160029493272e-05,real,rober
+data_normalized/real/rober/Rober_ (18).wav,0,0,6.886567007313715e-06,real,rober
+data_normalized/real/rober/Rober_ (29).wav,0,0,0.13972555100917816,real,rober
+data_normalized/real/rober/Rober_ (32).wav,0,0,0.0002535232633817941,real,rober
+data_normalized/real/rober/Rober_ (36).wav,0,0,0.001569758984260261,real,rober
+data_normalized/real/samu/Samu_04.wav,0,0,0.0038237879052758217,real,samu
+data_normalized/real/samu/Samu_05.wav,0,0,0.00018617107707541436,real,samu
+data_normalized/real/samu/Samu_12.wav,0,0,0.00013626586587633938,real,samu
+data_normalized/real/samu/Samu_15.wav,0,0,3.1246580323163187e-10,real,samu
+data_normalized/real/samu/Samu_16.wav,0,0,1.2617983102813923e-08,real,samu
+data_normalized/real/samu/Samu_19.wav,0,0,0.003938984591513872,real,samu
+data_normalized/real/samu/Samu_32.wav,0,0,4.8292837163899094e-05,real,samu
+data_normalized/real/samu/Samu_36.wav,0,0,0.0003912359243258834,real,samu
+data_normalized/sts/knnvc/004_ref1.wav,1,1,0.9999059438705444,knnvc,marta
+data_normalized/sts/knnvc/005_ref1.wav,1,1,0.9999926090240479,knnvc,marta
+data_normalized/sts/knnvc/012_ref1.wav,1,1,0.9999889135360718,knnvc,marta
+data_normalized/sts/knnvc/014_ref1.wav,1,1,0.999826967716217,knnvc,marta
+data_normalized/sts/knnvc/015_ref1.wav,1,1,0.9999923706054688,knnvc,marta
+data_normalized/sts/knnvc/018_ref1.wav,1,1,0.999998927116394,knnvc,marta
+data_normalized/sts/knnvc/029_ref1.wav,1,1,0.9999980926513672,knnvc,marta
+data_normalized/sts/knnvc/032_ref1.wav,1,1,0.9999872446060181,knnvc,marta
+data_normalized/sts/knnvc/036_ref1.wav,1,1,0.9999967813491821,knnvc,marta
+data_normalized/sts/knnvc/049_ref2.wav,1,1,0.9999984502792358,knnvc,noelia
+data_normalized/sts/knnvc/055_ref2.wav,1,1,0.9999939203262329,knnvc,noelia
+data_normalized/sts/knnvc/057_ref2.wav,1,1,0.9999896287918091,knnvc,noelia
+data_normalized/sts/knnvc/077_ref2.wav,1,1,0.9999995231628418,knnvc,noelia
+data_normalized/sts/knnvc/082_ref3.wav,1,1,0.9999946355819702,knnvc,rober
+data_normalized/sts/knnvc/095_ref3.wav,1,1,0.9999979734420776,knnvc,rober
+data_normalized/sts/knnvc/097_ref3.wav,1,1,0.9999998807907104,knnvc,rober
+data_normalized/sts/knnvc/099_ref3.wav,1,1,0.9999977350234985,knnvc,rober
+data_normalized/sts/knnvc/103_ref3.wav,1,1,0.9999986886978149,knnvc,rober
+data_normalized/sts/knnvc/108_ref3.wav,1,1,0.999998927116394,knnvc,rober
+data_normalized/sts/knnvc/109_ref3.wav,1,1,0.9999954700469971,knnvc,rober
+data_normalized/sts/knnvc/110_ref3.wav,1,1,0.9999988079071045,knnvc,rober
+data_normalized/sts/knnvc/121_ref4.wav,1,1,0.9999994039535522,knnvc,samu
+data_normalized/sts/knnvc/124_ref4.wav,1,1,0.9999984502792358,knnvc,samu
+data_normalized/sts/knnvc/138_ref4.wav,1,1,1.0,knnvc,samu
+data_normalized/sts/knnvc/142_ref4.wav,1,1,1.0,knnvc,samu
+data_normalized/sts/knnvc/143_ref4.wav,1,1,0.9999994039535522,knnvc,samu
+data_normalized/sts/knnvc/158_ref4.wav,1,1,1.0,knnvc,samu
+data_normalized/sts/knnvc/159_ref4.wav,1,1,0.999983549118042,knnvc,samu
+data_normalized/sts/knnvc/168_ref5.wav,1,1,0.9999996423721313,knnvc,gonzalo
+data_normalized/sts/knnvc/177_ref5.wav,1,1,0.9999998807907104,knnvc,gonzalo
+data_normalized/sts/knnvc/183_ref5.wav,1,1,0.9999997615814209,knnvc,gonzalo
+data_normalized/sts/knnvc/185_ref5.wav,1,1,0.9999954700469971,knnvc,gonzalo
+data_normalized/sts/knnvc/189_ref5.wav,1,1,0.9999983310699463,knnvc,gonzalo

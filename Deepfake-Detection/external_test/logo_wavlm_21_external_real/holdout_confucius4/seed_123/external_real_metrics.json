@@ -1,0 +1,15 @@
+{
+  "n": 100,
+  "tn": 80,
+  "fp": 20,
+  "specificity": 0.8,
+  "fpr": 0.2,
+  "prob_fake_mean": 0.2505379943417243,
+  "prob_fake_median": 0.0008158297860063612,
+  "prob_fake_min": 5.813750592054134e-10,
+  "prob_fake_max": 0.9997918009757996,
+  "held_out_generator": "confucius4",
+  "seed": 123,
+  "threshold": 0.79345703125,
+  "checkpoint": "C:\\Users\\gonza\\TFG\\Deepfake-Detection\\experiments\\logo_wavlm_3seeds\\holdout_confucius4\\seed_123\\best_model.pt"
+}

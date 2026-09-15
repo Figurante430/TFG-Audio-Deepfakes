@@ -1,0 +1,37 @@
+{
+  "held_out_generator": "confucius4",
+  "best_epoch": 2,
+  "val_f1": 0.9940828402366864,
+  "calibrated_threshold": 0.6209192276000977,
+  "n_train": 990,
+  "n_val": 200,
+  "n_test": 80,
+  "threshold_0.5": {
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "specificity": 1.0,
+    "f1": 1.0,
+    "tp": 33,
+    "tn": 47,
+    "fp": 0,
+    "fn": 0,
+    "roc_auc": 1.0,
+    "eer": 0.0,
+    "eer_threshold": 0.9847481846809387
+  },
+  "threshold_calibrated": {
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "specificity": 1.0,
+    "f1": 1.0,
+    "tp": 33,
+    "tn": 47,
+    "fp": 0,
+    "fn": 0,
+    "roc_auc": 1.0,
+    "eer": 0.0,
+    "eer_threshold": 0.9847481846809387
+  }
+}

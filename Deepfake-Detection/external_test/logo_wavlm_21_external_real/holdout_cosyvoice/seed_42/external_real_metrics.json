@@ -1,0 +1,15 @@
+{
+  "n": 100,
+  "tn": 82,
+  "fp": 18,
+  "specificity": 0.82,
+  "fpr": 0.18,
+  "prob_fake_mean": 0.24085967090854965,
+  "prob_fake_median": 0.0012074933620169759,
+  "prob_fake_min": 2.1724400056655213e-10,
+  "prob_fake_max": 0.9999780654907227,
+  "held_out_generator": "cosyvoice",
+  "seed": 42,
+  "threshold": 0.939453125,
+  "checkpoint": "C:\\Users\\gonza\\TFG\\Deepfake-Detection\\experiments\\logo_wavlm_3seeds\\holdout_cosyvoice\\seed_42\\best_model.pt"
+}

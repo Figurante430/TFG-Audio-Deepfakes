@@ -1,0 +1,201 @@
+﻿path,label,category,generator,reference_id,reference_file,text_id,text,seed,status
+data/tts/qwen/001_ref1.wav,1,tts,qwen,Gonzalo_referencia,Gonzalo_referencia.wav,txt_001,"Esta mañana, el equipo revisó los resultados antes de tomar una decisión definitiva.",20260909,ok
+data/tts/qwen/002_ref1.wav,1,tts,qwen,Gonzalo_referencia,Gonzalo_referencia.wav,txt_002,"Esta mañana, la biblioteca permaneció abierta hasta que terminó la última actividad.",20260910,ok
+data/tts/qwen/003_ref1.wav,1,tts,qwen,Gonzalo_referencia,Gonzalo_referencia.wav,txt_003,"Esta mañana, una persona preguntó por la dirección correcta y recibió una explicación clara.",20260911,ok
+data/tts/qwen/004_ref1.wav,1,tts,qwen,Gonzalo_referencia,Gonzalo_referencia.wav,txt_004,"Esta mañana, el ordenador guardó todos los documentos sin mostrar ningún mensaje de error.",20260912,ok
+data/tts/qwen/005_ref1.wav,1,tts,qwen,Gonzalo_referencia,Gonzalo_referencia.wav,txt_005,"Esta mañana, varios estudiantes comentaron las noticias y compararon diferentes puntos de vista.",20260913,ok
+data/tts/qwen/006_ref1.wav,1,tts,qwen,Gonzalo_referencia,Gonzalo_referencia.wav,txt_006,"Esta mañana, la cafetería preparó café, té y algunas tostadas para quienes acababan de llegar.",20260914,ok
+data/tts/qwen/007_ref1.wav,1,tts,qwen,Gonzalo_referencia,Gonzalo_referencia.wav,txt_007,"Esta mañana, el informe explicó los cambios principales con ejemplos sencillos y datos concretos.",20260915,ok
+data/tts/qwen/008_ref1.wav,1,tts,qwen,Gonzalo_referencia,Gonzalo_referencia.wav,txt_008,"Esta mañana, una llamada inesperada cambió los planes previstos para el resto de la jornada.",20260916,ok
+data/tts/qwen/009_ref1.wav,1,tts,qwen,Gonzalo_referencia,Gonzalo_referencia.wav,txt_009,"Esta mañana, el tren salió con puntualidad y llegó al destino pocos minutos antes de lo esperado.",20260917,ok
+data/tts/qwen/010_ref1.wav,1,tts,qwen,Gonzalo_referencia,Gonzalo_referencia.wav,txt_010,"Esta mañana, la conversación terminó con una pregunta breve sobre los próximos pasos del proyecto.",20260918,ok
+data/tts/qwen/011_ref1.wav,1,tts,qwen,Gonzalo_referencia,Gonzalo_referencia.wav,txt_011,"Ayer por la tarde, el equipo revisó los resultados antes de tomar una decisión definitiva.",20260919,ok
+data/tts/qwen/012_ref1.wav,1,tts,qwen,Gonzalo_referencia,Gonzalo_referencia.wav,txt_012,"Ayer por la tarde, la biblioteca permaneció abierta hasta que terminó la última actividad.",20260920,ok
+data/tts/qwen/013_ref1.wav,1,tts,qwen,Gonzalo_referencia,Gonzalo_referencia.wav,txt_013,"Ayer por la tarde, una persona preguntó por la dirección correcta y recibió una explicación clara.",20260921,ok
+data/tts/qwen/014_ref1.wav,1,tts,qwen,Gonzalo_referencia,Gonzalo_referencia.wav,txt_014,"Ayer por la tarde, el ordenador guardó todos los documentos sin mostrar ningún mensaje de error.",20260922,ok
+data/tts/qwen/015_ref1.wav,1,tts,qwen,Gonzalo_referencia,Gonzalo_referencia.wav,txt_015,"Ayer por la tarde, varios estudiantes comentaron las noticias y compararon diferentes puntos de vista.",20260923,ok
+data/tts/qwen/016_ref1.wav,1,tts,qwen,Gonzalo_referencia,Gonzalo_referencia.wav,txt_016,"Ayer por la tarde, la cafetería preparó café, té y algunas tostadas para quienes acababan de llegar.",20260924,ok
+data/tts/qwen/017_ref1.wav,1,tts,qwen,Gonzalo_referencia,Gonzalo_referencia.wav,txt_017,"Ayer por la tarde, el informe explicó los cambios principales con ejemplos sencillos y datos concretos.",20260925,ok
+data/tts/qwen/018_ref1.wav,1,tts,qwen,Gonzalo_referencia,Gonzalo_referencia.wav,txt_018,"Ayer por la tarde, una llamada inesperada cambió los planes previstos para el resto de la jornada.",20260926,ok
+data/tts/qwen/019_ref1.wav,1,tts,qwen,Gonzalo_referencia,Gonzalo_referencia.wav,txt_019,"Ayer por la tarde, el tren salió con puntualidad y llegó al destino pocos minutos antes de lo esperado.",20260927,ok
+data/tts/qwen/020_ref1.wav,1,tts,qwen,Gonzalo_referencia,Gonzalo_referencia.wav,txt_020,"Ayer por la tarde, la conversación terminó con una pregunta breve sobre los próximos pasos del proyecto.",20260928,ok
+data/tts/qwen/021_ref1.wav,1,tts,qwen,Gonzalo_referencia,Gonzalo_referencia.wav,txt_021,"Al terminar la clase, el equipo revisó los resultados antes de tomar una decisión definitiva.",20260929,ok
+data/tts/qwen/022_ref1.wav,1,tts,qwen,Gonzalo_referencia,Gonzalo_referencia.wav,txt_022,"Al terminar la clase, la biblioteca permaneció abierta hasta que terminó la última actividad.",20260930,ok
+data/tts/qwen/023_ref1.wav,1,tts,qwen,Gonzalo_referencia,Gonzalo_referencia.wav,txt_023,"Al terminar la clase, una persona preguntó por la dirección correcta y recibió una explicación clara.",20260931,ok
+data/tts/qwen/024_ref1.wav,1,tts,qwen,Gonzalo_referencia,Gonzalo_referencia.wav,txt_024,"Al terminar la clase, el ordenador guardó todos los documentos sin mostrar ningún mensaje de error.",20260932,ok
+data/tts/qwen/025_ref1.wav,1,tts,qwen,Gonzalo_referencia,Gonzalo_referencia.wav,txt_025,"Al terminar la clase, varios estudiantes comentaron las noticias y compararon diferentes puntos de vista.",20260933,ok
+data/tts/qwen/026_ref1.wav,1,tts,qwen,Gonzalo_referencia,Gonzalo_referencia.wav,txt_026,"Al terminar la clase, la cafetería preparó café, té y algunas tostadas para quienes acababan de llegar.",20260934,ok
+data/tts/qwen/027_ref1.wav,1,tts,qwen,Gonzalo_referencia,Gonzalo_referencia.wav,txt_027,"Al terminar la clase, el informe explicó los cambios principales con ejemplos sencillos y datos concretos.",20260935,ok
+data/tts/qwen/028_ref1.wav,1,tts,qwen,Gonzalo_referencia,Gonzalo_referencia.wav,txt_028,"Al terminar la clase, una llamada inesperada cambió los planes previstos para el resto de la jornada.",20260936,ok
+data/tts/qwen/029_ref1.wav,1,tts,qwen,Gonzalo_referencia,Gonzalo_referencia.wav,txt_029,"Al terminar la clase, el tren salió con puntualidad y llegó al destino pocos minutos antes de lo esperado.",20260937,ok
+data/tts/qwen/030_ref1.wav,1,tts,qwen,Gonzalo_referencia,Gonzalo_referencia.wav,txt_030,"Al terminar la clase, la conversación terminó con una pregunta breve sobre los próximos pasos del proyecto.",20260938,ok
+data/tts/qwen/031_ref1.wav,1,tts,qwen,Gonzalo_referencia,Gonzalo_referencia.wav,txt_031,"Durante el fin de semana, el equipo revisó los resultados antes de tomar una decisión definitiva.",20260939,ok
+data/tts/qwen/032_ref1.wav,1,tts,qwen,Gonzalo_referencia,Gonzalo_referencia.wav,txt_032,"Durante el fin de semana, la biblioteca permaneció abierta hasta que terminó la última actividad.",20260940,ok
+data/tts/qwen/033_ref1.wav,1,tts,qwen,Gonzalo_referencia,Gonzalo_referencia.wav,txt_033,"Durante el fin de semana, una persona preguntó por la dirección correcta y recibió una explicación clara.",20260941,ok
+data/tts/qwen/034_ref1.wav,1,tts,qwen,Gonzalo_referencia,Gonzalo_referencia.wav,txt_034,"Durante el fin de semana, el ordenador guardó todos los documentos sin mostrar ningún mensaje de error.",20260942,ok
+data/tts/qwen/035_ref1.wav,1,tts,qwen,Gonzalo_referencia,Gonzalo_referencia.wav,txt_035,"Durante el fin de semana, varios estudiantes comentaron las noticias y compararon diferentes puntos de vista.",20260943,ok
+data/tts/qwen/036_ref1.wav,1,tts,qwen,Gonzalo_referencia,Gonzalo_referencia.wav,txt_036,"Durante el fin de semana, la cafetería preparó café, té y algunas tostadas para quienes acababan de llegar.",20260944,ok
+data/tts/qwen/037_ref1.wav,1,tts,qwen,Gonzalo_referencia,Gonzalo_referencia.wav,txt_037,"Durante el fin de semana, el informe explicó los cambios principales con ejemplos sencillos y datos concretos.",20260945,ok
+data/tts/qwen/038_ref1.wav,1,tts,qwen,Gonzalo_referencia,Gonzalo_referencia.wav,txt_038,"Durante el fin de semana, una llamada inesperada cambió los planes previstos para el resto de la jornada.",20260946,ok
+data/tts/qwen/039_ref1.wav,1,tts,qwen,Gonzalo_referencia,Gonzalo_referencia.wav,txt_039,"Durante el fin de semana, el tren salió con puntualidad y llegó al destino pocos minutos antes de lo esperado.",20260947,ok
+data/tts/qwen/040_ref1.wav,1,tts,qwen,Gonzalo_referencia,Gonzalo_referencia.wav,txt_040,"Durante el fin de semana, la conversación terminó con una pregunta breve sobre los próximos pasos del proyecto.",20260948,ok
+data/tts/qwen/041_ref2.wav,1,tts,qwen,Marta_ref,Marta_ref.wav,txt_041,"Antes de salir de casa, el equipo revisó los resultados antes de tomar una decisión definitiva.",20260949,ok
+data/tts/qwen/042_ref2.wav,1,tts,qwen,Marta_ref,Marta_ref.wav,txt_042,"Antes de salir de casa, la biblioteca permaneció abierta hasta que terminó la última actividad.",20260950,ok
+data/tts/qwen/043_ref2.wav,1,tts,qwen,Marta_ref,Marta_ref.wav,txt_043,"Antes de salir de casa, una persona preguntó por la dirección correcta y recibió una explicación clara.",20260951,ok
+data/tts/qwen/044_ref2.wav,1,tts,qwen,Marta_ref,Marta_ref.wav,txt_044,"Antes de salir de casa, el ordenador guardó todos los documentos sin mostrar ningún mensaje de error.",20260952,ok
+data/tts/qwen/045_ref2.wav,1,tts,qwen,Marta_ref,Marta_ref.wav,txt_045,"Antes de salir de casa, varios estudiantes comentaron las noticias y compararon diferentes puntos de vista.",20260953,ok
+data/tts/qwen/046_ref2.wav,1,tts,qwen,Marta_ref,Marta_ref.wav,txt_046,"Antes de salir de casa, la cafetería preparó café, té y algunas tostadas para quienes acababan de llegar.",20260954,ok
+data/tts/qwen/047_ref2.wav,1,tts,qwen,Marta_ref,Marta_ref.wav,txt_047,"Antes de salir de casa, el informe explicó los cambios principales con ejemplos sencillos y datos concretos.",20260955,ok
+data/tts/qwen/048_ref2.wav,1,tts,qwen,Marta_ref,Marta_ref.wav,txt_048,"Antes de salir de casa, una llamada inesperada cambió los planes previstos para el resto de la jornada.",20260956,ok
+data/tts/qwen/049_ref2.wav,1,tts,qwen,Marta_ref,Marta_ref.wav,txt_049,"Antes de salir de casa, el tren salió con puntualidad y llegó al destino pocos minutos antes de lo esperado.",20260957,ok
+data/tts/qwen/050_ref2.wav,1,tts,qwen,Marta_ref,Marta_ref.wav,txt_050,"Antes de salir de casa, la conversación terminó con una pregunta breve sobre los próximos pasos del proyecto.",20260958,ok
+data/tts/qwen/051_ref2.wav,1,tts,qwen,Marta_ref,Marta_ref.wav,txt_051,"Después de comer, el equipo revisó los resultados antes de tomar una decisión definitiva.",20260959,ok
+data/tts/qwen/052_ref2.wav,1,tts,qwen,Marta_ref,Marta_ref.wav,txt_052,"Después de comer, la biblioteca permaneció abierta hasta que terminó la última actividad.",20260960,ok
+data/tts/qwen/053_ref2.wav,1,tts,qwen,Marta_ref,Marta_ref.wav,txt_053,"Después de comer, una persona preguntó por la dirección correcta y recibió una explicación clara.",20260961,ok
+data/tts/qwen/054_ref2.wav,1,tts,qwen,Marta_ref,Marta_ref.wav,txt_054,"Después de comer, el ordenador guardó todos los documentos sin mostrar ningún mensaje de error.",20260962,ok
+data/tts/qwen/055_ref2.wav,1,tts,qwen,Marta_ref,Marta_ref.wav,txt_055,"Después de comer, varios estudiantes comentaron las noticias y compararon diferentes puntos de vista.",20260963,ok
+data/tts/qwen/056_ref2.wav,1,tts,qwen,Marta_ref,Marta_ref.wav,txt_056,"Después de comer, la cafetería preparó café, té y algunas tostadas para quienes acababan de llegar.",20260964,ok
+data/tts/qwen/057_ref2.wav,1,tts,qwen,Marta_ref,Marta_ref.wav,txt_057,"Después de comer, el informe explicó los cambios principales con ejemplos sencillos y datos concretos.",20260965,ok
+data/tts/qwen/058_ref2.wav,1,tts,qwen,Marta_ref,Marta_ref.wav,txt_058,"Después de comer, una llamada inesperada cambió los planes previstos para el resto de la jornada.",20260966,ok
+data/tts/qwen/059_ref2.wav,1,tts,qwen,Marta_ref,Marta_ref.wav,txt_059,"Después de comer, el tren salió con puntualidad y llegó al destino pocos minutos antes de lo esperado.",20260967,ok
+data/tts/qwen/060_ref2.wav,1,tts,qwen,Marta_ref,Marta_ref.wav,txt_060,"Después de comer, la conversación terminó con una pregunta breve sobre los próximos pasos del proyecto.",20260968,ok
+data/tts/qwen/061_ref2.wav,1,tts,qwen,Marta_ref,Marta_ref.wav,txt_061,"Mientras esperaba el autobús, el equipo revisó los resultados antes de tomar una decisión definitiva.",20260969,ok
+data/tts/qwen/062_ref2.wav,1,tts,qwen,Marta_ref,Marta_ref.wav,txt_062,"Mientras esperaba el autobús, la biblioteca permaneció abierta hasta que terminó la última actividad.",20260970,ok
+data/tts/qwen/063_ref2.wav,1,tts,qwen,Marta_ref,Marta_ref.wav,txt_063,"Mientras esperaba el autobús, una persona preguntó por la dirección correcta y recibió una explicación clara.",20260971,ok
+data/tts/qwen/064_ref2.wav,1,tts,qwen,Marta_ref,Marta_ref.wav,txt_064,"Mientras esperaba el autobús, el ordenador guardó todos los documentos sin mostrar ningún mensaje de error.",20260972,ok
+data/tts/qwen/065_ref2.wav,1,tts,qwen,Marta_ref,Marta_ref.wav,txt_065,"Mientras esperaba el autobús, varios estudiantes comentaron las noticias y compararon diferentes puntos de vista.",20260973,ok
+data/tts/qwen/066_ref2.wav,1,tts,qwen,Marta_ref,Marta_ref.wav,txt_066,"Mientras esperaba el autobús, la cafetería preparó café, té y algunas tostadas para quienes acababan de llegar.",20260974,ok
+data/tts/qwen/067_ref2.wav,1,tts,qwen,Marta_ref,Marta_ref.wav,txt_067,"Mientras esperaba el autobús, el informe explicó los cambios principales con ejemplos sencillos y datos concretos.",20260975,ok
+data/tts/qwen/068_ref2.wav,1,tts,qwen,Marta_ref,Marta_ref.wav,txt_068,"Mientras esperaba el autobús, una llamada inesperada cambió los planes previstos para el resto de la jornada.",20260976,ok
+data/tts/qwen/069_ref2.wav,1,tts,qwen,Marta_ref,Marta_ref.wav,txt_069,"Mientras esperaba el autobús, el tren salió con puntualidad y llegó al destino pocos minutos antes de lo esperado.",20260977,ok
+data/tts/qwen/070_ref2.wav,1,tts,qwen,Marta_ref,Marta_ref.wav,txt_070,"Mientras esperaba el autobús, la conversación terminó con una pregunta breve sobre los próximos pasos del proyecto.",20260978,ok
+data/tts/qwen/071_ref2.wav,1,tts,qwen,Marta_ref,Marta_ref.wav,txt_071,"Al llegar a la estación, el equipo revisó los resultados antes de tomar una decisión definitiva.",20260979,ok
+data/tts/qwen/072_ref2.wav,1,tts,qwen,Marta_ref,Marta_ref.wav,txt_072,"Al llegar a la estación, la biblioteca permaneció abierta hasta que terminó la última actividad.",20260980,ok
+data/tts/qwen/073_ref2.wav,1,tts,qwen,Marta_ref,Marta_ref.wav,txt_073,"Al llegar a la estación, una persona preguntó por la dirección correcta y recibió una explicación clara.",20260981,ok
+data/tts/qwen/074_ref2.wav,1,tts,qwen,Marta_ref,Marta_ref.wav,txt_074,"Al llegar a la estación, el ordenador guardó todos los documentos sin mostrar ningún mensaje de error.",20260982,ok
+data/tts/qwen/075_ref2.wav,1,tts,qwen,Marta_ref,Marta_ref.wav,txt_075,"Al llegar a la estación, varios estudiantes comentaron las noticias y compararon diferentes puntos de vista.",20260983,ok
+data/tts/qwen/076_ref2.wav,1,tts,qwen,Marta_ref,Marta_ref.wav,txt_076,"Al llegar a la estación, la cafetería preparó café, té y algunas tostadas para quienes acababan de llegar.",20260984,ok
+data/tts/qwen/077_ref2.wav,1,tts,qwen,Marta_ref,Marta_ref.wav,txt_077,"Al llegar a la estación, el informe explicó los cambios principales con ejemplos sencillos y datos concretos.",20260985,ok
+data/tts/qwen/078_ref2.wav,1,tts,qwen,Marta_ref,Marta_ref.wav,txt_078,"Al llegar a la estación, una llamada inesperada cambió los planes previstos para el resto de la jornada.",20260986,ok
+data/tts/qwen/079_ref2.wav,1,tts,qwen,Marta_ref,Marta_ref.wav,txt_079,"Al llegar a la estación, el tren salió con puntualidad y llegó al destino pocos minutos antes de lo esperado.",20260987,ok
+data/tts/qwen/080_ref2.wav,1,tts,qwen,Marta_ref,Marta_ref.wav,txt_080,"Al llegar a la estación, la conversación terminó con una pregunta breve sobre los próximos pasos del proyecto.",20260988,ok
+data/tts/qwen/081_ref3.wav,1,tts,qwen,Noelia_ref,Noelia_ref.wav,txt_081,"En una reunión tranquila, el equipo revisó los resultados antes de tomar una decisión definitiva.",20260989,ok
+data/tts/qwen/082_ref3.wav,1,tts,qwen,Noelia_ref,Noelia_ref.wav,txt_082,"En una reunión tranquila, la biblioteca permaneció abierta hasta que terminó la última actividad.",20260990,ok
+data/tts/qwen/083_ref3.wav,1,tts,qwen,Noelia_ref,Noelia_ref.wav,txt_083,"En una reunión tranquila, una persona preguntó por la dirección correcta y recibió una explicación clara.",20260991,ok
+data/tts/qwen/084_ref3.wav,1,tts,qwen,Noelia_ref,Noelia_ref.wav,txt_084,"En una reunión tranquila, el ordenador guardó todos los documentos sin mostrar ningún mensaje de error.",20260992,ok
+data/tts/qwen/085_ref3.wav,1,tts,qwen,Noelia_ref,Noelia_ref.wav,txt_085,"En una reunión tranquila, varios estudiantes comentaron las noticias y compararon diferentes puntos de vista.",20260993,ok
+data/tts/qwen/086_ref3.wav,1,tts,qwen,Noelia_ref,Noelia_ref.wav,txt_086,"En una reunión tranquila, la cafetería preparó café, té y algunas tostadas para quienes acababan de llegar.",20260994,ok
+data/tts/qwen/087_ref3.wav,1,tts,qwen,Noelia_ref,Noelia_ref.wav,txt_087,"En una reunión tranquila, el informe explicó los cambios principales con ejemplos sencillos y datos concretos.",20260995,ok
+data/tts/qwen/088_ref3.wav,1,tts,qwen,Noelia_ref,Noelia_ref.wav,txt_088,"En una reunión tranquila, una llamada inesperada cambió los planes previstos para el resto de la jornada.",20260996,ok
+data/tts/qwen/089_ref3.wav,1,tts,qwen,Noelia_ref,Noelia_ref.wav,txt_089,"En una reunión tranquila, el tren salió con puntualidad y llegó al destino pocos minutos antes de lo esperado.",20260997,ok
+data/tts/qwen/090_ref3.wav,1,tts,qwen,Noelia_ref,Noelia_ref.wav,txt_090,"En una reunión tranquila, la conversación terminó con una pregunta breve sobre los próximos pasos del proyecto.",20260998,ok
+data/tts/qwen/091_ref3.wav,1,tts,qwen,Noelia_ref,Noelia_ref.wav,txt_091,"Durante una conversación breve, el equipo revisó los resultados antes de tomar una decisión definitiva.",20260999,ok
+data/tts/qwen/092_ref3.wav,1,tts,qwen,Noelia_ref,Noelia_ref.wav,txt_092,"Durante una conversación breve, la biblioteca permaneció abierta hasta que terminó la última actividad.",20261000,ok
+data/tts/qwen/093_ref3.wav,1,tts,qwen,Noelia_ref,Noelia_ref.wav,txt_093,"Durante una conversación breve, una persona preguntó por la dirección correcta y recibió una explicación clara.",20261001,ok
+data/tts/qwen/094_ref3.wav,1,tts,qwen,Noelia_ref,Noelia_ref.wav,txt_094,"Durante una conversación breve, el ordenador guardó todos los documentos sin mostrar ningún mensaje de error.",20261002,ok
+data/tts/qwen/095_ref3.wav,1,tts,qwen,Noelia_ref,Noelia_ref.wav,txt_095,"Durante una conversación breve, varios estudiantes comentaron las noticias y compararon diferentes puntos de vista.",20261003,ok
+data/tts/qwen/096_ref3.wav,1,tts,qwen,Noelia_ref,Noelia_ref.wav,txt_096,"Durante una conversación breve, la cafetería preparó café, té y algunas tostadas para quienes acababan de llegar.",20261004,ok
+data/tts/qwen/097_ref3.wav,1,tts,qwen,Noelia_ref,Noelia_ref.wav,txt_097,"Durante una conversación breve, el informe explicó los cambios principales con ejemplos sencillos y datos concretos.",20261005,ok
+data/tts/qwen/098_ref3.wav,1,tts,qwen,Noelia_ref,Noelia_ref.wav,txt_098,"Durante una conversación breve, una llamada inesperada cambió los planes previstos para el resto de la jornada.",20261006,ok
+data/tts/qwen/099_ref3.wav,1,tts,qwen,Noelia_ref,Noelia_ref.wav,txt_099,"Durante una conversación breve, el tren salió con puntualidad y llegó al destino pocos minutos antes de lo esperado.",20261007,ok
+data/tts/qwen/100_ref3.wav,1,tts,qwen,Noelia_ref,Noelia_ref.wav,txt_100,"Durante una conversación breve, la conversación terminó con una pregunta breve sobre los próximos pasos del proyecto.",20261008,ok
+data/tts/qwen/101_ref3.wav,1,tts,qwen,Noelia_ref,Noelia_ref.wav,txt_101,"A primera hora del día, el equipo revisó los resultados antes de tomar una decisión definitiva.",20261009,ok
+data/tts/qwen/102_ref3.wav,1,tts,qwen,Noelia_ref,Noelia_ref.wav,txt_102,"A primera hora del día, la biblioteca permaneció abierta hasta que terminó la última actividad.",20261010,ok
+data/tts/qwen/103_ref3.wav,1,tts,qwen,Noelia_ref,Noelia_ref.wav,txt_103,"A primera hora del día, una persona preguntó por la dirección correcta y recibió una explicación clara.",20261011,ok
+data/tts/qwen/104_ref3.wav,1,tts,qwen,Noelia_ref,Noelia_ref.wav,txt_104,"A primera hora del día, el ordenador guardó todos los documentos sin mostrar ningún mensaje de error.",20261012,ok
+data/tts/qwen/105_ref3.wav,1,tts,qwen,Noelia_ref,Noelia_ref.wav,txt_105,"A primera hora del día, varios estudiantes comentaron las noticias y compararon diferentes puntos de vista.",20261013,ok
+data/tts/qwen/106_ref3.wav,1,tts,qwen,Noelia_ref,Noelia_ref.wav,txt_106,"A primera hora del día, la cafetería preparó café, té y algunas tostadas para quienes acababan de llegar.",20261014,ok
+data/tts/qwen/107_ref3.wav,1,tts,qwen,Noelia_ref,Noelia_ref.wav,txt_107,"A primera hora del día, el informe explicó los cambios principales con ejemplos sencillos y datos concretos.",20261015,ok
+data/tts/qwen/108_ref3.wav,1,tts,qwen,Noelia_ref,Noelia_ref.wav,txt_108,"A primera hora del día, una llamada inesperada cambió los planes previstos para el resto de la jornada.",20261016,ok
+data/tts/qwen/109_ref3.wav,1,tts,qwen,Noelia_ref,Noelia_ref.wav,txt_109,"A primera hora del día, el tren salió con puntualidad y llegó al destino pocos minutos antes de lo esperado.",20261017,ok
+data/tts/qwen/110_ref3.wav,1,tts,qwen,Noelia_ref,Noelia_ref.wav,txt_110,"A primera hora del día, la conversación terminó con una pregunta breve sobre los próximos pasos del proyecto.",20261018,ok
+data/tts/qwen/111_ref3.wav,1,tts,qwen,Noelia_ref,Noelia_ref.wav,txt_111,"Cuando terminó la lluvia, el equipo revisó los resultados antes de tomar una decisión definitiva.",20261019,ok
+data/tts/qwen/112_ref3.wav,1,tts,qwen,Noelia_ref,Noelia_ref.wav,txt_112,"Cuando terminó la lluvia, la biblioteca permaneció abierta hasta que terminó la última actividad.",20261020,ok
+data/tts/qwen/113_ref3.wav,1,tts,qwen,Noelia_ref,Noelia_ref.wav,txt_113,"Cuando terminó la lluvia, una persona preguntó por la dirección correcta y recibió una explicación clara.",20261021,ok
+data/tts/qwen/114_ref3.wav,1,tts,qwen,Noelia_ref,Noelia_ref.wav,txt_114,"Cuando terminó la lluvia, el ordenador guardó todos los documentos sin mostrar ningún mensaje de error.",20261022,ok
+data/tts/qwen/115_ref3.wav,1,tts,qwen,Noelia_ref,Noelia_ref.wav,txt_115,"Cuando terminó la lluvia, varios estudiantes comentaron las noticias y compararon diferentes puntos de vista.",20261023,ok
+data/tts/qwen/116_ref3.wav,1,tts,qwen,Noelia_ref,Noelia_ref.wav,txt_116,"Cuando terminó la lluvia, la cafetería preparó café, té y algunas tostadas para quienes acababan de llegar.",20261024,ok
+data/tts/qwen/117_ref3.wav,1,tts,qwen,Noelia_ref,Noelia_ref.wav,txt_117,"Cuando terminó la lluvia, el informe explicó los cambios principales con ejemplos sencillos y datos concretos.",20261025,ok
+data/tts/qwen/118_ref3.wav,1,tts,qwen,Noelia_ref,Noelia_ref.wav,txt_118,"Cuando terminó la lluvia, una llamada inesperada cambió los planes previstos para el resto de la jornada.",20261026,ok
+data/tts/qwen/119_ref3.wav,1,tts,qwen,Noelia_ref,Noelia_ref.wav,txt_119,"Cuando terminó la lluvia, el tren salió con puntualidad y llegó al destino pocos minutos antes de lo esperado.",20261027,ok
+data/tts/qwen/120_ref3.wav,1,tts,qwen,Noelia_ref,Noelia_ref.wav,txt_120,"Cuando terminó la lluvia, la conversación terminó con una pregunta breve sobre los próximos pasos del proyecto.",20261028,ok
+data/tts/qwen/121_ref4.wav,1,tts,qwen,Rober_ref,Rober_ref.wav,txt_121,"En el centro de la ciudad, el equipo revisó los resultados antes de tomar una decisión definitiva.",20261029,ok
+data/tts/qwen/122_ref4.wav,1,tts,qwen,Rober_ref,Rober_ref.wav,txt_122,"En el centro de la ciudad, la biblioteca permaneció abierta hasta que terminó la última actividad.",20261030,ok
+data/tts/qwen/123_ref4.wav,1,tts,qwen,Rober_ref,Rober_ref.wav,txt_123,"En el centro de la ciudad, una persona preguntó por la dirección correcta y recibió una explicación clara.",20261031,ok
+data/tts/qwen/124_ref4.wav,1,tts,qwen,Rober_ref,Rober_ref.wav,txt_124,"En el centro de la ciudad, el ordenador guardó todos los documentos sin mostrar ningún mensaje de error.",20261032,ok
+data/tts/qwen/125_ref4.wav,1,tts,qwen,Rober_ref,Rober_ref.wav,txt_125,"En el centro de la ciudad, varios estudiantes comentaron las noticias y compararon diferentes puntos de vista.",20261033,ok
+data/tts/qwen/126_ref4.wav,1,tts,qwen,Rober_ref,Rober_ref.wav,txt_126,"En el centro de la ciudad, la cafetería preparó café, té y algunas tostadas para quienes acababan de llegar.",20261034,ok
+data/tts/qwen/127_ref4.wav,1,tts,qwen,Rober_ref,Rober_ref.wav,txt_127,"En el centro de la ciudad, el informe explicó los cambios principales con ejemplos sencillos y datos concretos.",20261035,ok
+data/tts/qwen/128_ref4.wav,1,tts,qwen,Rober_ref,Rober_ref.wav,txt_128,"En el centro de la ciudad, una llamada inesperada cambió los planes previstos para el resto de la jornada.",20261036,ok
+data/tts/qwen/129_ref4.wav,1,tts,qwen,Rober_ref,Rober_ref.wav,txt_129,"En el centro de la ciudad, el tren salió con puntualidad y llegó al destino pocos minutos antes de lo esperado.",20261037,ok
+data/tts/qwen/130_ref4.wav,1,tts,qwen,Rober_ref,Rober_ref.wav,txt_130,"En el centro de la ciudad, la conversación terminó con una pregunta breve sobre los próximos pasos del proyecto.",20261038,ok
+data/tts/qwen/131_ref4.wav,1,tts,qwen,Rober_ref,Rober_ref.wav,txt_131,"Al volver del trabajo, el equipo revisó los resultados antes de tomar una decisión definitiva.",20261039,ok
+data/tts/qwen/132_ref4.wav,1,tts,qwen,Rober_ref,Rober_ref.wav,txt_132,"Al volver del trabajo, la biblioteca permaneció abierta hasta que terminó la última actividad.",20261040,ok
+data/tts/qwen/133_ref4.wav,1,tts,qwen,Rober_ref,Rober_ref.wav,txt_133,"Al volver del trabajo, una persona preguntó por la dirección correcta y recibió una explicación clara.",20261041,ok
+data/tts/qwen/134_ref4.wav,1,tts,qwen,Rober_ref,Rober_ref.wav,txt_134,"Al volver del trabajo, el ordenador guardó todos los documentos sin mostrar ningún mensaje de error.",20261042,ok
+data/tts/qwen/135_ref4.wav,1,tts,qwen,Rober_ref,Rober_ref.wav,txt_135,"Al volver del trabajo, varios estudiantes comentaron las noticias y compararon diferentes puntos de vista.",20261043,ok
+data/tts/qwen/136_ref4.wav,1,tts,qwen,Rober_ref,Rober_ref.wav,txt_136,"Al volver del trabajo, la cafetería preparó café, té y algunas tostadas para quienes acababan de llegar.",20261044,ok
+data/tts/qwen/137_ref4.wav,1,tts,qwen,Rober_ref,Rober_ref.wav,txt_137,"Al volver del trabajo, el informe explicó los cambios principales con ejemplos sencillos y datos concretos.",20261045,ok
+data/tts/qwen/138_ref4.wav,1,tts,qwen,Rober_ref,Rober_ref.wav,txt_138,"Al volver del trabajo, una llamada inesperada cambió los planes previstos para el resto de la jornada.",20261046,ok
+data/tts/qwen/139_ref4.wav,1,tts,qwen,Rober_ref,Rober_ref.wav,txt_139,"Al volver del trabajo, el tren salió con puntualidad y llegó al destino pocos minutos antes de lo esperado.",20261047,ok
+data/tts/qwen/140_ref4.wav,1,tts,qwen,Rober_ref,Rober_ref.wav,txt_140,"Al volver del trabajo, la conversación terminó con una pregunta breve sobre los próximos pasos del proyecto.",20261048,ok
+data/tts/qwen/141_ref4.wav,1,tts,qwen,Rober_ref,Rober_ref.wav,txt_141,"Durante las vacaciones, el equipo revisó los resultados antes de tomar una decisión definitiva.",20261049,ok
+data/tts/qwen/142_ref4.wav,1,tts,qwen,Rober_ref,Rober_ref.wav,txt_142,"Durante las vacaciones, la biblioteca permaneció abierta hasta que terminó la última actividad.",20261050,ok
+data/tts/qwen/143_ref4.wav,1,tts,qwen,Rober_ref,Rober_ref.wav,txt_143,"Durante las vacaciones, una persona preguntó por la dirección correcta y recibió una explicación clara.",20261051,ok
+data/tts/qwen/144_ref4.wav,1,tts,qwen,Rober_ref,Rober_ref.wav,txt_144,"Durante las vacaciones, el ordenador guardó todos los documentos sin mostrar ningún mensaje de error.",20261052,ok
+data/tts/qwen/145_ref4.wav,1,tts,qwen,Rober_ref,Rober_ref.wav,txt_145,"Durante las vacaciones, varios estudiantes comentaron las noticias y compararon diferentes puntos de vista.",20261053,ok
+data/tts/qwen/146_ref4.wav,1,tts,qwen,Rober_ref,Rober_ref.wav,txt_146,"Durante las vacaciones, la cafetería preparó café, té y algunas tostadas para quienes acababan de llegar.",20261054,ok
+data/tts/qwen/147_ref4.wav,1,tts,qwen,Rober_ref,Rober_ref.wav,txt_147,"Durante las vacaciones, el informe explicó los cambios principales con ejemplos sencillos y datos concretos.",20261055,ok
+data/tts/qwen/148_ref4.wav,1,tts,qwen,Rober_ref,Rober_ref.wav,txt_148,"Durante las vacaciones, una llamada inesperada cambió los planes previstos para el resto de la jornada.",20261056,ok
+data/tts/qwen/149_ref4.wav,1,tts,qwen,Rober_ref,Rober_ref.wav,txt_149,"Durante las vacaciones, el tren salió con puntualidad y llegó al destino pocos minutos antes de lo esperado.",20261057,ok
+data/tts/qwen/150_ref4.wav,1,tts,qwen,Rober_ref,Rober_ref.wav,txt_150,"Durante las vacaciones, la conversación terminó con una pregunta breve sobre los próximos pasos del proyecto.",20261058,ok
+data/tts/qwen/151_ref4.wav,1,tts,qwen,Rober_ref,Rober_ref.wav,txt_151,"Antes de comenzar la prueba, el equipo revisó los resultados antes de tomar una decisión definitiva.",20261059,ok
+data/tts/qwen/152_ref4.wav,1,tts,qwen,Rober_ref,Rober_ref.wav,txt_152,"Antes de comenzar la prueba, la biblioteca permaneció abierta hasta que terminó la última actividad.",20261060,ok
+data/tts/qwen/153_ref4.wav,1,tts,qwen,Rober_ref,Rober_ref.wav,txt_153,"Antes de comenzar la prueba, una persona preguntó por la dirección correcta y recibió una explicación clara.",20261061,ok
+data/tts/qwen/154_ref4.wav,1,tts,qwen,Rober_ref,Rober_ref.wav,txt_154,"Antes de comenzar la prueba, el ordenador guardó todos los documentos sin mostrar ningún mensaje de error.",20261062,ok
+data/tts/qwen/155_ref4.wav,1,tts,qwen,Rober_ref,Rober_ref.wav,txt_155,"Antes de comenzar la prueba, varios estudiantes comentaron las noticias y compararon diferentes puntos de vista.",20261063,ok
+data/tts/qwen/156_ref4.wav,1,tts,qwen,Rober_ref,Rober_ref.wav,txt_156,"Antes de comenzar la prueba, la cafetería preparó café, té y algunas tostadas para quienes acababan de llegar.",20261064,ok
+data/tts/qwen/157_ref4.wav,1,tts,qwen,Rober_ref,Rober_ref.wav,txt_157,"Antes de comenzar la prueba, el informe explicó los cambios principales con ejemplos sencillos y datos concretos.",20261065,ok
+data/tts/qwen/158_ref4.wav,1,tts,qwen,Rober_ref,Rober_ref.wav,txt_158,"Antes de comenzar la prueba, una llamada inesperada cambió los planes previstos para el resto de la jornada.",20261066,ok
+data/tts/qwen/159_ref4.wav,1,tts,qwen,Rober_ref,Rober_ref.wav,txt_159,"Antes de comenzar la prueba, el tren salió con puntualidad y llegó al destino pocos minutos antes de lo esperado.",20261067,ok
+data/tts/qwen/160_ref4.wav,1,tts,qwen,Rober_ref,Rober_ref.wav,txt_160,"Antes de comenzar la prueba, la conversación terminó con una pregunta breve sobre los próximos pasos del proyecto.",20261068,ok
+data/tts/qwen/161_ref5.wav,1,tts,qwen,Samu_ref,Samu_ref.wav,txt_161,"En una tarde de septiembre, el equipo revisó los resultados antes de tomar una decisión definitiva.",20261069,ok
+data/tts/qwen/162_ref5.wav,1,tts,qwen,Samu_ref,Samu_ref.wav,txt_162,"En una tarde de septiembre, la biblioteca permaneció abierta hasta que terminó la última actividad.",20261070,ok
+data/tts/qwen/163_ref5.wav,1,tts,qwen,Samu_ref,Samu_ref.wav,txt_163,"En una tarde de septiembre, una persona preguntó por la dirección correcta y recibió una explicación clara.",20261071,ok
+data/tts/qwen/164_ref5.wav,1,tts,qwen,Samu_ref,Samu_ref.wav,txt_164,"En una tarde de septiembre, el ordenador guardó todos los documentos sin mostrar ningún mensaje de error.",20261072,ok
+data/tts/qwen/165_ref5.wav,1,tts,qwen,Samu_ref,Samu_ref.wav,txt_165,"En una tarde de septiembre, varios estudiantes comentaron las noticias y compararon diferentes puntos de vista.",20261073,ok
+data/tts/qwen/166_ref5.wav,1,tts,qwen,Samu_ref,Samu_ref.wav,txt_166,"En una tarde de septiembre, la cafetería preparó café, té y algunas tostadas para quienes acababan de llegar.",20261074,ok
+data/tts/qwen/167_ref5.wav,1,tts,qwen,Samu_ref,Samu_ref.wav,txt_167,"En una tarde de septiembre, el informe explicó los cambios principales con ejemplos sencillos y datos concretos.",20261075,ok
+data/tts/qwen/168_ref5.wav,1,tts,qwen,Samu_ref,Samu_ref.wav,txt_168,"En una tarde de septiembre, una llamada inesperada cambió los planes previstos para el resto de la jornada.",20261076,ok
+data/tts/qwen/169_ref5.wav,1,tts,qwen,Samu_ref,Samu_ref.wav,txt_169,"En una tarde de septiembre, el tren salió con puntualidad y llegó al destino pocos minutos antes de lo esperado.",20261077,ok
+data/tts/qwen/170_ref5.wav,1,tts,qwen,Samu_ref,Samu_ref.wav,txt_170,"En una tarde de septiembre, la conversación terminó con una pregunta breve sobre los próximos pasos del proyecto.",20261078,ok
+data/tts/qwen/171_ref5.wav,1,tts,qwen,Samu_ref,Samu_ref.wav,txt_171,"Cuando sonó el teléfono, el equipo revisó los resultados antes de tomar una decisión definitiva.",20261079,ok
+data/tts/qwen/172_ref5.wav,1,tts,qwen,Samu_ref,Samu_ref.wav,txt_172,"Cuando sonó el teléfono, la biblioteca permaneció abierta hasta que terminó la última actividad.",20261080,ok
+data/tts/qwen/173_ref5.wav,1,tts,qwen,Samu_ref,Samu_ref.wav,txt_173,"Cuando sonó el teléfono, una persona preguntó por la dirección correcta y recibió una explicación clara.",20261081,ok
+data/tts/qwen/174_ref5.wav,1,tts,qwen,Samu_ref,Samu_ref.wav,txt_174,"Cuando sonó el teléfono, el ordenador guardó todos los documentos sin mostrar ningún mensaje de error.",20261082,ok
+data/tts/qwen/175_ref5.wav,1,tts,qwen,Samu_ref,Samu_ref.wav,txt_175,"Cuando sonó el teléfono, varios estudiantes comentaron las noticias y compararon diferentes puntos de vista.",20261083,ok
+data/tts/qwen/176_ref5.wav,1,tts,qwen,Samu_ref,Samu_ref.wav,txt_176,"Cuando sonó el teléfono, la cafetería preparó café, té y algunas tostadas para quienes acababan de llegar.",20261084,ok
+data/tts/qwen/177_ref5.wav,1,tts,qwen,Samu_ref,Samu_ref.wav,txt_177,"Cuando sonó el teléfono, el informe explicó los cambios principales con ejemplos sencillos y datos concretos.",20261085,ok
+data/tts/qwen/178_ref5.wav,1,tts,qwen,Samu_ref,Samu_ref.wav,txt_178,"Cuando sonó el teléfono, una llamada inesperada cambió los planes previstos para el resto de la jornada.",20261086,ok
+data/tts/qwen/179_ref5.wav,1,tts,qwen,Samu_ref,Samu_ref.wav,txt_179,"Cuando sonó el teléfono, el tren salió con puntualidad y llegó al destino pocos minutos antes de lo esperado.",20261087,ok
+data/tts/qwen/180_ref5.wav,1,tts,qwen,Samu_ref,Samu_ref.wav,txt_180,"Cuando sonó el teléfono, la conversación terminó con una pregunta breve sobre los próximos pasos del proyecto.",20261088,ok
+data/tts/qwen/181_ref5.wav,1,tts,qwen,Samu_ref,Samu_ref.wav,txt_181,"Al abrir la ventana, el equipo revisó los resultados antes de tomar una decisión definitiva.",20261089,ok
+data/tts/qwen/182_ref5.wav,1,tts,qwen,Samu_ref,Samu_ref.wav,txt_182,"Al abrir la ventana, la biblioteca permaneció abierta hasta que terminó la última actividad.",20261090,ok
+data/tts/qwen/183_ref5.wav,1,tts,qwen,Samu_ref,Samu_ref.wav,txt_183,"Al abrir la ventana, una persona preguntó por la dirección correcta y recibió una explicación clara.",20261091,ok
+data/tts/qwen/184_ref5.wav,1,tts,qwen,Samu_ref,Samu_ref.wav,txt_184,"Al abrir la ventana, el ordenador guardó todos los documentos sin mostrar ningún mensaje de error.",20261092,ok
+data/tts/qwen/185_ref5.wav,1,tts,qwen,Samu_ref,Samu_ref.wav,txt_185,"Al abrir la ventana, varios estudiantes comentaron las noticias y compararon diferentes puntos de vista.",20261093,ok
+data/tts/qwen/186_ref5.wav,1,tts,qwen,Samu_ref,Samu_ref.wav,txt_186,"Al abrir la ventana, la cafetería preparó café, té y algunas tostadas para quienes acababan de llegar.",20261094,ok
+data/tts/qwen/187_ref5.wav,1,tts,qwen,Samu_ref,Samu_ref.wav,txt_187,"Al abrir la ventana, el informe explicó los cambios principales con ejemplos sencillos y datos concretos.",20261095,ok
+data/tts/qwen/188_ref5.wav,1,tts,qwen,Samu_ref,Samu_ref.wav,txt_188,"Al abrir la ventana, una llamada inesperada cambió los planes previstos para el resto de la jornada.",20261096,ok
+data/tts/qwen/189_ref5.wav,1,tts,qwen,Samu_ref,Samu_ref.wav,txt_189,"Al abrir la ventana, el tren salió con puntualidad y llegó al destino pocos minutos antes de lo esperado.",20261097,ok
+data/tts/qwen/190_ref5.wav,1,tts,qwen,Samu_ref,Samu_ref.wav,txt_190,"Al abrir la ventana, la conversación terminó con una pregunta breve sobre los próximos pasos del proyecto.",20261098,ok
+data/tts/qwen/191_ref5.wav,1,tts,qwen,Samu_ref,Samu_ref.wav,txt_191,"Después de revisar los datos, el equipo revisó los resultados antes de tomar una decisión definitiva.",20261099,ok
+data/tts/qwen/192_ref5.wav,1,tts,qwen,Samu_ref,Samu_ref.wav,txt_192,"Después de revisar los datos, la biblioteca permaneció abierta hasta que terminó la última actividad.",20261100,ok
+data/tts/qwen/193_ref5.wav,1,tts,qwen,Samu_ref,Samu_ref.wav,txt_193,"Después de revisar los datos, una persona preguntó por la dirección correcta y recibió una explicación clara.",20261101,ok
+data/tts/qwen/194_ref5.wav,1,tts,qwen,Samu_ref,Samu_ref.wav,txt_194,"Después de revisar los datos, el ordenador guardó todos los documentos sin mostrar ningún mensaje de error.",20261102,ok
+data/tts/qwen/195_ref5.wav,1,tts,qwen,Samu_ref,Samu_ref.wav,txt_195,"Después de revisar los datos, varios estudiantes comentaron las noticias y compararon diferentes puntos de vista.",20261103,ok
+data/tts/qwen/196_ref5.wav,1,tts,qwen,Samu_ref,Samu_ref.wav,txt_196,"Después de revisar los datos, la cafetería preparó café, té y algunas tostadas para quienes acababan de llegar.",20261104,ok
+data/tts/qwen/197_ref5.wav,1,tts,qwen,Samu_ref,Samu_ref.wav,txt_197,"Después de revisar los datos, el informe explicó los cambios principales con ejemplos sencillos y datos concretos.",20261105,ok
+data/tts/qwen/198_ref5.wav,1,tts,qwen,Samu_ref,Samu_ref.wav,txt_198,"Después de revisar los datos, una llamada inesperada cambió los planes previstos para el resto de la jornada.",20261106,ok
+data/tts/qwen/199_ref5.wav,1,tts,qwen,Samu_ref,Samu_ref.wav,txt_199,"Después de revisar los datos, el tren salió con puntualidad y llegó al destino pocos minutos antes de lo esperado.",20261107,ok
+data/tts/qwen/200_ref5.wav,1,tts,qwen,Samu_ref,Samu_ref.wav,txt_200,"Después de revisar los datos, la conversación terminó con una pregunta breve sobre los próximos pasos del proyecto.",20261108,ok

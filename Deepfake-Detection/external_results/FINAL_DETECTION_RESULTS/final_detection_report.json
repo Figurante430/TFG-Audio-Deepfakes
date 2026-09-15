@@ -1,0 +1,1173 @@
+{
+  "name": "Final External Detection Results",
+  "status": "FINAL",
+  "created_at_utc": "2026-09-15T13:33:05.755443+00:00",
+  "holdout": {
+    "n_total": 220,
+    "n_real": 100,
+    "n_fake": 120,
+    "dataset_fingerprint_sha256": "3fed1b260a404af75b21aab8a57f1cf2dd0dbc8967d2695b45780095008f6021"
+  },
+  "methodological_policy": {
+    "external_holdout": "Final evaluation only.",
+    "thresholds": "Fixed/calibrated before external holdout evaluation.",
+    "post_hoc_retuning": false,
+    "post_hoc_seed_selection": false,
+    "ranking_usage": "Descriptive reporting only; not for further tuning on this holdout."
+  },
+  "detectors": [
+    {
+      "detector_id": "cnn_baseline",
+      "display_name": "CNN Log-Mel",
+      "family": "CNN",
+      "n_runs": 1,
+      "seeds": "",
+      "accuracy_mean": 0.5818181818181818,
+      "accuracy_std": 0.0,
+      "balanced_accuracy_mean": 0.5725,
+      "balanced_accuracy_std": 0.0,
+      "precision_mean": 0.6044776119402985,
+      "precision_std": 0.0,
+      "recall_fake_mean": 0.675,
+      "recall_fake_std": 0.0,
+      "specificity_real_mean": 0.47,
+      "specificity_real_std": 0.0,
+      "f1_mean": 0.6377952755905512,
+      "f1_std": 0.0,
+      "roc_auc_mean": 0.5899166666666666,
+      "roc_auc_std": 0.0,
+      "eer_mean": 0.45916666666666667,
+      "eer_std": 0.0,
+      "macro_fake_recall_mean": 0.675,
+      "macro_fake_recall_std": 0.0,
+      "threshold_mean": 0.5,
+      "threshold_std": 0.0
+    },
+    {
+      "detector_id": "wavlm_initial",
+      "display_name": "WavLM inicial",
+      "family": "WavLM",
+      "n_runs": 1,
+      "seeds": "",
+      "accuracy_mean": 0.6136363636363636,
+      "accuracy_std": 0.0,
+      "balanced_accuracy_mean": 0.5916666666666667,
+      "balanced_accuracy_std": 0.0,
+      "precision_mean": 0.6060606060606061,
+      "precision_std": 0.0,
+      "recall_fake_mean": 0.8333333333333334,
+      "recall_fake_std": 0.0,
+      "specificity_real_mean": 0.35,
+      "specificity_real_std": 0.0,
+      "f1_mean": 0.7017543859649124,
+      "f1_std": 0.0,
+      "roc_auc_mean": 0.6008333333333333,
+      "roc_auc_std": 0.0,
+      "eer_mean": 0.45916666666666667,
+      "eer_std": 0.0,
+      "macro_fake_recall_mean": 0.8333333333333334,
+      "macro_fake_recall_std": 0.0,
+      "threshold_mean": 0.89501953125,
+      "threshold_std": 0.0
+    },
+    {
+      "detector_id": "wavlm_control",
+      "display_name": "WavLM Control",
+      "family": "WavLM",
+      "n_runs": 3,
+      "seeds": "42;123;2026",
+      "accuracy_mean": 0.6696969696969697,
+      "accuracy_std": 0.04296196023866006,
+      "balanced_accuracy_mean": 0.6519444444444444,
+      "balanced_accuracy_std": 0.05091068795595037,
+      "precision_mean": 0.655671454628363,
+      "precision_std": 0.050968408671890314,
+      "recall_fake_mean": 0.8472222222222222,
+      "recall_fake_std": 0.0375770812735241,
+      "specificity_real_mean": 0.45666666666666667,
+      "specificity_real_std": 0.13868429375143146,
+      "f1_mean": 0.7374704419439009,
+      "f1_std": 0.017662602251545933,
+      "roc_auc_mean": 0.7408888888888889,
+      "roc_auc_std": 0.02386501148434978,
+      "eer_mean": 0.3061111111111111,
+      "eer_std": 0.010584754935143159,
+      "macro_fake_recall_mean": 0.8472222222222222,
+      "macro_fake_recall_std": 0.0375770812735241,
+      "threshold_mean": 0.8414895534515381,
+      "threshold_std": 0.1481379511718789
+    },
+    {
+      "detector_id": "wavlm_robust",
+      "display_name": "WavLM Robust",
+      "family": "WavLM",
+      "n_runs": 3,
+      "seeds": "42;123;2026",
+      "accuracy_mean": 0.6333333333333333,
+      "accuracy_std": 0.01892423635878302,
+      "balanced_accuracy_mean": 0.6102777777777778,
+      "balanced_accuracy_std": 0.0255132500071223,
+      "precision_mean": 0.6185816025422767,
+      "precision_std": 0.024561017679536588,
+      "recall_fake_mean": 0.8638888888888889,
+      "recall_fake_std": 0.048112522432468836,
+      "specificity_real_mean": 0.35666666666666663,
+      "specificity_real_std": 0.09865765724632494,
+      "f1_mean": 0.7198707656202064,
+      "f1_std": 0.002693939825231682,
+      "roc_auc_mean": 0.6755555555555556,
+      "roc_auc_std": 0.026766555538028616,
+      "eer_mean": 0.35444444444444445,
+      "eer_std": 0.025294560972960494,
+      "macro_fake_recall_mean": 0.8638888888888889,
+      "macro_fake_recall_std": 0.0481125224324688,
+      "threshold_mean": 0.6437030732631683,
+      "threshold_std": 0.29681079986399045
+    },
+    {
+      "detector_id": "wavlm_gate_only",
+      "display_name": "WavLM Gate-only",
+      "family": "WavLM",
+      "n_runs": 3,
+      "seeds": "42;123;2026",
+      "accuracy_mean": 0.6606060606060606,
+      "accuracy_std": 0.027773186030035403,
+      "balanced_accuracy_mean": 0.6436111111111111,
+      "balanced_accuracy_std": 0.03510236353760133,
+      "precision_mean": 0.6499497234791353,
+      "precision_std": 0.037568245026131944,
+      "recall_fake_mean": 0.8305555555555556,
+      "recall_fake_std": 0.04589642122738419,
+      "specificity_real_mean": 0.45666666666666667,
+      "specificity_real_std": 0.11590225767142472,
+      "f1_mean": 0.7277168707313011,
+      "f1_std": 0.00577152073251685,
+      "roc_auc_mean": 0.7197361111111111,
+      "roc_auc_std": 0.03240931079066517,
+      "eer_mean": 0.30777777777777776,
+      "eer_std": 0.017206534073276207,
+      "macro_fake_recall_mean": 0.8305555555555556,
+      "macro_fake_recall_std": 0.04589642122738419,
+      "threshold_mean": 0.7825860778490702,
+      "threshold_std": 0.31224273174442274
+    },
+    {
+      "detector_id": "wavlm_channel_mix",
+      "display_name": "WavLM Channel-mix",
+      "family": "WavLM",
+      "n_runs": 3,
+      "seeds": "42;123;2026",
+      "accuracy_mean": 0.6545454545454545,
+      "accuracy_std": 0.007872958216222189,
+      "balanced_accuracy_mean": 0.6344444444444445,
+      "balanced_accuracy_std": 0.01131411769689792,
+      "precision_mean": 0.6367871115822581,
+      "precision_std": 0.01260637390293969,
+      "recall_fake_mean": 0.8555555555555555,
+      "recall_fake_std": 0.02678791878053602,
+      "specificity_real_mean": 0.41333333333333333,
+      "specificity_real_std": 0.04932882862316245,
+      "f1_mean": 0.7298243516490891,
+      "f1_std": 0.0018830703100529281,
+      "roc_auc_mean": 0.6863750000000001,
+      "roc_auc_std": 0.008610797485328118,
+      "eer_mean": 0.3530555555555555,
+      "eer_std": 0.014002314623476161,
+      "macro_fake_recall_mean": 0.8555555555555555,
+      "macro_fake_recall_std": 0.02678791878053602,
+      "threshold_mean": 0.9349717100461324,
+      "threshold_std": 0.06400059003922559
+    },
+    {
+      "detector_id": "wavlm_domain_adapt_real",
+      "display_name": "WavLM Domain-adapt real",
+      "family": "WavLM",
+      "n_runs": 3,
+      "seeds": "42;123;2026",
+      "accuracy_mean": 0.6727272727272727,
+      "accuracy_std": 0.016388869433927238,
+      "balanced_accuracy_mean": 0.6608333333333334,
+      "balanced_accuracy_std": 0.012829003598617229,
+      "precision_mean": 0.6689280154823509,
+      "precision_std": 0.0021961771172406084,
+      "recall_fake_mean": 0.7916666666666666,
+      "recall_fake_std": 0.0520416499866533,
+      "specificity_real_mean": 0.53,
+      "specificity_real_std": 0.02645751311064593,
+      "f1_mean": 0.7246763570292982,
+      "f1_std": 0.022772106478198332,
+      "roc_auc_mean": 0.7235138888888889,
+      "roc_auc_std": 0.005271999761142047,
+      "eer_mean": 0.33166666666666667,
+      "eer_std": 0.0,
+      "macro_fake_recall_mean": 0.7916666666666666,
+      "macro_fake_recall_std": 0.0520416499866533,
+      "threshold_mean": 0.7612040638923645,
+      "threshold_std": 0.1423989215083511
+    }
+  ],
+  "per_generator": [
+    {
+      "detector_id": "cnn_baseline",
+      "display_name": "CNN Log-Mel",
+      "generator": "VoxPopuli",
+      "metric": "specificity",
+      "mean": 0.47,
+      "std": 0.0,
+      "n_runs": 1
+    },
+    {
+      "detector_id": "cnn_baseline",
+      "display_name": "CNN Log-Mel",
+      "generator": "RVC",
+      "metric": "fake_recall",
+      "mean": 0.65,
+      "std": 0.0,
+      "n_runs": 1
+    },
+    {
+      "detector_id": "cnn_baseline",
+      "display_name": "CNN Log-Mel",
+      "generator": "Qwen3-TTS",
+      "metric": "fake_recall",
+      "mean": 0.6,
+      "std": 0.0,
+      "n_runs": 1
+    },
+    {
+      "detector_id": "cnn_baseline",
+      "display_name": "CNN Log-Mel",
+      "generator": "Fun-CosyVoice3",
+      "metric": "fake_recall",
+      "mean": 0.6,
+      "std": 0.0,
+      "n_runs": 1
+    },
+    {
+      "detector_id": "cnn_baseline",
+      "display_name": "CNN Log-Mel",
+      "generator": "Confucius4-TTS",
+      "metric": "fake_recall",
+      "mean": 0.65,
+      "std": 0.0,
+      "n_runs": 1
+    },
+    {
+      "detector_id": "cnn_baseline",
+      "display_name": "CNN Log-Mel",
+      "generator": "OpenVoice V2",
+      "metric": "fake_recall",
+      "mean": 0.9,
+      "std": 0.0,
+      "n_runs": 1
+    },
+    {
+      "detector_id": "cnn_baseline",
+      "display_name": "CNN Log-Mel",
+      "generator": "VoxCPM2",
+      "metric": "fake_recall",
+      "mean": 0.65,
+      "std": 0.0,
+      "n_runs": 1
+    },
+    {
+      "detector_id": "wavlm_initial",
+      "display_name": "WavLM inicial",
+      "generator": "VoxPopuli",
+      "metric": "specificity",
+      "mean": 0.35,
+      "std": 0.0,
+      "n_runs": 1
+    },
+    {
+      "detector_id": "wavlm_initial",
+      "display_name": "WavLM inicial",
+      "generator": "RVC",
+      "metric": "fake_recall",
+      "mean": 0.6,
+      "std": 0.0,
+      "n_runs": 1
+    },
+    {
+      "detector_id": "wavlm_initial",
+      "display_name": "WavLM inicial",
+      "generator": "Qwen3-TTS",
+      "metric": "fake_recall",
+      "mean": 0.85,
+      "std": 0.0,
+      "n_runs": 1
+    },
+    {
+      "detector_id": "wavlm_initial",
+      "display_name": "WavLM inicial",
+      "generator": "Fun-CosyVoice3",
+      "metric": "fake_recall",
+      "mean": 0.8,
+      "std": 0.0,
+      "n_runs": 1
+    },
+    {
+      "detector_id": "wavlm_initial",
+      "display_name": "WavLM inicial",
+      "generator": "Confucius4-TTS",
+      "metric": "fake_recall",
+      "mean": 1.0,
+      "std": 0.0,
+      "n_runs": 1
+    },
+    {
+      "detector_id": "wavlm_initial",
+      "display_name": "WavLM inicial",
+      "generator": "OpenVoice V2",
+      "metric": "fake_recall",
+      "mean": 1.0,
+      "std": 0.0,
+      "n_runs": 1
+    },
+    {
+      "detector_id": "wavlm_initial",
+      "display_name": "WavLM inicial",
+      "generator": "VoxCPM2",
+      "metric": "fake_recall",
+      "mean": 0.75,
+      "std": 0.0,
+      "n_runs": 1
+    },
+    {
+      "detector_id": "wavlm_control",
+      "display_name": "WavLM Control",
+      "generator": "VoxPopuli",
+      "metric": "specificity",
+      "mean": 0.45666666666666667,
+      "std": 0.13868429375143146,
+      "n_runs": 3
+    },
+    {
+      "detector_id": "wavlm_control",
+      "display_name": "WavLM Control",
+      "generator": "RVC",
+      "metric": "fake_recall",
+      "mean": 0.39999999999999997,
+      "std": 0.08660254037844388,
+      "n_runs": 3
+    },
+    {
+      "detector_id": "wavlm_control",
+      "display_name": "WavLM Control",
+      "generator": "Qwen3-TTS",
+      "metric": "fake_recall",
+      "mean": 0.9166666666666666,
+      "std": 0.05773502691896256,
+      "n_runs": 3
+    },
+    {
+      "detector_id": "wavlm_control",
+      "display_name": "WavLM Control",
+      "generator": "Fun-CosyVoice3",
+      "metric": "fake_recall",
+      "mean": 0.8,
+      "std": 0.04999999999999999,
+      "n_runs": 3
+    },
+    {
+      "detector_id": "wavlm_control",
+      "display_name": "WavLM Control",
+      "generator": "Confucius4-TTS",
+      "metric": "fake_recall",
+      "mean": 0.9833333333333333,
+      "std": 0.028867513459481315,
+      "n_runs": 3
+    },
+    {
+      "detector_id": "wavlm_control",
+      "display_name": "WavLM Control",
+      "generator": "OpenVoice V2",
+      "metric": "fake_recall",
+      "mean": 0.9833333333333333,
+      "std": 0.028867513459481315,
+      "n_runs": 3
+    },
+    {
+      "detector_id": "wavlm_control",
+      "display_name": "WavLM Control",
+      "generator": "VoxCPM2",
+      "metric": "fake_recall",
+      "mean": 1.0,
+      "std": 0.0,
+      "n_runs": 3
+    },
+    {
+      "detector_id": "wavlm_robust",
+      "display_name": "WavLM Robust",
+      "generator": "VoxPopuli",
+      "metric": "specificity",
+      "mean": 0.35666666666666663,
+      "std": 0.09865765724632494,
+      "n_runs": 3
+    },
+    {
+      "detector_id": "wavlm_robust",
+      "display_name": "WavLM Robust",
+      "generator": "RVC",
+      "metric": "fake_recall",
+      "mean": 0.6,
+      "std": 0.1322875655532295,
+      "n_runs": 3
+    },
+    {
+      "detector_id": "wavlm_robust",
+      "display_name": "WavLM Robust",
+      "generator": "Qwen3-TTS",
+      "metric": "fake_recall",
+      "mean": 0.9,
+      "std": 0.04999999999999999,
+      "n_runs": 3
+    },
+    {
+      "detector_id": "wavlm_robust",
+      "display_name": "WavLM Robust",
+      "generator": "Fun-CosyVoice3",
+      "metric": "fake_recall",
+      "mean": 0.75,
+      "std": 0.050000000000000044,
+      "n_runs": 3
+    },
+    {
+      "detector_id": "wavlm_robust",
+      "display_name": "WavLM Robust",
+      "generator": "Confucius4-TTS",
+      "metric": "fake_recall",
+      "mean": 0.9833333333333333,
+      "std": 0.028867513459481315,
+      "n_runs": 3
+    },
+    {
+      "detector_id": "wavlm_robust",
+      "display_name": "WavLM Robust",
+      "generator": "OpenVoice V2",
+      "metric": "fake_recall",
+      "mean": 0.9833333333333333,
+      "std": 0.028867513459481315,
+      "n_runs": 3
+    },
+    {
+      "detector_id": "wavlm_robust",
+      "display_name": "WavLM Robust",
+      "generator": "VoxCPM2",
+      "metric": "fake_recall",
+      "mean": 0.9666666666666667,
+      "std": 0.028867513459481315,
+      "n_runs": 3
+    },
+    {
+      "detector_id": "wavlm_gate_only",
+      "display_name": "WavLM Gate-only",
+      "generator": "VoxPopuli",
+      "metric": "specificity",
+      "mean": 0.45666666666666667,
+      "std": 0.11590225767142472,
+      "n_runs": 3
+    },
+    {
+      "detector_id": "wavlm_gate_only",
+      "display_name": "WavLM Gate-only",
+      "generator": "RVC",
+      "metric": "fake_recall",
+      "mean": 0.45,
+      "std": 0.1322875655532295,
+      "n_runs": 3
+    },
+    {
+      "detector_id": "wavlm_gate_only",
+      "display_name": "WavLM Gate-only",
+      "generator": "Qwen3-TTS",
+      "metric": "fake_recall",
+      "mean": 0.85,
+      "std": 0.04999999999999999,
+      "n_runs": 3
+    },
+    {
+      "detector_id": "wavlm_gate_only",
+      "display_name": "WavLM Gate-only",
+      "generator": "Fun-CosyVoice3",
+      "metric": "fake_recall",
+      "mean": 0.7333333333333333,
+      "std": 0.028867513459481315,
+      "n_runs": 3
+    },
+    {
+      "detector_id": "wavlm_gate_only",
+      "display_name": "WavLM Gate-only",
+      "generator": "Confucius4-TTS",
+      "metric": "fake_recall",
+      "mean": 0.9833333333333333,
+      "std": 0.028867513459481315,
+      "n_runs": 3
+    },
+    {
+      "detector_id": "wavlm_gate_only",
+      "display_name": "WavLM Gate-only",
+      "generator": "OpenVoice V2",
+      "metric": "fake_recall",
+      "mean": 0.9833333333333333,
+      "std": 0.028867513459481315,
+      "n_runs": 3
+    },
+    {
+      "detector_id": "wavlm_gate_only",
+      "display_name": "WavLM Gate-only",
+      "generator": "VoxCPM2",
+      "metric": "fake_recall",
+      "mean": 0.9833333333333333,
+      "std": 0.028867513459481315,
+      "n_runs": 3
+    },
+    {
+      "detector_id": "wavlm_channel_mix",
+      "display_name": "WavLM Channel-mix",
+      "generator": "VoxPopuli",
+      "metric": "specificity",
+      "mean": 0.41333333333333333,
+      "std": 0.04932882862316245,
+      "n_runs": 3
+    },
+    {
+      "detector_id": "wavlm_channel_mix",
+      "display_name": "WavLM Channel-mix",
+      "generator": "RVC",
+      "metric": "fake_recall",
+      "mean": 0.55,
+      "std": 0.0,
+      "n_runs": 3
+    },
+    {
+      "detector_id": "wavlm_channel_mix",
+      "display_name": "WavLM Channel-mix",
+      "generator": "Qwen3-TTS",
+      "metric": "fake_recall",
+      "mean": 0.8666666666666667,
+      "std": 0.028867513459481315,
+      "n_runs": 3
+    },
+    {
+      "detector_id": "wavlm_channel_mix",
+      "display_name": "WavLM Channel-mix",
+      "generator": "Fun-CosyVoice3",
+      "metric": "fake_recall",
+      "mean": 0.7833333333333333,
+      "std": 0.028867513459481315,
+      "n_runs": 3
+    },
+    {
+      "detector_id": "wavlm_channel_mix",
+      "display_name": "WavLM Channel-mix",
+      "generator": "Confucius4-TTS",
+      "metric": "fake_recall",
+      "mean": 0.9833333333333333,
+      "std": 0.028867513459481315,
+      "n_runs": 3
+    },
+    {
+      "detector_id": "wavlm_channel_mix",
+      "display_name": "WavLM Channel-mix",
+      "generator": "OpenVoice V2",
+      "metric": "fake_recall",
+      "mean": 0.9833333333333333,
+      "std": 0.028867513459481315,
+      "n_runs": 3
+    },
+    {
+      "detector_id": "wavlm_channel_mix",
+      "display_name": "WavLM Channel-mix",
+      "generator": "VoxCPM2",
+      "metric": "fake_recall",
+      "mean": 0.9666666666666667,
+      "std": 0.05773502691896256,
+      "n_runs": 3
+    },
+    {
+      "detector_id": "wavlm_domain_adapt_real",
+      "display_name": "WavLM Domain-adapt real",
+      "generator": "VoxPopuli",
+      "metric": "specificity",
+      "mean": 0.53,
+      "std": 0.02645751311064593,
+      "n_runs": 3
+    },
+    {
+      "detector_id": "wavlm_domain_adapt_real",
+      "display_name": "WavLM Domain-adapt real",
+      "generator": "RVC",
+      "metric": "fake_recall",
+      "mean": 0.3833333333333333,
+      "std": 0.10408329997330665,
+      "n_runs": 3
+    },
+    {
+      "detector_id": "wavlm_domain_adapt_real",
+      "display_name": "WavLM Domain-adapt real",
+      "generator": "Qwen3-TTS",
+      "metric": "fake_recall",
+      "mean": 0.8666666666666667,
+      "std": 0.05773502691896256,
+      "n_runs": 3
+    },
+    {
+      "detector_id": "wavlm_domain_adapt_real",
+      "display_name": "WavLM Domain-adapt real",
+      "generator": "Fun-CosyVoice3",
+      "metric": "fake_recall",
+      "mean": 0.7333333333333334,
+      "std": 0.07637626158259735,
+      "n_runs": 3
+    },
+    {
+      "detector_id": "wavlm_domain_adapt_real",
+      "display_name": "WavLM Domain-adapt real",
+      "generator": "Confucius4-TTS",
+      "metric": "fake_recall",
+      "mean": 0.9,
+      "std": 0.08660254037844388,
+      "n_runs": 3
+    },
+    {
+      "detector_id": "wavlm_domain_adapt_real",
+      "display_name": "WavLM Domain-adapt real",
+      "generator": "OpenVoice V2",
+      "metric": "fake_recall",
+      "mean": 0.9833333333333333,
+      "std": 0.028867513459481315,
+      "n_runs": 3
+    },
+    {
+      "detector_id": "wavlm_domain_adapt_real",
+      "display_name": "WavLM Domain-adapt real",
+      "generator": "VoxCPM2",
+      "metric": "fake_recall",
+      "mean": 0.8833333333333333,
+      "std": 0.05773502691896256,
+      "n_runs": 3
+    }
+  ],
+  "descriptive_rankings": {
+    "roc_auc": [
+      {
+        "rank": 1,
+        "detector_id": "wavlm_control",
+        "display_name": "WavLM Control",
+        "value": 0.7408888888888889
+      },
+      {
+        "rank": 2,
+        "detector_id": "wavlm_domain_adapt_real",
+        "display_name": "WavLM Domain-adapt real",
+        "value": 0.7235138888888889
+      },
+      {
+        "rank": 3,
+        "detector_id": "wavlm_gate_only",
+        "display_name": "WavLM Gate-only",
+        "value": 0.7197361111111111
+      },
+      {
+        "rank": 4,
+        "detector_id": "wavlm_channel_mix",
+        "display_name": "WavLM Channel-mix",
+        "value": 0.6863750000000001
+      },
+      {
+        "rank": 5,
+        "detector_id": "wavlm_robust",
+        "display_name": "WavLM Robust",
+        "value": 0.6755555555555556
+      },
+      {
+        "rank": 6,
+        "detector_id": "wavlm_initial",
+        "display_name": "WavLM inicial",
+        "value": 0.6008333333333333
+      },
+      {
+        "rank": 7,
+        "detector_id": "cnn_baseline",
+        "display_name": "CNN Log-Mel",
+        "value": 0.5899166666666666
+      }
+    ],
+    "balanced_accuracy": [
+      {
+        "rank": 1,
+        "detector_id": "wavlm_domain_adapt_real",
+        "display_name": "WavLM Domain-adapt real",
+        "value": 0.6608333333333334
+      },
+      {
+        "rank": 2,
+        "detector_id": "wavlm_control",
+        "display_name": "WavLM Control",
+        "value": 0.6519444444444444
+      },
+      {
+        "rank": 3,
+        "detector_id": "wavlm_gate_only",
+        "display_name": "WavLM Gate-only",
+        "value": 0.6436111111111111
+      },
+      {
+        "rank": 4,
+        "detector_id": "wavlm_channel_mix",
+        "display_name": "WavLM Channel-mix",
+        "value": 0.6344444444444445
+      },
+      {
+        "rank": 5,
+        "detector_id": "wavlm_robust",
+        "display_name": "WavLM Robust",
+        "value": 0.6102777777777778
+      },
+      {
+        "rank": 6,
+        "detector_id": "wavlm_initial",
+        "display_name": "WavLM inicial",
+        "value": 0.5916666666666667
+      },
+      {
+        "rank": 7,
+        "detector_id": "cnn_baseline",
+        "display_name": "CNN Log-Mel",
+        "value": 0.5725
+      }
+    ],
+    "f1": [
+      {
+        "rank": 1,
+        "detector_id": "wavlm_control",
+        "display_name": "WavLM Control",
+        "value": 0.7374704419439009
+      },
+      {
+        "rank": 2,
+        "detector_id": "wavlm_channel_mix",
+        "display_name": "WavLM Channel-mix",
+        "value": 0.7298243516490891
+      },
+      {
+        "rank": 3,
+        "detector_id": "wavlm_gate_only",
+        "display_name": "WavLM Gate-only",
+        "value": 0.7277168707313011
+      },
+      {
+        "rank": 4,
+        "detector_id": "wavlm_domain_adapt_real",
+        "display_name": "WavLM Domain-adapt real",
+        "value": 0.7246763570292982
+      },
+      {
+        "rank": 5,
+        "detector_id": "wavlm_robust",
+        "display_name": "WavLM Robust",
+        "value": 0.7198707656202064
+      },
+      {
+        "rank": 6,
+        "detector_id": "wavlm_initial",
+        "display_name": "WavLM inicial",
+        "value": 0.7017543859649124
+      },
+      {
+        "rank": 7,
+        "detector_id": "cnn_baseline",
+        "display_name": "CNN Log-Mel",
+        "value": 0.6377952755905512
+      }
+    ],
+    "specificity_real": [
+      {
+        "rank": 1,
+        "detector_id": "wavlm_domain_adapt_real",
+        "display_name": "WavLM Domain-adapt real",
+        "value": 0.53
+      },
+      {
+        "rank": 2,
+        "detector_id": "cnn_baseline",
+        "display_name": "CNN Log-Mel",
+        "value": 0.47
+      },
+      {
+        "rank": 3,
+        "detector_id": "wavlm_control",
+        "display_name": "WavLM Control",
+        "value": 0.45666666666666667
+      },
+      {
+        "rank": 4,
+        "detector_id": "wavlm_gate_only",
+        "display_name": "WavLM Gate-only",
+        "value": 0.45666666666666667
+      },
+      {
+        "rank": 5,
+        "detector_id": "wavlm_channel_mix",
+        "display_name": "WavLM Channel-mix",
+        "value": 0.41333333333333333
+      },
+      {
+        "rank": 6,
+        "detector_id": "wavlm_robust",
+        "display_name": "WavLM Robust",
+        "value": 0.35666666666666663
+      },
+      {
+        "rank": 7,
+        "detector_id": "wavlm_initial",
+        "display_name": "WavLM inicial",
+        "value": 0.35
+      }
+    ],
+    "recall_fake": [
+      {
+        "rank": 1,
+        "detector_id": "wavlm_robust",
+        "display_name": "WavLM Robust",
+        "value": 0.8638888888888889
+      },
+      {
+        "rank": 2,
+        "detector_id": "wavlm_channel_mix",
+        "display_name": "WavLM Channel-mix",
+        "value": 0.8555555555555555
+      },
+      {
+        "rank": 3,
+        "detector_id": "wavlm_control",
+        "display_name": "WavLM Control",
+        "value": 0.8472222222222222
+      },
+      {
+        "rank": 4,
+        "detector_id": "wavlm_initial",
+        "display_name": "WavLM inicial",
+        "value": 0.8333333333333334
+      },
+      {
+        "rank": 5,
+        "detector_id": "wavlm_gate_only",
+        "display_name": "WavLM Gate-only",
+        "value": 0.8305555555555556
+      },
+      {
+        "rank": 6,
+        "detector_id": "wavlm_domain_adapt_real",
+        "display_name": "WavLM Domain-adapt real",
+        "value": 0.7916666666666666
+      },
+      {
+        "rank": 7,
+        "detector_id": "cnn_baseline",
+        "display_name": "CNN Log-Mel",
+        "value": 0.675
+      }
+    ],
+    "macro_fake_recall": [
+      {
+        "rank": 1,
+        "detector_id": "wavlm_robust",
+        "display_name": "WavLM Robust",
+        "value": 0.8638888888888889
+      },
+      {
+        "rank": 2,
+        "detector_id": "wavlm_channel_mix",
+        "display_name": "WavLM Channel-mix",
+        "value": 0.8555555555555555
+      },
+      {
+        "rank": 3,
+        "detector_id": "wavlm_control",
+        "display_name": "WavLM Control",
+        "value": 0.8472222222222222
+      },
+      {
+        "rank": 4,
+        "detector_id": "wavlm_initial",
+        "display_name": "WavLM inicial",
+        "value": 0.8333333333333334
+      },
+      {
+        "rank": 5,
+        "detector_id": "wavlm_gate_only",
+        "display_name": "WavLM Gate-only",
+        "value": 0.8305555555555556
+      },
+      {
+        "rank": 6,
+        "detector_id": "wavlm_domain_adapt_real",
+        "display_name": "WavLM Domain-adapt real",
+        "value": 0.7916666666666666
+      },
+      {
+        "rank": 7,
+        "detector_id": "cnn_baseline",
+        "display_name": "CNN Log-Mel",
+        "value": 0.675
+      }
+    ],
+    "eer": [
+      {
+        "rank": 1,
+        "detector_id": "wavlm_control",
+        "display_name": "WavLM Control",
+        "value": 0.3061111111111111
+      },
+      {
+        "rank": 2,
+        "detector_id": "wavlm_gate_only",
+        "display_name": "WavLM Gate-only",
+        "value": 0.30777777777777776
+      },
+      {
+        "rank": 3,
+        "detector_id": "wavlm_domain_adapt_real",
+        "display_name": "WavLM Domain-adapt real",
+        "value": 0.33166666666666667
+      },
+      {
+        "rank": 4,
+        "detector_id": "wavlm_channel_mix",
+        "display_name": "WavLM Channel-mix",
+        "value": 0.3530555555555555
+      },
+      {
+        "rank": 5,
+        "detector_id": "wavlm_robust",
+        "display_name": "WavLM Robust",
+        "value": 0.35444444444444445
+      },
+      {
+        "rank": 6,
+        "detector_id": "cnn_baseline",
+        "display_name": "CNN Log-Mel",
+        "value": 0.45916666666666667
+      },
+      {
+        "rank": 7,
+        "detector_id": "wavlm_initial",
+        "display_name": "WavLM inicial",
+        "value": 0.45916666666666667
+      }
+    ]
+  },
+  "source_files": [
+    {
+      "relative_path": "external_final_holdout/freeze_manifest_external_final.json",
+      "sha256": "9e225530acbe0e2fc665487587573ff0303ed8b08ce905f48c48577676b74a5f",
+      "bytes": 112526
+    },
+    {
+      "relative_path": "external_final_holdout/metadata_external_final.csv",
+      "sha256": "c015c64dc3d31bc7a22287a78c2b1c0ba2633ac7dbdc8a4162ce4dfd29f11ef5",
+      "bytes": 71164
+    },
+    {
+      "relative_path": "external_results/wavlm_final/wavlm_metrics.json",
+      "sha256": "b5cf1d7fdc5c80b36c7feb7a73a40c7d7cff411af2135301a3ef41b79ed97e93",
+      "bytes": 4586
+    },
+    {
+      "relative_path": "external_results/baseline_cnn_final/cnn_metrics.json",
+      "sha256": "fbbc94ab8eda95a2bcae3ecd2beaa48fadbe9c6fdd49d45c3c2c657e7afcb38a",
+      "bytes": 4018
+    },
+    {
+      "relative_path": "external_results/wavlm_domain_adapt_final/summary_mean_std.json",
+      "sha256": "97b956432a0e85bbaddb4ee089aca1e6f18669d12a19e8173e5561623888c710",
+      "bytes": 1045
+    },
+    {
+      "relative_path": "external_results/wavlm_domain_adapt_final/summary_by_generator.csv",
+      "sha256": "9fb8e48116fe56a4506ade1afdaefee63fb9f0e937cbb1f06514e5800d070c9b",
+      "bytes": 741
+    },
+    {
+      "relative_path": "external_results/wavlm_robust_suite_final/summary_by_mode.csv",
+      "sha256": "846d4258ccc1bd51055fd62cd42ed9dd4db9027f266eebe664d02ca6e4e4d83a",
+      "bytes": 1764
+    },
+    {
+      "relative_path": "external_results/wavlm_robust_suite_final/summary_by_generator.csv",
+      "sha256": "64a37eed463ebc1d4142146290e301e47f6ebdb69cb48ab665793d1dedf2088f",
+      "bytes": 3039
+    },
+    {
+      "relative_path": "external_results/wavlm_domain_adapt_final/seed_42/by_generator.csv",
+      "sha256": "f9ac28420b0c0b818dbce292274f4968b710578045a2338d18fcfdf92008fe40",
+      "bytes": 487
+    },
+    {
+      "relative_path": "external_results/wavlm_domain_adapt_final/seed_42/metrics.json",
+      "sha256": "cf276e1691082e3fe5bae480155bce8b7712f13e19de466266b91fbb91f31f62",
+      "bytes": 632
+    },
+    {
+      "relative_path": "external_results/wavlm_domain_adapt_final/seed_123/by_generator.csv",
+      "sha256": "e36ef3b4595040c1ef54f7f205c9b9ac63d37d015b4cd77dceb14183d7f3ee09",
+      "bytes": 494
+    },
+    {
+      "relative_path": "external_results/wavlm_domain_adapt_final/seed_123/metrics.json",
+      "sha256": "01b5712e3f51fe3939d95426afda820dea1fc700b79dddb7e35a0c701d7bcce9",
+      "bytes": 638
+    },
+    {
+      "relative_path": "external_results/wavlm_domain_adapt_final/seed_2026/by_generator.csv",
+      "sha256": "3be8a960d4aab0f9e193ab59b5ae805fff586dcabae76b0d4db3ea8c48f2752f",
+      "bytes": 498
+    },
+    {
+      "relative_path": "external_results/wavlm_domain_adapt_final/seed_2026/metrics.json",
+      "sha256": "5ee63c868d22640245c0ba6b2de8a124bc98adad5330dc31baf9f8caf3b3a9c9",
+      "bytes": 636
+    },
+    {
+      "relative_path": "external_results/wavlm_robust_suite_final/control/seed_42/by_generator.csv",
+      "sha256": "d218643ba0a71289066b9dd74c9d37a277fb7a5a77d86e18190d006d1fe3ec21",
+      "bytes": 455
+    },
+    {
+      "relative_path": "external_results/wavlm_robust_suite_final/control/seed_42/metrics.json",
+      "sha256": "47deb420554b94369737c1365d5b0a222a9fa13f9fa96f33f10bc50edc5b40f2",
+      "bytes": 539
+    },
+    {
+      "relative_path": "external_results/wavlm_robust_suite_final/control/seed_123/by_generator.csv",
+      "sha256": "edccef826f0f012d46b724ae654162d50b72a5d2b61582c37d7f341a62004465",
+      "bytes": 460
+    },
+    {
+      "relative_path": "external_results/wavlm_robust_suite_final/control/seed_123/metrics.json",
+      "sha256": "b1dcbeb24058b892d895031d430d8de49bdc6de1971e0a9c4425b42eefcaea36",
+      "bytes": 610
+    },
+    {
+      "relative_path": "external_results/wavlm_robust_suite_final/control/seed_2026/by_generator.csv",
+      "sha256": "5866d017c2a79484d9e60abc3789231326623c11f33f9bd172e9cb05b2beaa76",
+      "bytes": 473
+    },
+    {
+      "relative_path": "external_results/wavlm_robust_suite_final/control/seed_2026/metrics.json",
+      "sha256": "05cde7c7293b4f0ab99b1da11533dcb1788dfcb9b84a01a1a6d9368a9a492d59",
+      "bytes": 585
+    },
+    {
+      "relative_path": "external_results/wavlm_robust_suite_final/robust/seed_42/by_generator.csv",
+      "sha256": "5ea7f214b6c2316c4c9606e65bdb88535e909ace33ff8010c187d660baf0b347",
+      "bytes": 452
+    },
+    {
+      "relative_path": "external_results/wavlm_robust_suite_final/robust/seed_42/metrics.json",
+      "sha256": "7683f19d46e1875a584322c2af3fd09ae710b85de516719107736a07dfbdad6a",
+      "bytes": 607
+    },
+    {
+      "relative_path": "external_results/wavlm_robust_suite_final/robust/seed_123/by_generator.csv",
+      "sha256": "04bba7f42ea814dc3fda49118b740b2ea7c75da951c3836d831a64f2c8d18bd3",
+      "bytes": 454
+    },
+    {
+      "relative_path": "external_results/wavlm_robust_suite_final/robust/seed_123/metrics.json",
+      "sha256": "73f8faa2548a76ed036c0014568446ac4ac73e8ef933c612fc2d81ad3c69b044",
+      "bytes": 594
+    },
+    {
+      "relative_path": "external_results/wavlm_robust_suite_final/robust/seed_2026/by_generator.csv",
+      "sha256": "2937514ce87f532ecc37a40b16d0c4be947759dc4f0c842914e66c947368bf4c",
+      "bytes": 464
+    },
+    {
+      "relative_path": "external_results/wavlm_robust_suite_final/robust/seed_2026/metrics.json",
+      "sha256": "5d682b60bedf8088192e1626702d3f76d75442c914066a56d19ea46d61299bba",
+      "bytes": 608
+    },
+    {
+      "relative_path": "external_results/wavlm_robust_suite_final/gate_only/seed_42/by_generator.csv",
+      "sha256": "cb6cac097d8673b7d0d477ab07206a6f3b613e43b94daa95da6fa87e54b52361",
+      "bytes": 472
+    },
+    {
+      "relative_path": "external_results/wavlm_robust_suite_final/gate_only/seed_42/metrics.json",
+      "sha256": "14325b1d4c234c385446a8db8005e62573da6f993866ca00ad088b61d7755a27",
+      "bytes": 584
+    },
+    {
+      "relative_path": "external_results/wavlm_robust_suite_final/gate_only/seed_123/by_generator.csv",
+      "sha256": "d6147895c37fc975cc4a959de635a4aef111d2d9b4c25818189ba2908135ddf0",
+      "bytes": 476
+    },
+    {
+      "relative_path": "external_results/wavlm_robust_suite_final/gate_only/seed_123/metrics.json",
+      "sha256": "659cf5b701e70b27a7027e2851952e5babad15bc293874089bbbc13229e1185c",
+      "bytes": 561
+    },
+    {
+      "relative_path": "external_results/wavlm_robust_suite_final/gate_only/seed_2026/by_generator.csv",
+      "sha256": "27ac7bb164143694242aee4493d55fc58300e8ec3fb058b6b5754b51bf2a1a05",
+      "bytes": 483
+    },
+    {
+      "relative_path": "external_results/wavlm_robust_suite_final/gate_only/seed_2026/metrics.json",
+      "sha256": "d936c18efe66e7780d96dd25970528489621a5924964296f883abd940eb61a26",
+      "bytes": 613
+    },
+    {
+      "relative_path": "external_results/wavlm_robust_suite_final/channel_mix/seed_42/by_generator.csv",
+      "sha256": "a6df76f5d3a531ff54312cdc77e2c7bc95fe40c79b37130d2412231f33689883",
+      "bytes": 486
+    },
+    {
+      "relative_path": "external_results/wavlm_robust_suite_final/channel_mix/seed_42/metrics.json",
+      "sha256": "11b041423c36d9afc32076b3b3d1e40407769d9a4ec1b378e53b3627e2e363cd",
+      "bytes": 572
+    },
+    {
+      "relative_path": "external_results/wavlm_robust_suite_final/channel_mix/seed_123/by_generator.csv",
+      "sha256": "1eb11545f8af7d2bfde4c91ac92b7b2125b6d6ba356393be3713e935f3242fe3",
+      "bytes": 491
+    },
+    {
+      "relative_path": "external_results/wavlm_robust_suite_final/channel_mix/seed_123/metrics.json",
+      "sha256": "1ad298910d180e49a3218a8025a592151347a77d0b4de0a8accf2407dd63152a",
+      "bytes": 584
+    },
+    {
+      "relative_path": "external_results/wavlm_robust_suite_final/channel_mix/seed_2026/by_generator.csv",
+      "sha256": "cf5cc4a357a1bb2ba623ea782dc5f4896e5a6353c5b6b828001e6656d19353e7",
+      "bytes": 497
+    },
+    {
+      "relative_path": "external_results/wavlm_robust_suite_final/channel_mix/seed_2026/metrics.json",
+      "sha256": "1656556714758720577e650466be5b482c857c20b872b4bc29ecc3cc278f6d12",
+      "bytes": 559
+    }
+  ],
+  "derived_files": {
+    "detector_summary": {
+      "path": "external_results/FINAL_DETECTION_RESULTS/detector_summary.csv",
+      "sha256": "7cbcfed5be4e26ce6454fc5d56eac059df6c37fab19a382cd72e500e4717f92c"
+    },
+    "generator_summary": {
+      "path": "external_results/FINAL_DETECTION_RESULTS/generator_summary.csv",
+      "sha256": "c8a83aaf041842518447fcb6d07fec2d208b8b6b07479a872e1cd9bdaa928cc3"
+    },
+    "source_files": {
+      "path": "external_results/FINAL_DETECTION_RESULTS/source_files_sha256.csv",
+      "sha256": "bd3664400e5cb8d33f869e4a1dae27f0ba1c963d7dc9e1c0760d7944d617d0f2"
+    },
+    "markdown_tables": {
+      "path": "external_results/FINAL_DETECTION_RESULTS/tables_for_tfg.md",
+      "sha256": "c3fcf03a106f028dd6ffa4792e9cdb675a4def3953119a7dd25e40144bf636fc"
+    }
+  },
+  "results_fingerprint_sha256": "f2f4d960cd9a41382e9797481cd8a17f6f69c4fa29d6dadd57de318c894171c4"
+}

@@ -1,0 +1,15 @@
+{
+  "n": 100,
+  "tn": 82,
+  "fp": 18,
+  "specificity": 0.82,
+  "fpr": 0.18,
+  "prob_fake_mean": 0.4149863037592232,
+  "prob_fake_median": 0.10298118740320206,
+  "prob_fake_min": 4.099093509069007e-09,
+  "prob_fake_max": 0.9999961853027344,
+  "held_out_generator": "qwen",
+  "seed": 123,
+  "threshold": 0.99609375,
+  "checkpoint": "C:\\Users\\gonza\\TFG\\Deepfake-Detection\\experiments\\logo_wavlm_3seeds\\holdout_qwen\\seed_123\\best_model.pt"
+}

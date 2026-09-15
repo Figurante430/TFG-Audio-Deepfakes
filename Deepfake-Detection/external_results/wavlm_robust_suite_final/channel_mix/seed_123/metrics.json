@@ -1,0 +1,22 @@
+{
+  "mode": "channel_mix",
+  "seed": 123,
+  "threshold": 0.9613164663314819,
+  "same_as_initial_wavlm": false,
+  "checkpoint_sha256": "97372f014b8c233d27f99dfbdd9ff351fcc95a181e22dd65a445af3b803a6b8f",
+  "accuracy": 0.65,
+  "balanced_accuracy": 0.6283333333333334,
+  "precision": 0.6303030303030303,
+  "recall": 0.8666666666666667,
+  "specificity": 0.39,
+  "f1": 0.7298245614035087,
+  "fpr": 0.61,
+  "fnr": 0.13333333333333333,
+  "tp": 104,
+  "tn": 39,
+  "fp": 61,
+  "fn": 16,
+  "roc_auc": 0.6919583333333333,
+  "eer": 0.35,
+  "eer_threshold": 0.995685338973999
+}

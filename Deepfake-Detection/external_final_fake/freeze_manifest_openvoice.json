@@ -1,0 +1,235 @@
+{
+  "name": "External final fake holdout - OpenVoice V2",
+  "status": "FROZEN",
+  "frozen_at_utc": "2026-09-15T12:05:00.687500+00:00",
+  "generator": "OpenVoice V2",
+  "count": 20,
+  "speakers": [
+    "vox_ext_01",
+    "vox_ext_02",
+    "vox_ext_03",
+    "vox_ext_04",
+    "vox_ext_05",
+    "vox_ext_06",
+    "vox_ext_07",
+    "vox_ext_08",
+    "vox_ext_09",
+    "vox_ext_10"
+  ],
+  "audios_per_speaker": 2,
+  "sample_rate": 22050,
+  "generation": {
+    "base_generator": "MeloTTS",
+    "base_language": "ES",
+    "base_speaker": "ES",
+    "base_speed": 1.0,
+    "source_se_strategy": "direct_full_wav_embedding_from_fixed_calibration_audio",
+    "target_se_strategy": "ToneColorConverter.extract_se direct full reference WAV",
+    "reference_transcript_used": false,
+    "device": "cuda:0"
+  },
+  "model_identity": {
+    "converter_config_path_at_generation": "C:\\Users\\gonza\\TFG\\OpenVoiceV2\\OpenVoice\\checkpoints_v2\\converter\\config.json",
+    "converter_config_sha256": "9dfff60350b8c63f2c664efd92a61b2516efb22671466960f0e5dfebd881fa47",
+    "converter_checkpoint_path_at_generation": "C:\\Users\\gonza\\TFG\\OpenVoiceV2\\OpenVoice\\checkpoints_v2\\converter\\checkpoint.pth",
+    "converter_checkpoint_sha256": "9652c27e92b6b2a91632590ac9962ef7ae2b712e5c5b7f4c34ec55ee2b37ab9e",
+    "calibration_text": "Esta grabación de calibración se utiliza exclusivamente para obtener una representación estable de la voz española empleada como fuente antes de realizar la conversión de timbre.",
+    "calibration_wav_sha256": "ca1d86d084e70f9e227bedee92bffa65752335592d06d1460d35f7388c51c409"
+  },
+  "source_files": {
+    "jobs_csv": {
+      "path_at_generation": "C:\\Users\\gonza\\TFG\\Deepfake-Detection\\_external_fake_build\\openvoice_jobs.csv",
+      "sha256": "e256598219d9834ea5369d156d1d556413f1e140b8a5df2e5b0e859ce0f23f29"
+    },
+    "generation_csv": {
+      "path_at_generation": "C:\\Users\\gonza\\TFG\\Deepfake-Detection\\_external_fake_build\\openvoice_generation.csv",
+      "sha256": "49758b5ce2e70dd50b40578f52d42252c99c035a7935ee3c422abafc95fccc7c"
+    },
+    "generation_manifest": {
+      "path_at_generation": "C:\\Users\\gonza\\TFG\\Deepfake-Detection\\_external_fake_build\\openvoice_generation_manifest.json",
+      "sha256": "c4f0497fe74b87d0c22602eb2acf330d3a470eff8c5d17b1a2eb9f299151a495"
+    }
+  },
+  "files": [
+    {
+      "file": "openvoice_001.wav",
+      "speaker": "vox_ext_01",
+      "seed": 2026091801,
+      "sha256": "25bddaecf90e238b90616365d53702074a6ce251391464b228128506860ee017",
+      "bytes": 199724,
+      "duration_s": 4.527891156462585,
+      "sample_rate": 22050
+    },
+    {
+      "file": "openvoice_002.wav",
+      "speaker": "vox_ext_01",
+      "seed": 2026091802,
+      "sha256": "1451887f5e423de51ce2fb48c6828d60e92303cda6046e553a2d27ea4b459783",
+      "bytes": 186924,
+      "duration_s": 4.237641723356009,
+      "sample_rate": 22050
+    },
+    {
+      "file": "openvoice_003.wav",
+      "speaker": "vox_ext_02",
+      "seed": 2026091803,
+      "sha256": "9c22b3e8fe9cc23cf6fd83cc89530c040f072b8de84b05d944f44eefe99440b7",
+      "bytes": 215084,
+      "duration_s": 4.876190476190477,
+      "sample_rate": 22050
+    },
+    {
+      "file": "openvoice_004.wav",
+      "speaker": "vox_ext_02",
+      "seed": 2026091804,
+      "sha256": "60f2681a6fdef8d1580f9bcf220d0829d4abe88eb71921eb0675bdf0166834e5",
+      "bytes": 187436,
+      "duration_s": 4.249251700680272,
+      "sample_rate": 22050
+    },
+    {
+      "file": "openvoice_005.wav",
+      "speaker": "vox_ext_03",
+      "seed": 2026091805,
+      "sha256": "ea7fa4cbda22087b9347f1b250c343b85d413a9abeaeb1a2c4c3bc5f5a8bc9eb",
+      "bytes": 224300,
+      "duration_s": 5.085170068027211,
+      "sample_rate": 22050
+    },
+    {
+      "file": "openvoice_006.wav",
+      "speaker": "vox_ext_03",
+      "seed": 2026091806,
+      "sha256": "50701d79de020ebbbab367c1d7958f0256a07f5ee9ab73c566e531bdf17ea975",
+      "bytes": 206380,
+      "duration_s": 4.6788208616780045,
+      "sample_rate": 22050
+    },
+    {
+      "file": "openvoice_007.wav",
+      "speaker": "vox_ext_04",
+      "seed": 2026091807,
+      "sha256": "8432cca8b7cfb1cce11989128725cef3f048972904ade5ce0f29031dd90ca53b",
+      "bytes": 197164,
+      "duration_s": 4.46984126984127,
+      "sample_rate": 22050
+    },
+    {
+      "file": "openvoice_008.wav",
+      "speaker": "vox_ext_04",
+      "seed": 2026091808,
+      "sha256": "96e69cff26a69bad1b46c00a1112edc177ebda5fbadd04509fa85d7f33ce96e1",
+      "bytes": 225836,
+      "duration_s": 5.12,
+      "sample_rate": 22050
+    },
+    {
+      "file": "openvoice_009.wav",
+      "speaker": "vox_ext_05",
+      "seed": 2026091809,
+      "sha256": "dc646f9105c7c060b5edea0dc4e3c0f72e3b5ca70b9898b8336ac41c9a4a4c58",
+      "bytes": 203308,
+      "duration_s": 4.609160997732427,
+      "sample_rate": 22050
+    },
+    {
+      "file": "openvoice_010.wav",
+      "speaker": "vox_ext_05",
+      "seed": 2026091810,
+      "sha256": "fadb8096924594bda5a304c359b46766d7935b394d87994f800cfa01f9404b4c",
+      "bytes": 236076,
+      "duration_s": 5.352199546485261,
+      "sample_rate": 22050
+    },
+    {
+      "file": "openvoice_011.wav",
+      "speaker": "vox_ext_06",
+      "seed": 2026091811,
+      "sha256": "d7d1933ea0000397f125c972d2c65cb1183ad9c5125136e315a8c265c4e98063",
+      "bytes": 184876,
+      "duration_s": 4.191201814058957,
+      "sample_rate": 22050
+    },
+    {
+      "file": "openvoice_012.wav",
+      "speaker": "vox_ext_06",
+      "seed": 2026091812,
+      "sha256": "de8f9c451c38892148cec158059f7e30fd041f41177e4b4dea4e34a8f027d0de",
+      "bytes": 235052,
+      "duration_s": 5.328979591836735,
+      "sample_rate": 22050
+    },
+    {
+      "file": "openvoice_013.wav",
+      "speaker": "vox_ext_07",
+      "seed": 2026091813,
+      "sha256": "8094068d3d3c64cb6588536cdbe0b2b2d1659b64c9586692edc80e9ecd4ec31a",
+      "bytes": 220716,
+      "duration_s": 5.00390022675737,
+      "sample_rate": 22050
+    },
+    {
+      "file": "openvoice_014.wav",
+      "speaker": "vox_ext_07",
+      "seed": 2026091814,
+      "sha256": "4b0545b2ee1e3fea6045b2104e85708e6a4af17a3296f34c638fe469a02ab0d3",
+      "bytes": 223276,
+      "duration_s": 5.061950113378685,
+      "sample_rate": 22050
+    },
+    {
+      "file": "openvoice_015.wav",
+      "speaker": "vox_ext_08",
+      "seed": 2026091815,
+      "sha256": "5019b35c1dc3cad3f47098d82a70f6f6a63aa6e385b28793f57673aef3ed1c3a",
+      "bytes": 244268,
+      "duration_s": 5.537959183673469,
+      "sample_rate": 22050
+    },
+    {
+      "file": "openvoice_016.wav",
+      "speaker": "vox_ext_08",
+      "seed": 2026091816,
+      "sha256": "a45b7b28d50cf5beed2070091671bc304514f738fdd0b4f2692321c26984585d",
+      "bytes": 230444,
+      "duration_s": 5.224489795918367,
+      "sample_rate": 22050
+    },
+    {
+      "file": "openvoice_017.wav",
+      "speaker": "vox_ext_09",
+      "seed": 2026091817,
+      "sha256": "3375c3499f5ad1b136d2f43539ad018ba2a2d46bd7492401f143ee45aa2e3b46",
+      "bytes": 225324,
+      "duration_s": 5.108390022675737,
+      "sample_rate": 22050
+    },
+    {
+      "file": "openvoice_018.wav",
+      "speaker": "vox_ext_09",
+      "seed": 2026091818,
+      "sha256": "54d9a50f2c270c5a9cc7bb22eb2c397201210a407f0eb91f4a8472fe955fee69",
+      "bytes": 218156,
+      "duration_s": 4.9458503401360545,
+      "sample_rate": 22050
+    },
+    {
+      "file": "openvoice_019.wav",
+      "speaker": "vox_ext_10",
+      "seed": 2026091819,
+      "sha256": "eacc7b5901c25b49a3119920e7b37ee6a86ab02c5dc66c706c85e75fbfb43680",
+      "bytes": 219180,
+      "duration_s": 4.96907029478458,
+      "sample_rate": 22050
+    },
+    {
+      "file": "openvoice_020.wav",
+      "speaker": "vox_ext_10",
+      "seed": 2026091820,
+      "sha256": "2acacc1a786d7f20a0681334cd25c37c36cd4f732e75c115c935102526a8c764",
+      "bytes": 250924,
+      "duration_s": 5.688888888888889,
+      "sample_rate": 22050
+    }
+  ]
+}

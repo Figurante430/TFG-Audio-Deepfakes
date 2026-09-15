@@ -1,0 +1,8 @@
+mode,seed,generator,metric,value,prob_fake_mean
+control,2026,VoxPopuli,specificity,0.61,0.6613967166414659
+control,2026,RVC,fake_recall,0.35,0.6063216958777048
+control,2026,Qwen3-TTS,fake_recall,0.85,0.9277848958969116
+control,2026,Fun-CosyVoice3,fake_recall,0.75,0.8803562998771668
+control,2026,Confucius4-TTS,fake_recall,0.95,0.9936845064163208
+control,2026,OpenVoice V2,fake_recall,0.95,0.9956790715456009
+control,2026,VoxCPM2,fake_recall,1.0,0.9958486557006836

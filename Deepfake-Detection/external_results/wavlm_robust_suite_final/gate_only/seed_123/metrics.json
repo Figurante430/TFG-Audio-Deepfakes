@@ -1,0 +1,22 @@
+{
+  "mode": "gate_only",
+  "seed": 123,
+  "threshold": 0.42363685369491577,
+  "same_as_initial_wavlm": false,
+  "checkpoint_sha256": "a9d8d26ab6991061190ce5d355cff5ae10b5e299536dc9f5e85350b27eef8539",
+  "accuracy": 0.6363636363636364,
+  "balanced_accuracy": 0.6125,
+  "precision": 0.6176470588235294,
+  "recall": 0.875,
+  "specificity": 0.35,
+  "f1": 0.7241379310344829,
+  "fpr": 0.65,
+  "fnr": 0.125,
+  "tp": 105,
+  "tn": 35,
+  "fp": 65,
+  "fn": 15,
+  "roc_auc": 0.6827916666666667,
+  "eer": 0.3275,
+  "eer_threshold": 0.8139049410820007
+}

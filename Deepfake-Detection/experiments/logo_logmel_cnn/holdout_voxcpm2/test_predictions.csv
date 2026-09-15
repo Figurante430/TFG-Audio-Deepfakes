@@ -1,0 +1,81 @@
+﻿path,label,prediction,prob_fake,generator,speaker_id
+data_normalized/real/gonzalo/Gonzalo_ (4).wav,0,0,0.02032802253961563,real,gonzalo
+data_normalized/real/gonzalo/Gonzalo_ (5).wav,0,0,0.0006832255166955292,real,gonzalo
+data_normalized/real/gonzalo/Gonzalo_ (12).wav,0,0,0.0028182165697216988,real,gonzalo
+data_normalized/real/gonzalo/Gonzalo_ (14).wav,0,0,0.0019234776264056563,real,gonzalo
+data_normalized/real/gonzalo/Gonzalo_ (15).wav,0,0,0.00013089217827655375,real,gonzalo
+data_normalized/real/gonzalo/Gonzalo_ (18).wav,0,0,0.00033532711677253246,real,gonzalo
+data_normalized/real/gonzalo/Gonzalo_ (29).wav,0,0,0.0016592455795034766,real,gonzalo
+data_normalized/real/gonzalo/Gonzalo_ (32).wav,0,0,0.014563718810677528,real,gonzalo
+data_normalized/real/gonzalo/Gonzalo_ (36).wav,0,0,0.007608010899275541,real,gonzalo
+data_normalized/real/mario/Mario_ (15).wav,0,0,0.004130090586841106,real,mario
+data_normalized/real/mario/Mario_ (30).wav,0,1,0.07144913822412491,real,mario
+data_normalized/real/mario/Mario_ (40).wav,0,0,0.02016003616154194,real,mario
+data_normalized/real/marta/Marta_ (4).wav,0,1,0.0657217800617218,real,marta
+data_normalized/real/marta/Marta_ (5).wav,0,0,0.001984803471714258,real,marta
+data_normalized/real/marta/Marta_ (12).wav,0,0,0.011438130401074886,real,marta
+data_normalized/real/marta/Marta_ (14).wav,0,0,0.0017324381042271852,real,marta
+data_normalized/real/marta/Marta_ (15).wav,0,0,0.0005499488906934857,real,marta
+data_normalized/real/marta/Marta_ (18).wav,0,0,0.0011439213994890451,real,marta
+data_normalized/real/marta/Marta_ (29).wav,0,0,0.01641922816634178,real,marta
+data_normalized/real/marta/Marta_ (32).wav,0,1,0.08023838698863983,real,marta
+data_normalized/real/marta/Marta_ (36).wav,0,0,0.0038307763170450926,real,marta
+data_normalized/real/noelia/Noe_ (4).wav,0,0,0.002429042477160692,real,noelia
+data_normalized/real/noelia/Noe_ (5).wav,0,0,8.600483852205798e-05,real,noelia
+data_normalized/real/noelia/Noe_ (12).wav,0,0,0.001050354796461761,real,noelia
+data_normalized/real/noelia/Noe_ (14).wav,0,0,0.003403550246730447,real,noelia
+data_normalized/real/noelia/Noe_ (15).wav,0,0,0.0008561428403481841,real,noelia
+data_normalized/real/noelia/Noe_ (18).wav,0,0,0.0015043598832562566,real,noelia
+data_normalized/real/noelia/Noe_ (29).wav,0,0,0.0012971819378435612,real,noelia
+data_normalized/real/noelia/Noe_ (32).wav,0,0,0.0009375718072988093,real,noelia
+data_normalized/real/noelia/Noe_ (36).wav,0,0,0.045266393572092056,real,noelia
+data_normalized/real/rober/Rober_ (4).wav,0,0,0.0006588973919861019,real,rober
+data_normalized/real/rober/Rober_ (5).wav,0,0,3.3015432563843206e-05,real,rober
+data_normalized/real/rober/Rober_ (12).wav,0,0,0.0005970399943180382,real,rober
+data_normalized/real/rober/Rober_ (14).wav,0,0,0.006661193445324898,real,rober
+data_normalized/real/rober/Rober_ (15).wav,0,0,0.00020048755686730146,real,rober
+data_normalized/real/rober/Rober_ (18).wav,0,0,3.506860593915917e-05,real,rober
+data_normalized/real/rober/Rober_ (29).wav,0,0,0.04000705108046532,real,rober
+data_normalized/real/rober/Rober_ (32).wav,0,0,0.00030070063075982034,real,rober
+data_normalized/real/rober/Rober_ (36).wav,0,0,0.0008101036073639989,real,rober
+data_normalized/real/samu/Samu_04.wav,0,0,0.003967094700783491,real,samu
+data_normalized/real/samu/Samu_05.wav,0,0,0.0006542740156874061,real,samu
+data_normalized/real/samu/Samu_12.wav,0,0,0.0010036873864009976,real,samu
+data_normalized/real/samu/Samu_15.wav,0,0,4.093220695722266e-07,real,samu
+data_normalized/real/samu/Samu_16.wav,0,0,2.2533208721142728e-06,real,samu
+data_normalized/real/samu/Samu_19.wav,0,0,0.00501131359487772,real,samu
+data_normalized/real/samu/Samu_32.wav,0,0,0.00010127652785740793,real,samu
+data_normalized/real/samu/Samu_36.wav,0,0,0.001223047380335629,real,samu
+data_normalized/tts/voxcpm2/004_ref1.wav,1,1,0.9969314336776733,voxcpm2,gonzalo
+data_normalized/tts/voxcpm2/005_ref1.wav,1,1,0.9989612102508545,voxcpm2,gonzalo
+data_normalized/tts/voxcpm2/012_ref1.wav,1,1,0.9999362230300903,voxcpm2,gonzalo
+data_normalized/tts/voxcpm2/014_ref1.wav,1,1,0.9990597367286682,voxcpm2,gonzalo
+data_normalized/tts/voxcpm2/015_ref1.wav,1,1,0.998738706111908,voxcpm2,gonzalo
+data_normalized/tts/voxcpm2/018_ref1.wav,1,1,0.9997126460075378,voxcpm2,gonzalo
+data_normalized/tts/voxcpm2/029_ref1.wav,1,1,0.9992156028747559,voxcpm2,gonzalo
+data_normalized/tts/voxcpm2/032_ref1.wav,1,1,0.9996664524078369,voxcpm2,gonzalo
+data_normalized/tts/voxcpm2/036_ref1.wav,1,1,0.9997724890708923,voxcpm2,gonzalo
+data_normalized/tts/voxcpm2/049_ref2.wav,1,1,0.999897837638855,voxcpm2,marta
+data_normalized/tts/voxcpm2/055_ref2.wav,1,1,0.9998824596405029,voxcpm2,marta
+data_normalized/tts/voxcpm2/057_ref2.wav,1,1,0.9999966621398926,voxcpm2,marta
+data_normalized/tts/voxcpm2/077_ref2.wav,1,1,0.9999951124191284,voxcpm2,marta
+data_normalized/tts/voxcpm2/082_ref3.wav,1,1,0.9995020627975464,voxcpm2,noelia
+data_normalized/tts/voxcpm2/095_ref3.wav,1,1,0.9999009370803833,voxcpm2,noelia
+data_normalized/tts/voxcpm2/097_ref3.wav,1,1,0.9999938011169434,voxcpm2,noelia
+data_normalized/tts/voxcpm2/099_ref3.wav,1,1,0.9999294281005859,voxcpm2,noelia
+data_normalized/tts/voxcpm2/103_ref3.wav,1,1,0.9998998641967773,voxcpm2,noelia
+data_normalized/tts/voxcpm2/108_ref3.wav,1,1,0.9996048808097839,voxcpm2,noelia
+data_normalized/tts/voxcpm2/109_ref3.wav,1,1,0.9991439580917358,voxcpm2,noelia
+data_normalized/tts/voxcpm2/110_ref3.wav,1,1,0.999721348285675,voxcpm2,noelia
+data_normalized/tts/voxcpm2/121_ref4.wav,1,1,0.9626556038856506,voxcpm2,rober
+data_normalized/tts/voxcpm2/124_ref4.wav,1,1,0.9808541536331177,voxcpm2,rober
+data_normalized/tts/voxcpm2/138_ref4.wav,1,1,0.9864065051078796,voxcpm2,rober
+data_normalized/tts/voxcpm2/142_ref4.wav,1,1,0.9989678859710693,voxcpm2,rober
+data_normalized/tts/voxcpm2/143_ref4.wav,1,1,0.9913090467453003,voxcpm2,rober
+data_normalized/tts/voxcpm2/158_ref4.wav,1,1,0.9983254075050354,voxcpm2,rober
+data_normalized/tts/voxcpm2/159_ref4.wav,1,1,0.9962947964668274,voxcpm2,rober
+data_normalized/tts/voxcpm2/168_ref5.wav,1,1,0.9996747970581055,voxcpm2,samu
+data_normalized/tts/voxcpm2/177_ref5.wav,1,1,0.9989815354347229,voxcpm2,samu
+data_normalized/tts/voxcpm2/183_ref5.wav,1,1,0.9687321186065674,voxcpm2,samu
+data_normalized/tts/voxcpm2/185_ref5.wav,1,1,0.9975645542144775,voxcpm2,samu
+data_normalized/tts/voxcpm2/189_ref5.wav,1,1,0.797977864742279,voxcpm2,samu

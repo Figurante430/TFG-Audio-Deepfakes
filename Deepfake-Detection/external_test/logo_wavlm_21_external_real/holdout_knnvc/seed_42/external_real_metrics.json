@@ -1,0 +1,15 @@
+{
+  "n": 100,
+  "tn": 78,
+  "fp": 22,
+  "specificity": 0.78,
+  "fpr": 0.22,
+  "prob_fake_mean": 0.19684577370562517,
+  "prob_fake_median": 0.0034095862647518516,
+  "prob_fake_min": 1.906255597816653e-09,
+  "prob_fake_max": 0.997730553150177,
+  "held_out_generator": "knnvc",
+  "seed": 42,
+  "threshold": 0.34765625,
+  "checkpoint": "C:\\Users\\gonza\\TFG\\Deepfake-Detection\\experiments\\logo_wavlm_3seeds\\holdout_knnvc\\seed_42\\best_model.pt"
+}

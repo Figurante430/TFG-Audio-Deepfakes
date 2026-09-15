@@ -1,0 +1,8 @@
+seed,generator,n,primary_metric,primary_value,correct,errors,prob_fake_mean
+123,VoxPopuli,100,specificity,0.54,54,46,0.48085460451227846
+123,RVC,20,fake_recall,0.3,6,14,0.3913173176137207
+123,Qwen3-TTS,20,fake_recall,0.9,18,2,0.8687613651156425
+123,Fun-CosyVoice3,20,fake_recall,0.8,16,4,0.744959143246524
+123,Confucius4-TTS,20,fake_recall,0.85,17,3,0.8943988263607026
+123,OpenVoice V2,20,fake_recall,0.95,19,1,0.9145818561315536
+123,VoxCPM2,20,fake_recall,0.85,17,3,0.8876679092645645

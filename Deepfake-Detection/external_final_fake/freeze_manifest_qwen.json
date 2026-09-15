@@ -1,0 +1,240 @@
+{
+  "name": "External final fake holdout - Qwen3-TTS",
+  "status": "FROZEN",
+  "frozen_at_utc": "2026-09-15T11:26:37.910842+00:00",
+  "generator": "Qwen3-TTS",
+  "count": 20,
+  "speakers": [
+    "vox_ext_01",
+    "vox_ext_02",
+    "vox_ext_03",
+    "vox_ext_04",
+    "vox_ext_05",
+    "vox_ext_06",
+    "vox_ext_07",
+    "vox_ext_08",
+    "vox_ext_09",
+    "vox_ext_10"
+  ],
+  "audios_per_speaker": 2,
+  "model": {
+    "id": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+    "snapshot": "fd4b254389122332181a7c3db7f27e918eec64e3",
+    "dtype": "torch.bfloat16",
+    "attention": "sdpa"
+  },
+  "generation": {
+    "language": "Spanish",
+    "clone_mode": "ICL",
+    "x_vector_only_mode": false,
+    "non_streaming_mode": true,
+    "parameters": {
+      "do_sample": true,
+      "repetition_penalty": 1.05,
+      "temperature": 0.9,
+      "top_p": 1.0,
+      "top_k": 50,
+      "subtalker_dosample": true,
+      "subtalker_temperature": 0.9,
+      "subtalker_top_p": 1.0,
+      "subtalker_top_k": 50,
+      "max_new_tokens": 8192
+    }
+  },
+  "source_files": {
+    "jobs_csv": {
+      "path_at_generation": "C:\\Users\\gonza\\TFG\\Deepfake-Detection\\_external_fake_build\\qwen_jobs.csv",
+      "sha256": "3612fd382ec4fc5b1896268a970d42eb24a93e1f059cda1771a7b18248219fc6"
+    },
+    "generation_csv": {
+      "path_at_generation": "C:\\Users\\gonza\\TFG\\Deepfake-Detection\\_external_fake_build\\qwen_generation.csv",
+      "sha256": "a4c5eb53db75298f053a7f2bbcf816ade145df3122efbab31e82da7cd6ddf8a3"
+    },
+    "generation_manifest": {
+      "path_at_generation": "C:\\Users\\gonza\\TFG\\Deepfake-Detection\\_external_fake_build\\qwen_generation_manifest.json",
+      "sha256": "68c3178f7ebcf11e53f68676cf1695977db2fb54584ba72fe6f4bba79e01f523"
+    }
+  },
+  "files": [
+    {
+      "file": "qwen_001.wav",
+      "speaker": "vox_ext_01",
+      "seed": 2026091501,
+      "sha256": "7fbe57f2da17d816ef437aff08a30d7035ec190bff24584ccf8e39a9db437392",
+      "bytes": 169004,
+      "duration_s": 3.52,
+      "sample_rate": 24000
+    },
+    {
+      "file": "qwen_002.wav",
+      "speaker": "vox_ext_01",
+      "seed": 2026091502,
+      "sha256": "6616c6ce1ffe9f29d120ed345985d70e159fb9230734cfac9e92aff8b3c8c2c6",
+      "bytes": 145964,
+      "duration_s": 3.04,
+      "sample_rate": 24000
+    },
+    {
+      "file": "qwen_003.wav",
+      "speaker": "vox_ext_02",
+      "seed": 2026091503,
+      "sha256": "7810411ad29bd73d25d5def8cb83d2aa598707060bb44d1b0618492002418389",
+      "bytes": 234284,
+      "duration_s": 4.88,
+      "sample_rate": 24000
+    },
+    {
+      "file": "qwen_004.wav",
+      "speaker": "vox_ext_02",
+      "seed": 2026091504,
+      "sha256": "5403d739e4ee99c79b72443d066c4903ff6a36e5d5242d8a696214e7327ce63c",
+      "bytes": 215084,
+      "duration_s": 4.48,
+      "sample_rate": 24000
+    },
+    {
+      "file": "qwen_005.wav",
+      "speaker": "vox_ext_03",
+      "seed": 2026091505,
+      "sha256": "c201e51524bf0c3b0041d9a862ef0607e60c949da86741d9b422411e61053330",
+      "bytes": 226604,
+      "duration_s": 4.72,
+      "sample_rate": 24000
+    },
+    {
+      "file": "qwen_006.wav",
+      "speaker": "vox_ext_03",
+      "seed": 2026091506,
+      "sha256": "779873c408008a287d0130ff8641d69599353e7a4635909ce7268d158c8899c7",
+      "bytes": 218924,
+      "duration_s": 4.56,
+      "sample_rate": 24000
+    },
+    {
+      "file": "qwen_007.wav",
+      "speaker": "vox_ext_04",
+      "seed": 2026091507,
+      "sha256": "0a943fb2640d29e0f4f5a341376e000ba90667cc4b60ffee34535ebd95aa8094",
+      "bytes": 215084,
+      "duration_s": 4.48,
+      "sample_rate": 24000
+    },
+    {
+      "file": "qwen_008.wav",
+      "speaker": "vox_ext_04",
+      "seed": 2026091508,
+      "sha256": "39ed68aa192dbe0a71f9b1338932e53110723e36274894cbed420b7ed8ea5990",
+      "bytes": 192044,
+      "duration_s": 4.0,
+      "sample_rate": 24000
+    },
+    {
+      "file": "qwen_009.wav",
+      "speaker": "vox_ext_05",
+      "seed": 2026091509,
+      "sha256": "494763c13443e6ed04ce55da90ad21ee1a8741b2c8cac1dbdf949f24d16eda5d",
+      "bytes": 180524,
+      "duration_s": 3.76,
+      "sample_rate": 24000
+    },
+    {
+      "file": "qwen_010.wav",
+      "speaker": "vox_ext_05",
+      "seed": 2026091510,
+      "sha256": "e68f388036afbed7968d07be59a0823da884f76ab3d46dbac1f2dc8046083402",
+      "bytes": 199724,
+      "duration_s": 4.16,
+      "sample_rate": 24000
+    },
+    {
+      "file": "qwen_011.wav",
+      "speaker": "vox_ext_06",
+      "seed": 2026091511,
+      "sha256": "70c98429f38d729fe230cc8c460e04d7fbb0f8b4ac70e95b225b0eb0625e2452",
+      "bytes": 157484,
+      "duration_s": 3.28,
+      "sample_rate": 24000
+    },
+    {
+      "file": "qwen_012.wav",
+      "speaker": "vox_ext_06",
+      "seed": 2026091512,
+      "sha256": "15af01f89fa6262c0e8d9f896895f62517d3ad61122c4f8a0ef3cdd7467e3d5a",
+      "bytes": 207404,
+      "duration_s": 4.32,
+      "sample_rate": 24000
+    },
+    {
+      "file": "qwen_013.wav",
+      "speaker": "vox_ext_07",
+      "seed": 2026091513,
+      "sha256": "e08c653c35152496d3eeddc049ab16251420b49cd22031aab0967cfe857fe5c9",
+      "bytes": 203564,
+      "duration_s": 4.24,
+      "sample_rate": 24000
+    },
+    {
+      "file": "qwen_014.wav",
+      "speaker": "vox_ext_07",
+      "seed": 2026091514,
+      "sha256": "067bd523555fef7b36340d5d14d96521de086a776b9a0544d4341f443c6cb28e",
+      "bytes": 480044,
+      "duration_s": 10.0,
+      "sample_rate": 24000
+    },
+    {
+      "file": "qwen_015.wav",
+      "speaker": "vox_ext_08",
+      "seed": 2026091515,
+      "sha256": "be9b389e38ba948caeb330b0acf8d04c250124e91972e6c7944428c65a45b490",
+      "bytes": 261164,
+      "duration_s": 5.44,
+      "sample_rate": 24000
+    },
+    {
+      "file": "qwen_016.wav",
+      "speaker": "vox_ext_08",
+      "seed": 2026091516,
+      "sha256": "654eab5e6f42f74e21750a5d2f0fc47765d33c8efbbf6690c3248b4f94688b88",
+      "bytes": 249644,
+      "duration_s": 5.2,
+      "sample_rate": 24000
+    },
+    {
+      "file": "qwen_017.wav",
+      "speaker": "vox_ext_09",
+      "seed": 2026091517,
+      "sha256": "29c21a731f5ad3ceffea086c0b60dabb984778317504b7e03033aee6a59527a1",
+      "bytes": 184364,
+      "duration_s": 3.84,
+      "sample_rate": 24000
+    },
+    {
+      "file": "qwen_018.wav",
+      "speaker": "vox_ext_09",
+      "seed": 2026091518,
+      "sha256": "ba3f3cd52e1bd873024776c6688d4fbdde06eb1e1987be0ab7ba15917609c46b",
+      "bytes": 184364,
+      "duration_s": 3.84,
+      "sample_rate": 24000
+    },
+    {
+      "file": "qwen_019.wav",
+      "speaker": "vox_ext_10",
+      "seed": 2026091519,
+      "sha256": "f29221d4455cad510b6083f4d65a013d0db6e94893f82d2f4ca5ceab2f07e59b",
+      "bytes": 218924,
+      "duration_s": 4.56,
+      "sample_rate": 24000
+    },
+    {
+      "file": "qwen_020.wav",
+      "speaker": "vox_ext_10",
+      "seed": 2026091520,
+      "sha256": "e058f8c6b5d0770f962f78413cd003944463ec1ac494cedce1c5ddb8f94ab7e8",
+      "bytes": 238126,
+      "duration_s": 4.960041666666666,
+      "sample_rate": 24000
+    }
+  ]
+}

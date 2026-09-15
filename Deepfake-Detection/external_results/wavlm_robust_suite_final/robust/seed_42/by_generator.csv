@@ -1,0 +1,8 @@
+mode,seed,generator,metric,value,prob_fake_mean
+robust,42,VoxPopuli,specificity,0.47,0.7452187022770522
+robust,42,RVC,fake_recall,0.45,0.6401600735145621
+robust,42,Qwen3-TTS,fake_recall,0.85,0.9276172623038292
+robust,42,Fun-CosyVoice3,fake_recall,0.7,0.8919200437143445
+robust,42,Confucius4-TTS,fake_recall,0.95,0.9913736552000045
+robust,42,OpenVoice V2,fake_recall,0.95,0.9852274417877197
+robust,42,VoxCPM2,fake_recall,0.95,0.9897926777601243

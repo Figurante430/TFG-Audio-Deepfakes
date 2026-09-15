@@ -1,0 +1,50 @@
+detector_id,display_name,generator,metric,mean,std,n_runs
+cnn_baseline,CNN Log-Mel,VoxPopuli,specificity,0.47,0.0,1
+cnn_baseline,CNN Log-Mel,RVC,fake_recall,0.65,0.0,1
+cnn_baseline,CNN Log-Mel,Qwen3-TTS,fake_recall,0.6,0.0,1
+cnn_baseline,CNN Log-Mel,Fun-CosyVoice3,fake_recall,0.6,0.0,1
+cnn_baseline,CNN Log-Mel,Confucius4-TTS,fake_recall,0.65,0.0,1
+cnn_baseline,CNN Log-Mel,OpenVoice V2,fake_recall,0.9,0.0,1
+cnn_baseline,CNN Log-Mel,VoxCPM2,fake_recall,0.65,0.0,1
+wavlm_initial,WavLM inicial,VoxPopuli,specificity,0.35,0.0,1
+wavlm_initial,WavLM inicial,RVC,fake_recall,0.6,0.0,1
+wavlm_initial,WavLM inicial,Qwen3-TTS,fake_recall,0.85,0.0,1
+wavlm_initial,WavLM inicial,Fun-CosyVoice3,fake_recall,0.8,0.0,1
+wavlm_initial,WavLM inicial,Confucius4-TTS,fake_recall,1.0,0.0,1
+wavlm_initial,WavLM inicial,OpenVoice V2,fake_recall,1.0,0.0,1
+wavlm_initial,WavLM inicial,VoxCPM2,fake_recall,0.75,0.0,1
+wavlm_control,WavLM Control,VoxPopuli,specificity,0.45666666666666667,0.13868429375143146,3
+wavlm_control,WavLM Control,RVC,fake_recall,0.39999999999999997,0.08660254037844388,3
+wavlm_control,WavLM Control,Qwen3-TTS,fake_recall,0.9166666666666666,0.05773502691896256,3
+wavlm_control,WavLM Control,Fun-CosyVoice3,fake_recall,0.8,0.04999999999999999,3
+wavlm_control,WavLM Control,Confucius4-TTS,fake_recall,0.9833333333333333,0.028867513459481315,3
+wavlm_control,WavLM Control,OpenVoice V2,fake_recall,0.9833333333333333,0.028867513459481315,3
+wavlm_control,WavLM Control,VoxCPM2,fake_recall,1.0,0.0,3
+wavlm_robust,WavLM Robust,VoxPopuli,specificity,0.35666666666666663,0.09865765724632494,3
+wavlm_robust,WavLM Robust,RVC,fake_recall,0.6,0.1322875655532295,3
+wavlm_robust,WavLM Robust,Qwen3-TTS,fake_recall,0.9,0.04999999999999999,3
+wavlm_robust,WavLM Robust,Fun-CosyVoice3,fake_recall,0.75,0.050000000000000044,3
+wavlm_robust,WavLM Robust,Confucius4-TTS,fake_recall,0.9833333333333333,0.028867513459481315,3
+wavlm_robust,WavLM Robust,OpenVoice V2,fake_recall,0.9833333333333333,0.028867513459481315,3
+wavlm_robust,WavLM Robust,VoxCPM2,fake_recall,0.9666666666666667,0.028867513459481315,3
+wavlm_gate_only,WavLM Gate-only,VoxPopuli,specificity,0.45666666666666667,0.11590225767142472,3
+wavlm_gate_only,WavLM Gate-only,RVC,fake_recall,0.45,0.1322875655532295,3
+wavlm_gate_only,WavLM Gate-only,Qwen3-TTS,fake_recall,0.85,0.04999999999999999,3
+wavlm_gate_only,WavLM Gate-only,Fun-CosyVoice3,fake_recall,0.7333333333333333,0.028867513459481315,3
+wavlm_gate_only,WavLM Gate-only,Confucius4-TTS,fake_recall,0.9833333333333333,0.028867513459481315,3
+wavlm_gate_only,WavLM Gate-only,OpenVoice V2,fake_recall,0.9833333333333333,0.028867513459481315,3
+wavlm_gate_only,WavLM Gate-only,VoxCPM2,fake_recall,0.9833333333333333,0.028867513459481315,3
+wavlm_channel_mix,WavLM Channel-mix,VoxPopuli,specificity,0.41333333333333333,0.04932882862316245,3
+wavlm_channel_mix,WavLM Channel-mix,RVC,fake_recall,0.55,0.0,3
+wavlm_channel_mix,WavLM Channel-mix,Qwen3-TTS,fake_recall,0.8666666666666667,0.028867513459481315,3
+wavlm_channel_mix,WavLM Channel-mix,Fun-CosyVoice3,fake_recall,0.7833333333333333,0.028867513459481315,3
+wavlm_channel_mix,WavLM Channel-mix,Confucius4-TTS,fake_recall,0.9833333333333333,0.028867513459481315,3
+wavlm_channel_mix,WavLM Channel-mix,OpenVoice V2,fake_recall,0.9833333333333333,0.028867513459481315,3
+wavlm_channel_mix,WavLM Channel-mix,VoxCPM2,fake_recall,0.9666666666666667,0.05773502691896256,3
+wavlm_domain_adapt_real,WavLM Domain-adapt real,VoxPopuli,specificity,0.53,0.02645751311064593,3
+wavlm_domain_adapt_real,WavLM Domain-adapt real,RVC,fake_recall,0.3833333333333333,0.10408329997330665,3
+wavlm_domain_adapt_real,WavLM Domain-adapt real,Qwen3-TTS,fake_recall,0.8666666666666667,0.05773502691896256,3
+wavlm_domain_adapt_real,WavLM Domain-adapt real,Fun-CosyVoice3,fake_recall,0.7333333333333334,0.07637626158259735,3
+wavlm_domain_adapt_real,WavLM Domain-adapt real,Confucius4-TTS,fake_recall,0.9,0.08660254037844388,3
+wavlm_domain_adapt_real,WavLM Domain-adapt real,OpenVoice V2,fake_recall,0.9833333333333333,0.028867513459481315,3
+wavlm_domain_adapt_real,WavLM Domain-adapt real,VoxCPM2,fake_recall,0.8833333333333333,0.05773502691896256,3

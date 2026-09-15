@@ -1,0 +1,42 @@
+{
+  "model": "microsoft/wavlm-base-plus",
+  "held_out_generator": "cosyvoice",
+  "best_epoch": 1,
+  "best_stage": "head",
+  "best_val_auc": 0.9992364955144112,
+  "calibrated_threshold": 0.58984375,
+  "val_best_f1_at_calibrated_threshold": 0.9970326409495549,
+  "n_train": 990,
+  "n_val": 200,
+  "n_test": 80,
+  "threshold_0.5": {
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "specificity": 1.0,
+    "f1": 1.0,
+    "tp": 33,
+    "tn": 47,
+    "fp": 0,
+    "fn": 0,
+    "loss": 0.009453353760181925,
+    "roc_auc": 1.0,
+    "eer": 0.0,
+    "eer_threshold": 0.87255859375
+  },
+  "threshold_calibrated": {
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "specificity": 1.0,
+    "f1": 1.0,
+    "tp": 33,
+    "tn": 47,
+    "fp": 0,
+    "fn": 0,
+    "loss": 0.009453353760181925,
+    "roc_auc": 1.0,
+    "eer": 0.0,
+    "eer_threshold": 0.87255859375
+  }
+}

@@ -1,0 +1,63 @@
+COUNTERFACTUAL SHORTCUT TEST — COMMON VOICE REAL
+================================================================================
+
+Audios: 100
+Modelos: 21
+Thresholds: calibrados exclusivamente con validation de cada modelo
+
+ESPECIFICIDAD MEDIA DE LOS 21 MODELOS
+--------------------------------------------------------------------------------
+original               Spec=0.8214 ± 0.0598 FPR=0.1786 delta=+0.0000
+rms_m25                Spec=0.8233 ± 0.0553 FPR=0.1767 delta=+0.0019
+gate_m45               Spec=0.9129 ± 0.0409 FPR=0.0871 delta=+0.0914
+rms_m25_gate_m45       Spec=0.9257 ± 0.0368 FPR=0.0743 delta=+0.1043
+lowpass_4k             Spec=0.8357 ± 0.0524 FPR=0.1643 delta=+0.0143
+
+ESPECIFICIDAD POR SPEAKER Y VARIANTE
+--------------------------------------------------------------------------------
+
+[original]
+speaker_ext_01     Spec=0.9214 ± 0.0514 delta=+0.0000
+speaker_ext_02     Spec=0.6310 ± 0.0928 delta=+0.0000
+speaker_ext_03     Spec=0.6524 ± 0.1520 delta=+0.0000
+speaker_ext_04     Spec=0.9048 ± 0.0350 delta=+0.0000
+speaker_ext_05     Spec=0.9976 ± 0.0109 delta=+0.0000
+
+[rms_m25]
+speaker_ext_01     Spec=0.9190 ± 0.0487 delta=-0.0024
+speaker_ext_02     Spec=0.6286 ± 0.0943 delta=-0.0024
+speaker_ext_03     Spec=0.6643 ± 0.1334 delta=+0.0119
+speaker_ext_04     Spec=0.9071 ± 0.0327 delta=+0.0024
+speaker_ext_05     Spec=0.9976 ± 0.0109 delta=+0.0000
+
+[gate_m45]
+speaker_ext_01     Spec=0.9905 ± 0.0201 delta=+0.0690
+speaker_ext_02     Spec=0.7048 ± 0.1011 delta=+0.0738
+speaker_ext_03     Spec=0.9238 ± 0.0718 delta=+0.2714
+speaker_ext_04     Spec=0.9452 ± 0.0445 delta=+0.0405
+speaker_ext_05     Spec=1.0000 ± 0.0000 delta=+0.0024
+
+[rms_m25_gate_m45]
+speaker_ext_01     Spec=0.9476 ± 0.0192 delta=+0.0262
+speaker_ext_02     Spec=0.8000 ± 0.0908 delta=+0.1690
+speaker_ext_03     Spec=0.9500 ± 0.0652 delta=+0.2976
+speaker_ext_04     Spec=0.9310 ± 0.0432 delta=+0.0262
+speaker_ext_05     Spec=1.0000 ± 0.0000 delta=+0.0024
+
+[lowpass_4k]
+speaker_ext_01     Spec=0.9214 ± 0.0489 delta=+0.0000
+speaker_ext_02     Spec=0.6381 ± 0.0865 delta=+0.0071
+speaker_ext_03     Spec=0.6952 ± 0.1244 delta=+0.0429
+speaker_ext_04     Spec=0.9238 ± 0.0340 delta=+0.0190
+speaker_ext_05     Spec=1.0000 ± 0.0000 delta=+0.0024
+
+INTERPRETACIÓN DE LAS VARIANTES
+--------------------------------------------------------------------------------
+rms_m25: normaliza el RMS a -25 dBFS, con protección contra clipping.
+gate_m45: fuerza a cero muestras por debajo de -45 dBFS sin cambiar duración.
+rms_m25_gate_m45: aplica ambas operaciones.
+lowpass_4k: FIR paso bajo a 4 kHz para reducir contenido de alta frecuencia.
+original: copia PCM16 del audio externo sin transformación diagnóstica.
+
+Un delta positivo indica que la transformación redujo falsos positivos.
+Este experimento es diagnóstico: no sustituye al test externo original.

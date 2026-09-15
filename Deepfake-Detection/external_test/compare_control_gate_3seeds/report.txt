@@ -1,0 +1,28 @@
+CONTROL VS GATE-ONLY — 3 SEEDS
+========================================================================
+
+control    internal_acc=0.9976 ± 0.0021  internal_f1=0.9986 ± 0.0013  external_spec=0.9133 ± 0.0404  external_fpr=0.0867 ± 0.0404
+gate_only  internal_acc=0.9964 ± 0.0000  internal_f1=0.9978 ± 0.0000  external_spec=0.8867 ± 0.0702  external_fpr=0.1133 ± 0.0702
+
+POR SPEAKER EXTERNO
+------------------------------------------------------------------------
+
+speaker_ext_01
+  control    spec=0.9833 ± 0.0289
+  gate_only  spec=0.9500 ± 0.0500
+
+speaker_ext_02
+  control    spec=0.8000 ± 0.0866
+  gate_only  spec=0.8000 ± 0.1500
+
+speaker_ext_03
+  control    spec=0.8000 ± 0.0866
+  gate_only  spec=0.7667 ± 0.1258
+
+speaker_ext_04
+  control    spec=0.9833 ± 0.0289
+  gate_only  spec=0.9167 ± 0.0289
+
+speaker_ext_05
+  control    spec=1.0000 ± 0.0000
+  gate_only  spec=1.0000 ± 0.0000

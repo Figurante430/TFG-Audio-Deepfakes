@@ -1,0 +1,53 @@
+﻿path,label,prob_fake,generator,speaker_id,prediction_calibrated,prediction_05,threshold_calibrated,seed,held_out_speaker
+data_normalized/real/rober/Rober_ (4).wav,0,6.139278411865234e-06,real,rober,0,0,0.60791015625,2026,rober
+data_normalized/real/rober/Rober_ (5).wav,0,3.5762786865234375e-06,real,rober,0,0,0.60791015625,2026,rober
+data_normalized/real/rober/Rober_ (12).wav,0,1.2993812561035156e-05,real,rober,0,0,0.60791015625,2026,rober
+data_normalized/real/rober/Rober_ (14).wav,0,4.756450653076172e-05,real,rober,0,0,0.60791015625,2026,rober
+data_normalized/real/rober/Rober_ (15).wav,0,1.2516975402832031e-06,real,rober,0,0,0.60791015625,2026,rober
+data_normalized/real/rober/Rober_ (18).wav,0,5.960464477539063e-08,real,rober,0,0,0.60791015625,2026,rober
+data_normalized/real/rober/Rober_ (29).wav,0,0.00011771917343139648,real,rober,0,0,0.60791015625,2026,rober
+data_normalized/real/rober/Rober_ (32).wav,0,5.066394805908203e-06,real,rober,0,0,0.60791015625,2026,rober
+data_normalized/real/rober/Rober_ (36).wav,0,1.8358230590820312e-05,real,rober,0,0,0.60791015625,2026,rober
+data_normalized/tts/confucius4/121_ref4.wav,1,1.0,confucius4,rober,1,1,0.60791015625,2026,rober
+data_normalized/tts/confucius4/124_ref4.wav,1,0.99951171875,confucius4,rober,1,1,0.60791015625,2026,rober
+data_normalized/tts/confucius4/138_ref4.wav,1,1.0,confucius4,rober,1,1,0.60791015625,2026,rober
+data_normalized/tts/confucius4/142_ref4.wav,1,1.0,confucius4,rober,1,1,0.60791015625,2026,rober
+data_normalized/tts/confucius4/143_ref4.wav,1,1.0,confucius4,rober,1,1,0.60791015625,2026,rober
+data_normalized/tts/confucius4/158_ref4.wav,1,1.0,confucius4,rober,1,1,0.60791015625,2026,rober
+data_normalized/tts/confucius4/159_ref4.wav,1,0.998046875,confucius4,rober,1,1,0.60791015625,2026,rober
+data_normalized/tts/cosyvoice/121_ref4.wav,1,1.0,cosyvoice,rober,1,1,0.60791015625,2026,rober
+data_normalized/tts/cosyvoice/124_ref4.wav,1,0.9814453125,cosyvoice,rober,1,1,0.60791015625,2026,rober
+data_normalized/tts/cosyvoice/138_ref4.wav,1,0.99853515625,cosyvoice,rober,1,1,0.60791015625,2026,rober
+data_normalized/tts/cosyvoice/142_ref4.wav,1,1.0,cosyvoice,rober,1,1,0.60791015625,2026,rober
+data_normalized/tts/cosyvoice/143_ref4.wav,1,1.0,cosyvoice,rober,1,1,0.60791015625,2026,rober
+data_normalized/tts/cosyvoice/158_ref4.wav,1,1.0,cosyvoice,rober,1,1,0.60791015625,2026,rober
+data_normalized/tts/cosyvoice/159_ref4.wav,1,1.0,cosyvoice,rober,1,1,0.60791015625,2026,rober
+data_normalized/tts/openVoice/121_ref4.wav,1,0.99951171875,openvoice,rober,1,1,0.60791015625,2026,rober
+data_normalized/tts/openVoice/124_ref4.wav,1,0.98876953125,openvoice,rober,1,1,0.60791015625,2026,rober
+data_normalized/tts/openVoice/138_ref4.wav,1,1.0,openvoice,rober,1,1,0.60791015625,2026,rober
+data_normalized/tts/openVoice/142_ref4.wav,1,1.0,openvoice,rober,1,1,0.60791015625,2026,rober
+data_normalized/tts/openVoice/143_ref4.wav,1,0.99951171875,openvoice,rober,1,1,0.60791015625,2026,rober
+data_normalized/tts/openVoice/158_ref4.wav,1,1.0,openvoice,rober,1,1,0.60791015625,2026,rober
+data_normalized/tts/openVoice/159_ref4.wav,1,1.0,openvoice,rober,1,1,0.60791015625,2026,rober
+data_normalized/tts/qwen/121_ref4.wav,1,0.99951171875,qwen,rober,1,1,0.60791015625,2026,rober
+data_normalized/tts/qwen/124_ref4.wav,1,0.99462890625,qwen,rober,1,1,0.60791015625,2026,rober
+data_normalized/tts/qwen/138_ref4.wav,1,1.0,qwen,rober,1,1,0.60791015625,2026,rober
+data_normalized/tts/qwen/142_ref4.wav,1,0.9990234375,qwen,rober,1,1,0.60791015625,2026,rober
+data_normalized/tts/qwen/143_ref4.wav,1,1.0,qwen,rober,1,1,0.60791015625,2026,rober
+data_normalized/tts/qwen/158_ref4.wav,1,1.0,qwen,rober,1,1,0.60791015625,2026,rober
+data_normalized/tts/qwen/159_ref4.wav,1,1.0,qwen,rober,1,1,0.60791015625,2026,rober
+data_normalized/tts/voxcpm2/121_ref4.wav,1,0.91796875,voxcpm2,rober,1,1,0.60791015625,2026,rober
+data_normalized/tts/voxcpm2/124_ref4.wav,1,0.9951171875,voxcpm2,rober,1,1,0.60791015625,2026,rober
+data_normalized/tts/voxcpm2/138_ref4.wav,1,0.9990234375,voxcpm2,rober,1,1,0.60791015625,2026,rober
+data_normalized/tts/voxcpm2/142_ref4.wav,1,1.0,voxcpm2,rober,1,1,0.60791015625,2026,rober
+data_normalized/tts/voxcpm2/143_ref4.wav,1,1.0,voxcpm2,rober,1,1,0.60791015625,2026,rober
+data_normalized/tts/voxcpm2/158_ref4.wav,1,1.0,voxcpm2,rober,1,1,0.60791015625,2026,rober
+data_normalized/tts/voxcpm2/159_ref4.wav,1,0.9990234375,voxcpm2,rober,1,1,0.60791015625,2026,rober
+data_normalized/sts/knnvc/082_ref3.wav,1,1.0,knnvc,rober,1,1,0.60791015625,2026,rober
+data_normalized/sts/knnvc/095_ref3.wav,1,1.0,knnvc,rober,1,1,0.60791015625,2026,rober
+data_normalized/sts/knnvc/097_ref3.wav,1,1.0,knnvc,rober,1,1,0.60791015625,2026,rober
+data_normalized/sts/knnvc/099_ref3.wav,1,1.0,knnvc,rober,1,1,0.60791015625,2026,rober
+data_normalized/sts/knnvc/103_ref3.wav,1,1.0,knnvc,rober,1,1,0.60791015625,2026,rober
+data_normalized/sts/knnvc/108_ref3.wav,1,1.0,knnvc,rober,1,1,0.60791015625,2026,rober
+data_normalized/sts/knnvc/109_ref3.wav,1,1.0,knnvc,rober,1,1,0.60791015625,2026,rober
+data_normalized/sts/knnvc/110_ref3.wav,1,1.0,knnvc,rober,1,1,0.60791015625,2026,rober

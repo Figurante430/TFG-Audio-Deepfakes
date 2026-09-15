@@ -1,0 +1,256 @@
+{
+  "name": "External final fake holdout - Fun-CosyVoice3",
+  "status": "FROZEN",
+  "frozen_at_utc": "2026-09-15T11:36:43.637818+00:00",
+  "generator": "Fun-CosyVoice3",
+  "model": "Fun-CosyVoice3-0.5B",
+  "count": 20,
+  "speakers": [
+    "vox_ext_01",
+    "vox_ext_02",
+    "vox_ext_03",
+    "vox_ext_04",
+    "vox_ext_05",
+    "vox_ext_06",
+    "vox_ext_07",
+    "vox_ext_08",
+    "vox_ext_09",
+    "vox_ext_10"
+  ],
+  "audios_per_speaker": 2,
+  "sample_rate": 24000,
+  "generation": {
+    "clone_mode": "zero_shot",
+    "language": "Spanish",
+    "prompt_prefix": "You are a helpful assistant.<|endofprompt|>",
+    "stream": false,
+    "speed": 1.0,
+    "fp16": true,
+    "device": "NVIDIA GeForce RTX 5060 Laptop GPU"
+  },
+  "model_identity": {
+    "model_path_at_generation": "C:\\Users\\gonza\\TFG\\CosyVoice\\CosyVoice\\pretrained_models\\Fun-CosyVoice3-0.5B",
+    "model_files": {
+      "cosyvoice3.yaml": {
+        "bytes": 6934,
+        "sha256": "f5a6b2c6f05139d0f18861a1fe506f751e787026b77c05f7e8fef9f8a4405965"
+      },
+      "llm.pt": {
+        "bytes": 2024669519,
+        "sha256": "69f43bd545131c30e98947fb360ea8b4dc9916d8e83dded7757c7ea4f5a24970"
+      },
+      "flow.pt": {
+        "bytes": 1329116148,
+        "sha256": "a6fab32a7825e5b0bc855ddd948f8db9370b0a786fbc249caa4595e95b608e4b"
+      },
+      "hift.pt": {
+        "bytes": 83202622,
+        "sha256": "b279d7641eb97ae55b3b540cfba4f953c26492a2df758328a89a4d007ab87a65"
+      },
+      "campplus.onnx": {
+        "bytes": 28303423,
+        "sha256": "a6ac6a63997761ae2997373e2ee1c47040854b4b759ea41ec48e4e42df0f4d73"
+      },
+      "speech_tokenizer_v3.onnx": {
+        "bytes": 969451503,
+        "sha256": "23236a74175dbdda47afc66dbadd5bcb41303c467a57c261cb8539ad9db9208d"
+      }
+    }
+  },
+  "source_files": {
+    "jobs_csv": {
+      "path_at_generation": "C:\\Users\\gonza\\TFG\\Deepfake-Detection\\_external_fake_build\\cosyvoice_jobs.csv",
+      "sha256": "6006be5c20373d7cdfd8b8182890204bf901892809c52e39d08ceeeabcf587cc"
+    },
+    "generation_csv": {
+      "path_at_generation": "C:\\Users\\gonza\\TFG\\Deepfake-Detection\\_external_fake_build\\cosyvoice_generation.csv",
+      "sha256": "3f4aeba38a827feda731e7a60b674ed6f2a836424eb2509cfda52d2830136b9d"
+    },
+    "generation_manifest": {
+      "path_at_generation": "C:\\Users\\gonza\\TFG\\Deepfake-Detection\\_external_fake_build\\cosyvoice_generation_manifest.json",
+      "sha256": "93c1f5993216050b05ecd372ce9365370111f2d2b1f4a466ba70b0957b9721da"
+    }
+  },
+  "files": [
+    {
+      "file": "cosyvoice_001.wav",
+      "speaker": "vox_ext_01",
+      "seed": 2026091601,
+      "sha256": "c16c0ad2bbb232f4f46396d5bec83ff697502c3dc2e4056f7d898c25f3a26fa5",
+      "bytes": 186284,
+      "duration_s": 3.88,
+      "sample_rate": 24000
+    },
+    {
+      "file": "cosyvoice_002.wav",
+      "speaker": "vox_ext_01",
+      "seed": 2026091602,
+      "sha256": "469337ffff8f5e481be8205ed5d1d1902b8097b6f64b3f4739f8fc18578d8780",
+      "bytes": 207404,
+      "duration_s": 4.32,
+      "sample_rate": 24000
+    },
+    {
+      "file": "cosyvoice_003.wav",
+      "speaker": "vox_ext_02",
+      "seed": 2026091603,
+      "sha256": "81aebf14fef5496688746a25e1f1e28587a99845f964432fb806809e47653edb",
+      "bytes": 249644,
+      "duration_s": 5.2,
+      "sample_rate": 24000
+    },
+    {
+      "file": "cosyvoice_004.wav",
+      "speaker": "vox_ext_02",
+      "seed": 2026091604,
+      "sha256": "b423295a140af7d2e53c19390c96b4a023069cea5752932ae7685ad752e4ced5",
+      "bytes": 213164,
+      "duration_s": 4.44,
+      "sample_rate": 24000
+    },
+    {
+      "file": "cosyvoice_005.wav",
+      "speaker": "vox_ext_03",
+      "seed": 2026091605,
+      "sha256": "197920d6795639696c01a222811309e5ca545384de9d59c7863359f05959b7f4",
+      "bytes": 249644,
+      "duration_s": 5.2,
+      "sample_rate": 24000
+    },
+    {
+      "file": "cosyvoice_006.wav",
+      "speaker": "vox_ext_03",
+      "seed": 2026091606,
+      "sha256": "ff03376137607cceb78782778a5a67927f027a6e099adf9690304bb9a91f784f",
+      "bytes": 245804,
+      "duration_s": 5.12,
+      "sample_rate": 24000
+    },
+    {
+      "file": "cosyvoice_007.wav",
+      "speaker": "vox_ext_04",
+      "seed": 2026091607,
+      "sha256": "fccf01dbe764fc20f613a55bf7298f9ac1ba263d2b8c0b264f7161b5bae3d026",
+      "bytes": 211244,
+      "duration_s": 4.4,
+      "sample_rate": 24000
+    },
+    {
+      "file": "cosyvoice_008.wav",
+      "speaker": "vox_ext_04",
+      "seed": 2026091608,
+      "sha256": "d6626cd162a9b8398774c9e1ee72ae22c03d5c52263747856d2e1510f7999005",
+      "bytes": 259244,
+      "duration_s": 5.4,
+      "sample_rate": 24000
+    },
+    {
+      "file": "cosyvoice_009.wav",
+      "speaker": "vox_ext_05",
+      "seed": 2026091609,
+      "sha256": "b39553b780f7d2bf5fb41f3bf7609664fe0fbe95b19d9b73b77b1da556218672",
+      "bytes": 213164,
+      "duration_s": 4.44,
+      "sample_rate": 24000
+    },
+    {
+      "file": "cosyvoice_010.wav",
+      "speaker": "vox_ext_05",
+      "seed": 2026091610,
+      "sha256": "4acee0717d964361f908654d742a311db6a8e4db53536cd502f9ba9f485adac2",
+      "bytes": 230444,
+      "duration_s": 4.8,
+      "sample_rate": 24000
+    },
+    {
+      "file": "cosyvoice_011.wav",
+      "speaker": "vox_ext_06",
+      "seed": 2026091611,
+      "sha256": "ad85d702d69fde7bf7e94065d1fdb09810d501da84a1d56130c67386236d22e3",
+      "bytes": 176684,
+      "duration_s": 3.68,
+      "sample_rate": 24000
+    },
+    {
+      "file": "cosyvoice_012.wav",
+      "speaker": "vox_ext_06",
+      "seed": 2026091612,
+      "sha256": "c117b0935cd0b8357a0def7238cb0d598499be6a3d640fa92c0e0930816cd7e7",
+      "bytes": 188204,
+      "duration_s": 3.92,
+      "sample_rate": 24000
+    },
+    {
+      "file": "cosyvoice_013.wav",
+      "speaker": "vox_ext_07",
+      "seed": 2026091613,
+      "sha256": "b3e32ab6008482c2fb5b35f3115c81bb9d8b440c3c0b32ef7f23f1eb4acb2731",
+      "bytes": 238124,
+      "duration_s": 4.96,
+      "sample_rate": 24000
+    },
+    {
+      "file": "cosyvoice_014.wav",
+      "speaker": "vox_ext_07",
+      "seed": 2026091614,
+      "sha256": "5d6b37b5f8b0df9cbf96d933deb788ed3e3b35447b66b45d04c263f21ebb14b3",
+      "bytes": 614444,
+      "duration_s": 12.8,
+      "sample_rate": 24000
+    },
+    {
+      "file": "cosyvoice_015.wav",
+      "speaker": "vox_ext_08",
+      "seed": 2026091615,
+      "sha256": "31815f33985d21fc66a84e42e0811ecdf0d4c13d57aae12713176ce8c887c745",
+      "bytes": 240044,
+      "duration_s": 5.0,
+      "sample_rate": 24000
+    },
+    {
+      "file": "cosyvoice_016.wav",
+      "speaker": "vox_ext_08",
+      "seed": 2026091616,
+      "sha256": "3974ea64472a2c7e6b907925cab600ed32e711dc66d45cf9401143ca43bc36f4",
+      "bytes": 266924,
+      "duration_s": 5.56,
+      "sample_rate": 24000
+    },
+    {
+      "file": "cosyvoice_017.wav",
+      "speaker": "vox_ext_09",
+      "seed": 2026091617,
+      "sha256": "b5ae5441b9c4801a16332020d0cfb7a93750f1a8c2b1a0a326f8dea89e062f8a",
+      "bytes": 192044,
+      "duration_s": 4.0,
+      "sample_rate": 24000
+    },
+    {
+      "file": "cosyvoice_018.wav",
+      "speaker": "vox_ext_09",
+      "seed": 2026091618,
+      "sha256": "d8e9aa6c2db086638db0ac0bb2b19fc2b06a3075db1d6c06cd205aa229facfdb",
+      "bytes": 217004,
+      "duration_s": 4.52,
+      "sample_rate": 24000
+    },
+    {
+      "file": "cosyvoice_019.wav",
+      "speaker": "vox_ext_10",
+      "seed": 2026091619,
+      "sha256": "ca56fbe9a52e24b6116fd644b08adb4becd0366978ad3ae11ebd09e95856da1e",
+      "bytes": 226604,
+      "duration_s": 4.72,
+      "sample_rate": 24000
+    },
+    {
+      "file": "cosyvoice_020.wav",
+      "speaker": "vox_ext_10",
+      "seed": 2026091620,
+      "sha256": "2d6ee8dc1e5e5faf9a7608947a9db232d77c911a232937c622f2861346022832",
+      "bytes": 249644,
+      "duration_s": 5.2,
+      "sample_rate": 24000
+    }
+  ]
+}

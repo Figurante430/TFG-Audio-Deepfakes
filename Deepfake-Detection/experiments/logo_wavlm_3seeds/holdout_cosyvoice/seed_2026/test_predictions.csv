@@ -1,0 +1,81 @@
+﻿path,label,prob_fake,generator,speaker_id,prediction_calibrated,prediction_05,threshold_calibrated,seed
+data_normalized/real/gonzalo/Gonzalo_ (4).wav,0,0.11981201171875,real,gonzalo,0,0,0.74169921875,2026
+data_normalized/real/gonzalo/Gonzalo_ (5).wav,0,2.2649765014648438e-06,real,gonzalo,0,0,0.74169921875,2026
+data_normalized/real/gonzalo/Gonzalo_ (12).wav,0,2.3543834686279297e-05,real,gonzalo,0,0,0.74169921875,2026
+data_normalized/real/gonzalo/Gonzalo_ (14).wav,0,0.0004124641418457031,real,gonzalo,0,0,0.74169921875,2026
+data_normalized/real/gonzalo/Gonzalo_ (15).wav,0,3.993511199951172e-06,real,gonzalo,0,0,0.74169921875,2026
+data_normalized/real/gonzalo/Gonzalo_ (18).wav,0,9.715557098388672e-06,real,gonzalo,0,0,0.74169921875,2026
+data_normalized/real/gonzalo/Gonzalo_ (29).wav,0,0.00014543533325195312,real,gonzalo,0,0,0.74169921875,2026
+data_normalized/real/gonzalo/Gonzalo_ (32).wav,0,0.0009255409240722656,real,gonzalo,0,0,0.74169921875,2026
+data_normalized/real/gonzalo/Gonzalo_ (36).wav,0,3.319978713989258e-05,real,gonzalo,0,0,0.74169921875,2026
+data_normalized/real/mario/Mario_ (15).wav,0,0.0011968612670898438,real,mario,0,0,0.74169921875,2026
+data_normalized/real/mario/Mario_ (30).wav,0,0.00034880638122558594,real,mario,0,0,0.74169921875,2026
+data_normalized/real/mario/Mario_ (40).wav,0,0.0082855224609375,real,mario,0,0,0.74169921875,2026
+data_normalized/real/marta/Marta_ (4).wav,0,0.0002892017364501953,real,marta,0,0,0.74169921875,2026
+data_normalized/real/marta/Marta_ (5).wav,0,0.0001634359359741211,real,marta,0,0,0.74169921875,2026
+data_normalized/real/marta/Marta_ (12).wav,0,0.0003275871276855469,real,marta,0,0,0.74169921875,2026
+data_normalized/real/marta/Marta_ (14).wav,0,0.0010862350463867188,real,marta,0,0,0.74169921875,2026
+data_normalized/real/marta/Marta_ (15).wav,0,0.00055694580078125,real,marta,0,0,0.74169921875,2026
+data_normalized/real/marta/Marta_ (18).wav,0,0.0002148151397705078,real,marta,0,0,0.74169921875,2026
+data_normalized/real/marta/Marta_ (29).wav,0,0.0970458984375,real,marta,0,0,0.74169921875,2026
+data_normalized/real/marta/Marta_ (32).wav,0,1.7762184143066406e-05,real,marta,0,0,0.74169921875,2026
+data_normalized/real/marta/Marta_ (36).wav,0,0.0018100738525390625,real,marta,0,0,0.74169921875,2026
+data_normalized/real/noelia/Noe_ (4).wav,0,3.737211227416992e-05,real,noelia,0,0,0.74169921875,2026
+data_normalized/real/noelia/Noe_ (5).wav,0,2.205371856689453e-06,real,noelia,0,0,0.74169921875,2026
+data_normalized/real/noelia/Noe_ (12).wav,0,7.152557373046875e-07,real,noelia,0,0,0.74169921875,2026
+data_normalized/real/noelia/Noe_ (14).wav,0,0.0009775161743164062,real,noelia,0,0,0.74169921875,2026
+data_normalized/real/noelia/Noe_ (15).wav,0,0.0002758502960205078,real,noelia,0,0,0.74169921875,2026
+data_normalized/real/noelia/Noe_ (18).wav,0,6.502866744995117e-05,real,noelia,0,0,0.74169921875,2026
+data_normalized/real/noelia/Noe_ (29).wav,0,2.9325485229492188e-05,real,noelia,0,0,0.74169921875,2026
+data_normalized/real/noelia/Noe_ (32).wav,0,1.4066696166992188e-05,real,noelia,0,0,0.74169921875,2026
+data_normalized/real/noelia/Noe_ (36).wav,0,0.0017747879028320312,real,noelia,0,0,0.74169921875,2026
+data_normalized/real/rober/Rober_ (4).wav,0,5.662441253662109e-06,real,rober,0,0,0.74169921875,2026
+data_normalized/real/rober/Rober_ (5).wav,0,1.3113021850585938e-06,real,rober,0,0,0.74169921875,2026
+data_normalized/real/rober/Rober_ (12).wav,0,3.159046173095703e-06,real,rober,0,0,0.74169921875,2026
+data_normalized/real/rober/Rober_ (14).wav,0,1.621246337890625e-05,real,rober,0,0,0.74169921875,2026
+data_normalized/real/rober/Rober_ (15).wav,0,1.0132789611816406e-06,real,rober,0,0,0.74169921875,2026
+data_normalized/real/rober/Rober_ (18).wav,0,5.960464477539063e-08,real,rober,0,0,0.74169921875,2026
+data_normalized/real/rober/Rober_ (29).wav,0,5.143880844116211e-05,real,rober,0,0,0.74169921875,2026
+data_normalized/real/rober/Rober_ (32).wav,0,2.9206275939941406e-06,real,rober,0,0,0.74169921875,2026
+data_normalized/real/rober/Rober_ (36).wav,0,1.329183578491211e-05,real,rober,0,0,0.74169921875,2026
+data_normalized/real/samu/Samu_04.wav,0,0.0002715587615966797,real,samu,0,0,0.74169921875,2026
+data_normalized/real/samu/Samu_05.wav,0,0.00016605854034423828,real,samu,0,0,0.74169921875,2026
+data_normalized/real/samu/Samu_12.wav,0,0.00014650821685791016,real,samu,0,0,0.74169921875,2026
+data_normalized/real/samu/Samu_15.wav,0,2.384185791015625e-07,real,samu,0,0,0.74169921875,2026
+data_normalized/real/samu/Samu_16.wav,0,0.0,real,samu,0,0,0.74169921875,2026
+data_normalized/real/samu/Samu_19.wav,0,4.869699478149414e-05,real,samu,0,0,0.74169921875,2026
+data_normalized/real/samu/Samu_32.wav,0,9.995698928833008e-05,real,samu,0,0,0.74169921875,2026
+data_normalized/real/samu/Samu_36.wav,0,0.0102081298828125,real,samu,0,0,0.74169921875,2026
+data_normalized/tts/cosyvoice/004_ref1.wav,1,0.986328125,cosyvoice,gonzalo,1,1,0.74169921875,2026
+data_normalized/tts/cosyvoice/005_ref1.wav,1,0.99951171875,cosyvoice,gonzalo,1,1,0.74169921875,2026
+data_normalized/tts/cosyvoice/012_ref1.wav,1,0.99951171875,cosyvoice,gonzalo,1,1,0.74169921875,2026
+data_normalized/tts/cosyvoice/014_ref1.wav,1,0.9990234375,cosyvoice,gonzalo,1,1,0.74169921875,2026
+data_normalized/tts/cosyvoice/015_ref1.wav,1,1.0,cosyvoice,gonzalo,1,1,0.74169921875,2026
+data_normalized/tts/cosyvoice/018_ref1.wav,1,0.99951171875,cosyvoice,gonzalo,1,1,0.74169921875,2026
+data_normalized/tts/cosyvoice/029_ref1.wav,1,0.99609375,cosyvoice,gonzalo,1,1,0.74169921875,2026
+data_normalized/tts/cosyvoice/032_ref1.wav,1,1.0,cosyvoice,gonzalo,1,1,0.74169921875,2026
+data_normalized/tts/cosyvoice/036_ref1.wav,1,0.99951171875,cosyvoice,gonzalo,1,1,0.74169921875,2026
+data_normalized/tts/cosyvoice/049_ref2.wav,1,1.0,cosyvoice,marta,1,1,0.74169921875,2026
+data_normalized/tts/cosyvoice/055_ref2.wav,1,1.0,cosyvoice,marta,1,1,0.74169921875,2026
+data_normalized/tts/cosyvoice/057_ref2.wav,1,1.0,cosyvoice,marta,1,1,0.74169921875,2026
+data_normalized/tts/cosyvoice/077_ref2.wav,1,1.0,cosyvoice,marta,1,1,0.74169921875,2026
+data_normalized/tts/cosyvoice/082_ref3.wav,1,1.0,cosyvoice,noelia,1,1,0.74169921875,2026
+data_normalized/tts/cosyvoice/095_ref3.wav,1,0.99951171875,cosyvoice,noelia,1,1,0.74169921875,2026
+data_normalized/tts/cosyvoice/097_ref3.wav,1,1.0,cosyvoice,noelia,1,1,0.74169921875,2026
+data_normalized/tts/cosyvoice/099_ref3.wav,1,0.99951171875,cosyvoice,noelia,1,1,0.74169921875,2026
+data_normalized/tts/cosyvoice/103_ref3.wav,1,0.97265625,cosyvoice,noelia,1,1,0.74169921875,2026
+data_normalized/tts/cosyvoice/108_ref3.wav,1,0.99755859375,cosyvoice,noelia,1,1,0.74169921875,2026
+data_normalized/tts/cosyvoice/109_ref3.wav,1,0.99951171875,cosyvoice,noelia,1,1,0.74169921875,2026
+data_normalized/tts/cosyvoice/110_ref3.wav,1,0.99755859375,cosyvoice,noelia,1,1,0.74169921875,2026
+data_normalized/tts/cosyvoice/121_ref4.wav,1,1.0,cosyvoice,rober,1,1,0.74169921875,2026
+data_normalized/tts/cosyvoice/124_ref4.wav,1,0.98779296875,cosyvoice,rober,1,1,0.74169921875,2026
+data_normalized/tts/cosyvoice/138_ref4.wav,1,0.99560546875,cosyvoice,rober,1,1,0.74169921875,2026
+data_normalized/tts/cosyvoice/142_ref4.wav,1,1.0,cosyvoice,rober,1,1,0.74169921875,2026
+data_normalized/tts/cosyvoice/143_ref4.wav,1,1.0,cosyvoice,rober,1,1,0.74169921875,2026
+data_normalized/tts/cosyvoice/158_ref4.wav,1,0.99951171875,cosyvoice,rober,1,1,0.74169921875,2026
+data_normalized/tts/cosyvoice/159_ref4.wav,1,1.0,cosyvoice,rober,1,1,0.74169921875,2026
+data_normalized/tts/cosyvoice/168_ref5.wav,1,0.998046875,cosyvoice,samu,1,1,0.74169921875,2026
+data_normalized/tts/cosyvoice/177_ref5.wav,1,0.99951171875,cosyvoice,samu,1,1,0.74169921875,2026
+data_normalized/tts/cosyvoice/183_ref5.wav,1,1.0,cosyvoice,samu,1,1,0.74169921875,2026
+data_normalized/tts/cosyvoice/185_ref5.wav,1,1.0,cosyvoice,samu,1,1,0.74169921875,2026
+data_normalized/tts/cosyvoice/189_ref5.wav,1,0.99951171875,cosyvoice,samu,1,1,0.74169921875,2026

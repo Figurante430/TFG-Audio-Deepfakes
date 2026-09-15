@@ -1,0 +1,37 @@
+﻿path,label,prob_fake,generator,speaker_id,prediction_calibrated,prediction_05,threshold_calibrated,seed,held_out_speaker
+data_normalized/real/mario/Mario_ (15).wav,0,0.96826171875,real,mario,1,1,0.8798828125,42,mario
+data_normalized/real/mario/Mario_ (30).wav,0,0.74560546875,real,mario,0,1,0.8798828125,42,mario
+data_normalized/real/mario/Mario_ (40).wav,0,0.90576171875,real,mario,1,1,0.8798828125,42,mario
+data_normalized/sts/rvc/004_ref1.wav,1,0.99951171875,rvc,mario,1,1,0.8798828125,42,mario
+data_normalized/sts/rvc/005_ref1.wav,1,1.0,rvc,mario,1,1,0.8798828125,42,mario
+data_normalized/sts/rvc/012_ref1.wav,1,1.0,rvc,mario,1,1,0.8798828125,42,mario
+data_normalized/sts/rvc/014_ref1.wav,1,0.99951171875,rvc,mario,1,1,0.8798828125,42,mario
+data_normalized/sts/rvc/015_ref1.wav,1,1.0,rvc,mario,1,1,0.8798828125,42,mario
+data_normalized/sts/rvc/018_ref1.wav,1,1.0,rvc,mario,1,1,0.8798828125,42,mario
+data_normalized/sts/rvc/029_ref1.wav,1,1.0,rvc,mario,1,1,0.8798828125,42,mario
+data_normalized/sts/rvc/032_ref1.wav,1,1.0,rvc,mario,1,1,0.8798828125,42,mario
+data_normalized/sts/rvc/036_ref1.wav,1,1.0,rvc,mario,1,1,0.8798828125,42,mario
+data_normalized/sts/rvc/049_ref2.wav,1,1.0,rvc,mario,1,1,0.8798828125,42,mario
+data_normalized/sts/rvc/055_ref2.wav,1,1.0,rvc,mario,1,1,0.8798828125,42,mario
+data_normalized/sts/rvc/057_ref2.wav,1,0.99853515625,rvc,mario,1,1,0.8798828125,42,mario
+data_normalized/sts/rvc/077_ref2.wav,1,1.0,rvc,mario,1,1,0.8798828125,42,mario
+data_normalized/sts/rvc/082_ref3.wav,1,1.0,rvc,mario,1,1,0.8798828125,42,mario
+data_normalized/sts/rvc/095_ref3.wav,1,1.0,rvc,mario,1,1,0.8798828125,42,mario
+data_normalized/sts/rvc/097_ref3.wav,1,1.0,rvc,mario,1,1,0.8798828125,42,mario
+data_normalized/sts/rvc/099_ref3.wav,1,1.0,rvc,mario,1,1,0.8798828125,42,mario
+data_normalized/sts/rvc/103_ref3.wav,1,1.0,rvc,mario,1,1,0.8798828125,42,mario
+data_normalized/sts/rvc/108_ref3.wav,1,1.0,rvc,mario,1,1,0.8798828125,42,mario
+data_normalized/sts/rvc/109_ref3.wav,1,1.0,rvc,mario,1,1,0.8798828125,42,mario
+data_normalized/sts/rvc/110_ref3.wav,1,1.0,rvc,mario,1,1,0.8798828125,42,mario
+data_normalized/sts/rvc/121_ref4.wav,1,1.0,rvc,mario,1,1,0.8798828125,42,mario
+data_normalized/sts/rvc/124_ref4.wav,1,1.0,rvc,mario,1,1,0.8798828125,42,mario
+data_normalized/sts/rvc/138_ref4.wav,1,1.0,rvc,mario,1,1,0.8798828125,42,mario
+data_normalized/sts/rvc/142_ref4.wav,1,1.0,rvc,mario,1,1,0.8798828125,42,mario
+data_normalized/sts/rvc/143_ref4.wav,1,1.0,rvc,mario,1,1,0.8798828125,42,mario
+data_normalized/sts/rvc/158_ref4.wav,1,1.0,rvc,mario,1,1,0.8798828125,42,mario
+data_normalized/sts/rvc/159_ref4.wav,1,0.9931640625,rvc,mario,1,1,0.8798828125,42,mario
+data_normalized/sts/rvc/168_ref5.wav,1,1.0,rvc,mario,1,1,0.8798828125,42,mario
+data_normalized/sts/rvc/177_ref5.wav,1,1.0,rvc,mario,1,1,0.8798828125,42,mario
+data_normalized/sts/rvc/183_ref5.wav,1,1.0,rvc,mario,1,1,0.8798828125,42,mario
+data_normalized/sts/rvc/185_ref5.wav,1,1.0,rvc,mario,1,1,0.8798828125,42,mario
+data_normalized/sts/rvc/189_ref5.wav,1,0.99951171875,rvc,mario,1,1,0.8798828125,42,mario

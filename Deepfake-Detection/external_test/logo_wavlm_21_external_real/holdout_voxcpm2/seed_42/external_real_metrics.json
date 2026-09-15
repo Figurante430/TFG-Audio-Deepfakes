@@ -1,0 +1,15 @@
+{
+  "n": 100,
+  "tn": 85,
+  "fp": 15,
+  "specificity": 0.85,
+  "fpr": 0.15,
+  "prob_fake_mean": 0.22551569181264255,
+  "prob_fake_median": 0.00013348513311939314,
+  "prob_fake_min": 3.178981730633801e-11,
+  "prob_fake_max": 0.9999709129333496,
+  "held_out_generator": "voxcpm2",
+  "seed": 42,
+  "threshold": 0.9208984375,
+  "checkpoint": "C:\\Users\\gonza\\TFG\\Deepfake-Detection\\experiments\\logo_wavlm_3seeds\\holdout_voxcpm2\\seed_42\\best_model.pt"
+}

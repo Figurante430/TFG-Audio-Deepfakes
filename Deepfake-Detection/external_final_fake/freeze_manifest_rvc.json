@@ -1,0 +1,195 @@
+{
+  "name": "External final fake holdout - RVC",
+  "status": "FROZEN",
+  "frozen_at_utc": "2026-09-15T09:38:42.008627+00:00",
+  "generator": "RVC",
+  "count": 20,
+  "source_dataset": "external_final_voxpopuli",
+  "source_speakers": [
+    "vox_ext_01",
+    "vox_ext_02",
+    "vox_ext_03",
+    "vox_ext_04",
+    "vox_ext_05",
+    "vox_ext_06",
+    "vox_ext_07",
+    "vox_ext_08",
+    "vox_ext_09",
+    "vox_ext_10"
+  ],
+  "model": {
+    "name": "Mario_40",
+    "path_at_generation": "C:\\Users\\gonza\\TFG\\Retrieval-based-Voice-Conversion-WebUI\\assets\\weights\\Mario_40.pth",
+    "sha256": "f6360ec43141b4930050d885c504e45bd2c333716019195a0fcc8f2eec93661c",
+    "info": "200epoch",
+    "version": "v2",
+    "sample_rate": "40k",
+    "f0": 0
+  },
+  "index": {
+    "path_at_generation": "C:\\Users\\gonza\\TFG\\Retrieval-based-Voice-Conversion-WebUI\\logs\\Mario_40\\added_IVF2528_Flat_nprobe_1_Mario_40_v2.index",
+    "sha256": "e61625eed081c106bcc8e27ef215f13f4a0f72518149ca1d7c5ce1428c268fb3"
+  },
+  "parameters": {
+    "generator": "RVC",
+    "model": "Mario_40",
+    "model_info": "200epoch",
+    "rvc_version": "v2",
+    "checkpoint_sample_rate": "40k",
+    "checkpoint_f0": 0,
+    "speaker_id": 0,
+    "pitch": 0,
+    "f0_method_cli_default": "rmvpe",
+    "index_rate": 0.75,
+    "rms_mix_rate": 1.0,
+    "protect": 0.33,
+    "resample_sr": 0,
+    "output_format": "wav"
+  },
+  "selection_csv": {
+    "path_at_generation": "C:\\Users\\gonza\\TFG\\Deepfake-Detection\\_external_fake_build\\rvc_selection.csv",
+    "sha256": "00efbe77244fecd04ed5914e0f5be89f33637e9abae065aa6da3d5b756481422"
+  },
+  "files": [
+    {
+      "file": "rvc_001.wav",
+      "sha256": "913ce9e1ad3eb1c764fe18c00620009393204f83b6d59f4fc5b82b0ad573572f",
+      "bytes": 888044,
+      "source_file": "vox_ext_01_002.wav",
+      "source_speaker": "vox_ext_01"
+    },
+    {
+      "file": "rvc_002.wav",
+      "sha256": "dd588a2f172e5894bf4bb68e08191645bb3089beeffd849374a06dc3a84caae4",
+      "bytes": 948844,
+      "source_file": "vox_ext_01_004.wav",
+      "source_speaker": "vox_ext_01"
+    },
+    {
+      "file": "rvc_003.wav",
+      "sha256": "88a2820ba744cf086136829d5813176f2ce643ea73d7153e0ab637c24b6fa3f3",
+      "bytes": 336044,
+      "source_file": "vox_ext_02_005.wav",
+      "source_speaker": "vox_ext_02"
+    },
+    {
+      "file": "rvc_004.wav",
+      "sha256": "e50069f73a06d21b6678337cbc71c43fe1853a194fea4320b14742db486e1cb4",
+      "bytes": 516844,
+      "source_file": "vox_ext_02_006.wav",
+      "source_speaker": "vox_ext_02"
+    },
+    {
+      "file": "rvc_005.wav",
+      "sha256": "c4c1839f222a864bbd459e6831ac880e2c0c391ae3194f8e0cbe65a140e60520",
+      "bytes": 932844,
+      "source_file": "vox_ext_03_006.wav",
+      "source_speaker": "vox_ext_03"
+    },
+    {
+      "file": "rvc_006.wav",
+      "sha256": "11533c1db781f45765679d3f541e16dedb5b7b61836881e8d43c8c71c18429a4",
+      "bytes": 673644,
+      "source_file": "vox_ext_03_007.wav",
+      "source_speaker": "vox_ext_03"
+    },
+    {
+      "file": "rvc_007.wav",
+      "sha256": "18223df4b78a2e6c716f6d1892d543c5e2749b77ce222858ef73299900b38b9d",
+      "bytes": 643244,
+      "source_file": "vox_ext_04_003.wav",
+      "source_speaker": "vox_ext_04"
+    },
+    {
+      "file": "rvc_008.wav",
+      "sha256": "26e38654935de9c6ef0456ca01e518ba0979246ca10f097b132c24836c2b825f",
+      "bytes": 579244,
+      "source_file": "vox_ext_04_004.wav",
+      "source_speaker": "vox_ext_04"
+    },
+    {
+      "file": "rvc_009.wav",
+      "sha256": "03246ea692ec2a1bc7b203c757d789ddd2236e97ac9e59bf09528f164f96ba8a",
+      "bytes": 460844,
+      "source_file": "vox_ext_05_003.wav",
+      "source_speaker": "vox_ext_05"
+    },
+    {
+      "file": "rvc_010.wav",
+      "sha256": "f869574fb468fe589338575d6b8a33031019e84f7bf6ad1b12031e7c06c3e1fa",
+      "bytes": 409644,
+      "source_file": "vox_ext_05_002.wav",
+      "source_speaker": "vox_ext_05"
+    },
+    {
+      "file": "rvc_011.wav",
+      "sha256": "f7af4b290c8ad52a09dfa7eb66532dbd715d742c0356540af197eced6cecfb76",
+      "bytes": 513644,
+      "source_file": "vox_ext_06_008.wav",
+      "source_speaker": "vox_ext_06"
+    },
+    {
+      "file": "rvc_012.wav",
+      "sha256": "b6d75b051ce369740b4cf7169e84195ab32052919854c7ea60e87b4072a51e27",
+      "bytes": 417644,
+      "source_file": "vox_ext_06_003.wav",
+      "source_speaker": "vox_ext_06"
+    },
+    {
+      "file": "rvc_013.wav",
+      "sha256": "62e8976a7caeacaaa3893539d33f93eabffdaed8d9e352ab91100f823e43f797",
+      "bytes": 624044,
+      "source_file": "vox_ext_07_005.wav",
+      "source_speaker": "vox_ext_07"
+    },
+    {
+      "file": "rvc_014.wav",
+      "sha256": "f51461349c2e4256fcd2f68fa5af40f8e0000c4f3ba5033947a7879958dcedf6",
+      "bytes": 320044,
+      "source_file": "vox_ext_07_004.wav",
+      "source_speaker": "vox_ext_07"
+    },
+    {
+      "file": "rvc_015.wav",
+      "sha256": "46cfdd81e573095dfe26c804de8c9983507ca2cde99c3b907af626b7884f96f9",
+      "bytes": 496044,
+      "source_file": "vox_ext_08_008.wav",
+      "source_speaker": "vox_ext_08"
+    },
+    {
+      "file": "rvc_016.wav",
+      "sha256": "065be722e5df044da63f5289d9a9f36521db0b820b38f4d75d130fedf65dfb74",
+      "bytes": 777644,
+      "source_file": "vox_ext_08_004.wav",
+      "source_speaker": "vox_ext_08"
+    },
+    {
+      "file": "rvc_017.wav",
+      "sha256": "e1497f6d3c8039cdd81b0594ca3064ca6900980340f8835da84afc8c28869513",
+      "bytes": 550444,
+      "source_file": "vox_ext_09_001.wav",
+      "source_speaker": "vox_ext_09"
+    },
+    {
+      "file": "rvc_018.wav",
+      "sha256": "0bfbff737061f06520f4845628aac6c3316bbe8e6968a07b5d5237ac6c9f1705",
+      "bytes": 758444,
+      "source_file": "vox_ext_09_003.wav",
+      "source_speaker": "vox_ext_09"
+    },
+    {
+      "file": "rvc_019.wav",
+      "sha256": "c91bdacd8a7efbb553113c5f559026c6a950e12c4234b40a88d2b5c6ff8a277a",
+      "bytes": 752044,
+      "source_file": "vox_ext_10_006.wav",
+      "source_speaker": "vox_ext_10"
+    },
+    {
+      "file": "rvc_020.wav",
+      "sha256": "847736e4c55605829c892d8d3223c9bb2863d4d9ffaf62afb35507424ef9f48c",
+      "bytes": 771244,
+      "source_file": "vox_ext_10_001.wav",
+      "source_speaker": "vox_ext_10"
+    }
+  ]
+}

@@ -1,0 +1,279 @@
+﻿path,label,category,generator,speaker_id,source_speaker_id,target_speaker_id,utterance_id,source_generator,target_model,split
+data/real/gonzalo/Gonzalo_ (4).wav,0,real,real,gonzalo,gonzalo,,004,real,,test
+data/real/gonzalo/Gonzalo_ (5).wav,0,real,real,gonzalo,gonzalo,,005,real,,test
+data/real/gonzalo/Gonzalo_ (12).wav,0,real,real,gonzalo,gonzalo,,012,real,,test
+data/real/gonzalo/Gonzalo_ (14).wav,0,real,real,gonzalo,gonzalo,,014,real,,test
+data/real/gonzalo/Gonzalo_ (15).wav,0,real,real,gonzalo,gonzalo,,015,real,,test
+data/real/gonzalo/Gonzalo_ (18).wav,0,real,real,gonzalo,gonzalo,,018,real,,test
+data/real/gonzalo/Gonzalo_ (29).wav,0,real,real,gonzalo,gonzalo,,029,real,,test
+data/real/gonzalo/Gonzalo_ (32).wav,0,real,real,gonzalo,gonzalo,,032,real,,test
+data/real/gonzalo/Gonzalo_ (36).wav,0,real,real,gonzalo,gonzalo,,036,real,,test
+data/real/mario/Mario_ (15).wav,0,real,real,mario,mario,,mario_real_015,real,,test
+data/real/mario/Mario_ (30).wav,0,real,real,mario,mario,,mario_real_030,real,,test
+data/real/mario/Mario_ (40).wav,0,real,real,mario,mario,,mario_real_040,real,,test
+data/real/marta/Marta_ (4).wav,0,real,real,marta,marta,,004,real,,test
+data/real/marta/Marta_ (5).wav,0,real,real,marta,marta,,005,real,,test
+data/real/marta/Marta_ (12).wav,0,real,real,marta,marta,,012,real,,test
+data/real/marta/Marta_ (14).wav,0,real,real,marta,marta,,014,real,,test
+data/real/marta/Marta_ (15).wav,0,real,real,marta,marta,,015,real,,test
+data/real/marta/Marta_ (18).wav,0,real,real,marta,marta,,018,real,,test
+data/real/marta/Marta_ (29).wav,0,real,real,marta,marta,,029,real,,test
+data/real/marta/Marta_ (32).wav,0,real,real,marta,marta,,032,real,,test
+data/real/marta/Marta_ (36).wav,0,real,real,marta,marta,,036,real,,test
+data/real/noelia/Noe_ (4).wav,0,real,real,noelia,noelia,,004,real,,test
+data/real/noelia/Noe_ (5).wav,0,real,real,noelia,noelia,,005,real,,test
+data/real/noelia/Noe_ (12).wav,0,real,real,noelia,noelia,,012,real,,test
+data/real/noelia/Noe_ (14).wav,0,real,real,noelia,noelia,,014,real,,test
+data/real/noelia/Noe_ (15).wav,0,real,real,noelia,noelia,,015,real,,test
+data/real/noelia/Noe_ (18).wav,0,real,real,noelia,noelia,,018,real,,test
+data/real/noelia/Noe_ (29).wav,0,real,real,noelia,noelia,,029,real,,test
+data/real/noelia/Noe_ (32).wav,0,real,real,noelia,noelia,,032,real,,test
+data/real/noelia/Noe_ (36).wav,0,real,real,noelia,noelia,,036,real,,test
+data/real/rober/Rober_ (4).wav,0,real,real,rober,rober,,004,real,,test
+data/real/rober/Rober_ (5).wav,0,real,real,rober,rober,,005,real,,test
+data/real/rober/Rober_ (12).wav,0,real,real,rober,rober,,012,real,,test
+data/real/rober/Rober_ (14).wav,0,real,real,rober,rober,,014,real,,test
+data/real/rober/Rober_ (15).wav,0,real,real,rober,rober,,015,real,,test
+data/real/rober/Rober_ (18).wav,0,real,real,rober,rober,,018,real,,test
+data/real/rober/Rober_ (29).wav,0,real,real,rober,rober,,029,real,,test
+data/real/rober/Rober_ (32).wav,0,real,real,rober,rober,,032,real,,test
+data/real/rober/Rober_ (36).wav,0,real,real,rober,rober,,036,real,,test
+data/real/samu/Samu_04.wav,0,real,real,samu,samu,,004,real,,test
+data/real/samu/Samu_05.wav,0,real,real,samu,samu,,005,real,,test
+data/real/samu/Samu_12.wav,0,real,real,samu,samu,,012,real,,test
+data/real/samu/Samu_15.wav,0,real,real,samu,samu,,014,real,,test
+data/real/samu/Samu_16.wav,0,real,real,samu,samu,,015,real,,test
+data/real/samu/Samu_19.wav,0,real,real,samu,samu,,018,real,,test
+data/real/samu/Samu_32.wav,0,real,real,samu,samu,,029,real,,test
+data/real/samu/Samu_36.wav,0,real,real,samu,samu,,032,real,,test
+data/tts/confucius4/004_ref1.wav,1,tts,confucius4,gonzalo,,gonzalo,004,text,,test
+data/tts/confucius4/005_ref1.wav,1,tts,confucius4,gonzalo,,gonzalo,005,text,,test
+data/tts/confucius4/012_ref1.wav,1,tts,confucius4,gonzalo,,gonzalo,012,text,,test
+data/tts/confucius4/014_ref1.wav,1,tts,confucius4,gonzalo,,gonzalo,014,text,,test
+data/tts/confucius4/015_ref1.wav,1,tts,confucius4,gonzalo,,gonzalo,015,text,,test
+data/tts/confucius4/018_ref1.wav,1,tts,confucius4,gonzalo,,gonzalo,018,text,,test
+data/tts/confucius4/029_ref1.wav,1,tts,confucius4,gonzalo,,gonzalo,029,text,,test
+data/tts/confucius4/032_ref1.wav,1,tts,confucius4,gonzalo,,gonzalo,032,text,,test
+data/tts/confucius4/036_ref1.wav,1,tts,confucius4,gonzalo,,gonzalo,036,text,,test
+data/tts/confucius4/049_ref2.wav,1,tts,confucius4,marta,,marta,049,text,,test
+data/tts/confucius4/055_ref2.wav,1,tts,confucius4,marta,,marta,055,text,,test
+data/tts/confucius4/057_ref2.wav,1,tts,confucius4,marta,,marta,057,text,,test
+data/tts/confucius4/077_ref2.wav,1,tts,confucius4,marta,,marta,077,text,,test
+data/tts/confucius4/082_ref3.wav,1,tts,confucius4,noelia,,noelia,082,text,,test
+data/tts/confucius4/095_ref3.wav,1,tts,confucius4,noelia,,noelia,095,text,,test
+data/tts/confucius4/097_ref3.wav,1,tts,confucius4,noelia,,noelia,097,text,,test
+data/tts/confucius4/099_ref3.wav,1,tts,confucius4,noelia,,noelia,099,text,,test
+data/tts/confucius4/103_ref3.wav,1,tts,confucius4,noelia,,noelia,103,text,,test
+data/tts/confucius4/108_ref3.wav,1,tts,confucius4,noelia,,noelia,108,text,,test
+data/tts/confucius4/109_ref3.wav,1,tts,confucius4,noelia,,noelia,109,text,,test
+data/tts/confucius4/110_ref3.wav,1,tts,confucius4,noelia,,noelia,110,text,,test
+data/tts/confucius4/121_ref4.wav,1,tts,confucius4,rober,,rober,121,text,,test
+data/tts/confucius4/124_ref4.wav,1,tts,confucius4,rober,,rober,124,text,,test
+data/tts/confucius4/138_ref4.wav,1,tts,confucius4,rober,,rober,138,text,,test
+data/tts/confucius4/142_ref4.wav,1,tts,confucius4,rober,,rober,142,text,,test
+data/tts/confucius4/143_ref4.wav,1,tts,confucius4,rober,,rober,143,text,,test
+data/tts/confucius4/158_ref4.wav,1,tts,confucius4,rober,,rober,158,text,,test
+data/tts/confucius4/159_ref4.wav,1,tts,confucius4,rober,,rober,159,text,,test
+data/tts/confucius4/168_ref5.wav,1,tts,confucius4,samu,,samu,168,text,,test
+data/tts/confucius4/177_ref5.wav,1,tts,confucius4,samu,,samu,177,text,,test
+data/tts/confucius4/183_ref5.wav,1,tts,confucius4,samu,,samu,183,text,,test
+data/tts/confucius4/185_ref5.wav,1,tts,confucius4,samu,,samu,185,text,,test
+data/tts/confucius4/189_ref5.wav,1,tts,confucius4,samu,,samu,189,text,,test
+data/tts/cosyvoice/004_ref1.wav,1,tts,cosyvoice,gonzalo,,gonzalo,004,text,,test
+data/tts/cosyvoice/005_ref1.wav,1,tts,cosyvoice,gonzalo,,gonzalo,005,text,,test
+data/tts/cosyvoice/012_ref1.wav,1,tts,cosyvoice,gonzalo,,gonzalo,012,text,,test
+data/tts/cosyvoice/014_ref1.wav,1,tts,cosyvoice,gonzalo,,gonzalo,014,text,,test
+data/tts/cosyvoice/015_ref1.wav,1,tts,cosyvoice,gonzalo,,gonzalo,015,text,,test
+data/tts/cosyvoice/018_ref1.wav,1,tts,cosyvoice,gonzalo,,gonzalo,018,text,,test
+data/tts/cosyvoice/029_ref1.wav,1,tts,cosyvoice,gonzalo,,gonzalo,029,text,,test
+data/tts/cosyvoice/032_ref1.wav,1,tts,cosyvoice,gonzalo,,gonzalo,032,text,,test
+data/tts/cosyvoice/036_ref1.wav,1,tts,cosyvoice,gonzalo,,gonzalo,036,text,,test
+data/tts/cosyvoice/049_ref2.wav,1,tts,cosyvoice,marta,,marta,049,text,,test
+data/tts/cosyvoice/055_ref2.wav,1,tts,cosyvoice,marta,,marta,055,text,,test
+data/tts/cosyvoice/057_ref2.wav,1,tts,cosyvoice,marta,,marta,057,text,,test
+data/tts/cosyvoice/077_ref2.wav,1,tts,cosyvoice,marta,,marta,077,text,,test
+data/tts/cosyvoice/082_ref3.wav,1,tts,cosyvoice,noelia,,noelia,082,text,,test
+data/tts/cosyvoice/095_ref3.wav,1,tts,cosyvoice,noelia,,noelia,095,text,,test
+data/tts/cosyvoice/097_ref3.wav,1,tts,cosyvoice,noelia,,noelia,097,text,,test
+data/tts/cosyvoice/099_ref3.wav,1,tts,cosyvoice,noelia,,noelia,099,text,,test
+data/tts/cosyvoice/103_ref3.wav,1,tts,cosyvoice,noelia,,noelia,103,text,,test
+data/tts/cosyvoice/108_ref3.wav,1,tts,cosyvoice,noelia,,noelia,108,text,,test
+data/tts/cosyvoice/109_ref3.wav,1,tts,cosyvoice,noelia,,noelia,109,text,,test
+data/tts/cosyvoice/110_ref3.wav,1,tts,cosyvoice,noelia,,noelia,110,text,,test
+data/tts/cosyvoice/121_ref4.wav,1,tts,cosyvoice,rober,,rober,121,text,,test
+data/tts/cosyvoice/124_ref4.wav,1,tts,cosyvoice,rober,,rober,124,text,,test
+data/tts/cosyvoice/138_ref4.wav,1,tts,cosyvoice,rober,,rober,138,text,,test
+data/tts/cosyvoice/142_ref4.wav,1,tts,cosyvoice,rober,,rober,142,text,,test
+data/tts/cosyvoice/143_ref4.wav,1,tts,cosyvoice,rober,,rober,143,text,,test
+data/tts/cosyvoice/158_ref4.wav,1,tts,cosyvoice,rober,,rober,158,text,,test
+data/tts/cosyvoice/159_ref4.wav,1,tts,cosyvoice,rober,,rober,159,text,,test
+data/tts/cosyvoice/168_ref5.wav,1,tts,cosyvoice,samu,,samu,168,text,,test
+data/tts/cosyvoice/177_ref5.wav,1,tts,cosyvoice,samu,,samu,177,text,,test
+data/tts/cosyvoice/183_ref5.wav,1,tts,cosyvoice,samu,,samu,183,text,,test
+data/tts/cosyvoice/185_ref5.wav,1,tts,cosyvoice,samu,,samu,185,text,,test
+data/tts/cosyvoice/189_ref5.wav,1,tts,cosyvoice,samu,,samu,189,text,,test
+data/tts/openVoice/004_ref1.wav,1,tts,openvoice,gonzalo,,gonzalo,004,text,,test
+data/tts/openVoice/005_ref1.wav,1,tts,openvoice,gonzalo,,gonzalo,005,text,,test
+data/tts/openVoice/012_ref1.wav,1,tts,openvoice,gonzalo,,gonzalo,012,text,,test
+data/tts/openVoice/014_ref1.wav,1,tts,openvoice,gonzalo,,gonzalo,014,text,,test
+data/tts/openVoice/015_ref1.wav,1,tts,openvoice,gonzalo,,gonzalo,015,text,,test
+data/tts/openVoice/018_ref1.wav,1,tts,openvoice,gonzalo,,gonzalo,018,text,,test
+data/tts/openVoice/029_ref1.wav,1,tts,openvoice,gonzalo,,gonzalo,029,text,,test
+data/tts/openVoice/032_ref1.wav,1,tts,openvoice,gonzalo,,gonzalo,032,text,,test
+data/tts/openVoice/036_ref1.wav,1,tts,openvoice,gonzalo,,gonzalo,036,text,,test
+data/tts/openVoice/049_ref2.wav,1,tts,openvoice,marta,,marta,049,text,,test
+data/tts/openVoice/055_ref2.wav,1,tts,openvoice,marta,,marta,055,text,,test
+data/tts/openVoice/057_ref2.wav,1,tts,openvoice,marta,,marta,057,text,,test
+data/tts/openVoice/077_ref2.wav,1,tts,openvoice,marta,,marta,077,text,,test
+data/tts/openVoice/082_ref3.wav,1,tts,openvoice,noelia,,noelia,082,text,,test
+data/tts/openVoice/095_ref3.wav,1,tts,openvoice,noelia,,noelia,095,text,,test
+data/tts/openVoice/097_ref3.wav,1,tts,openvoice,noelia,,noelia,097,text,,test
+data/tts/openVoice/099_ref3.wav,1,tts,openvoice,noelia,,noelia,099,text,,test
+data/tts/openVoice/103_ref3.wav,1,tts,openvoice,noelia,,noelia,103,text,,test
+data/tts/openVoice/108_ref3.wav,1,tts,openvoice,noelia,,noelia,108,text,,test
+data/tts/openVoice/109_ref3.wav,1,tts,openvoice,noelia,,noelia,109,text,,test
+data/tts/openVoice/110_ref3.wav,1,tts,openvoice,noelia,,noelia,110,text,,test
+data/tts/openVoice/121_ref4.wav,1,tts,openvoice,rober,,rober,121,text,,test
+data/tts/openVoice/124_ref4.wav,1,tts,openvoice,rober,,rober,124,text,,test
+data/tts/openVoice/138_ref4.wav,1,tts,openvoice,rober,,rober,138,text,,test
+data/tts/openVoice/142_ref4.wav,1,tts,openvoice,rober,,rober,142,text,,test
+data/tts/openVoice/143_ref4.wav,1,tts,openvoice,rober,,rober,143,text,,test
+data/tts/openVoice/158_ref4.wav,1,tts,openvoice,rober,,rober,158,text,,test
+data/tts/openVoice/159_ref4.wav,1,tts,openvoice,rober,,rober,159,text,,test
+data/tts/openVoice/168_ref5.wav,1,tts,openvoice,samu,,samu,168,text,,test
+data/tts/openVoice/177_ref5.wav,1,tts,openvoice,samu,,samu,177,text,,test
+data/tts/openVoice/183_ref5.wav,1,tts,openvoice,samu,,samu,183,text,,test
+data/tts/openVoice/185_ref5.wav,1,tts,openvoice,samu,,samu,185,text,,test
+data/tts/openVoice/189_ref5.wav,1,tts,openvoice,samu,,samu,189,text,,test
+data/tts/qwen/004_ref1.wav,1,tts,qwen,gonzalo,,gonzalo,004,text,,test
+data/tts/qwen/005_ref1.wav,1,tts,qwen,gonzalo,,gonzalo,005,text,,test
+data/tts/qwen/012_ref1.wav,1,tts,qwen,gonzalo,,gonzalo,012,text,,test
+data/tts/qwen/014_ref1.wav,1,tts,qwen,gonzalo,,gonzalo,014,text,,test
+data/tts/qwen/015_ref1.wav,1,tts,qwen,gonzalo,,gonzalo,015,text,,test
+data/tts/qwen/018_ref1.wav,1,tts,qwen,gonzalo,,gonzalo,018,text,,test
+data/tts/qwen/029_ref1.wav,1,tts,qwen,gonzalo,,gonzalo,029,text,,test
+data/tts/qwen/032_ref1.wav,1,tts,qwen,gonzalo,,gonzalo,032,text,,test
+data/tts/qwen/036_ref1.wav,1,tts,qwen,gonzalo,,gonzalo,036,text,,test
+data/tts/qwen/049_ref2.wav,1,tts,qwen,marta,,marta,049,text,,test
+data/tts/qwen/055_ref2.wav,1,tts,qwen,marta,,marta,055,text,,test
+data/tts/qwen/057_ref2.wav,1,tts,qwen,marta,,marta,057,text,,test
+data/tts/qwen/077_ref2.wav,1,tts,qwen,marta,,marta,077,text,,test
+data/tts/qwen/082_ref3.wav,1,tts,qwen,noelia,,noelia,082,text,,test
+data/tts/qwen/095_ref3.wav,1,tts,qwen,noelia,,noelia,095,text,,test
+data/tts/qwen/097_ref3.wav,1,tts,qwen,noelia,,noelia,097,text,,test
+data/tts/qwen/099_ref3.wav,1,tts,qwen,noelia,,noelia,099,text,,test
+data/tts/qwen/103_ref3.wav,1,tts,qwen,noelia,,noelia,103,text,,test
+data/tts/qwen/108_ref3.wav,1,tts,qwen,noelia,,noelia,108,text,,test
+data/tts/qwen/109_ref3.wav,1,tts,qwen,noelia,,noelia,109,text,,test
+data/tts/qwen/110_ref3.wav,1,tts,qwen,noelia,,noelia,110,text,,test
+data/tts/qwen/121_ref4.wav,1,tts,qwen,rober,,rober,121,text,,test
+data/tts/qwen/124_ref4.wav,1,tts,qwen,rober,,rober,124,text,,test
+data/tts/qwen/138_ref4.wav,1,tts,qwen,rober,,rober,138,text,,test
+data/tts/qwen/142_ref4.wav,1,tts,qwen,rober,,rober,142,text,,test
+data/tts/qwen/143_ref4.wav,1,tts,qwen,rober,,rober,143,text,,test
+data/tts/qwen/158_ref4.wav,1,tts,qwen,rober,,rober,158,text,,test
+data/tts/qwen/159_ref4.wav,1,tts,qwen,rober,,rober,159,text,,test
+data/tts/qwen/168_ref5.wav,1,tts,qwen,samu,,samu,168,text,,test
+data/tts/qwen/177_ref5.wav,1,tts,qwen,samu,,samu,177,text,,test
+data/tts/qwen/183_ref5.wav,1,tts,qwen,samu,,samu,183,text,,test
+data/tts/qwen/185_ref5.wav,1,tts,qwen,samu,,samu,185,text,,test
+data/tts/qwen/189_ref5.wav,1,tts,qwen,samu,,samu,189,text,,test
+data/tts/voxcpm2/004_ref1.wav,1,tts,voxcpm2,gonzalo,,gonzalo,004,text,,test
+data/tts/voxcpm2/005_ref1.wav,1,tts,voxcpm2,gonzalo,,gonzalo,005,text,,test
+data/tts/voxcpm2/012_ref1.wav,1,tts,voxcpm2,gonzalo,,gonzalo,012,text,,test
+data/tts/voxcpm2/014_ref1.wav,1,tts,voxcpm2,gonzalo,,gonzalo,014,text,,test
+data/tts/voxcpm2/015_ref1.wav,1,tts,voxcpm2,gonzalo,,gonzalo,015,text,,test
+data/tts/voxcpm2/018_ref1.wav,1,tts,voxcpm2,gonzalo,,gonzalo,018,text,,test
+data/tts/voxcpm2/029_ref1.wav,1,tts,voxcpm2,gonzalo,,gonzalo,029,text,,test
+data/tts/voxcpm2/032_ref1.wav,1,tts,voxcpm2,gonzalo,,gonzalo,032,text,,test
+data/tts/voxcpm2/036_ref1.wav,1,tts,voxcpm2,gonzalo,,gonzalo,036,text,,test
+data/tts/voxcpm2/049_ref2.wav,1,tts,voxcpm2,marta,,marta,049,text,,test
+data/tts/voxcpm2/055_ref2.wav,1,tts,voxcpm2,marta,,marta,055,text,,test
+data/tts/voxcpm2/057_ref2.wav,1,tts,voxcpm2,marta,,marta,057,text,,test
+data/tts/voxcpm2/077_ref2.wav,1,tts,voxcpm2,marta,,marta,077,text,,test
+data/tts/voxcpm2/082_ref3.wav,1,tts,voxcpm2,noelia,,noelia,082,text,,test
+data/tts/voxcpm2/095_ref3.wav,1,tts,voxcpm2,noelia,,noelia,095,text,,test
+data/tts/voxcpm2/097_ref3.wav,1,tts,voxcpm2,noelia,,noelia,097,text,,test
+data/tts/voxcpm2/099_ref3.wav,1,tts,voxcpm2,noelia,,noelia,099,text,,test
+data/tts/voxcpm2/103_ref3.wav,1,tts,voxcpm2,noelia,,noelia,103,text,,test
+data/tts/voxcpm2/108_ref3.wav,1,tts,voxcpm2,noelia,,noelia,108,text,,test
+data/tts/voxcpm2/109_ref3.wav,1,tts,voxcpm2,noelia,,noelia,109,text,,test
+data/tts/voxcpm2/110_ref3.wav,1,tts,voxcpm2,noelia,,noelia,110,text,,test
+data/tts/voxcpm2/121_ref4.wav,1,tts,voxcpm2,rober,,rober,121,text,,test
+data/tts/voxcpm2/124_ref4.wav,1,tts,voxcpm2,rober,,rober,124,text,,test
+data/tts/voxcpm2/138_ref4.wav,1,tts,voxcpm2,rober,,rober,138,text,,test
+data/tts/voxcpm2/142_ref4.wav,1,tts,voxcpm2,rober,,rober,142,text,,test
+data/tts/voxcpm2/143_ref4.wav,1,tts,voxcpm2,rober,,rober,143,text,,test
+data/tts/voxcpm2/158_ref4.wav,1,tts,voxcpm2,rober,,rober,158,text,,test
+data/tts/voxcpm2/159_ref4.wav,1,tts,voxcpm2,rober,,rober,159,text,,test
+data/tts/voxcpm2/168_ref5.wav,1,tts,voxcpm2,samu,,samu,168,text,,test
+data/tts/voxcpm2/177_ref5.wav,1,tts,voxcpm2,samu,,samu,177,text,,test
+data/tts/voxcpm2/183_ref5.wav,1,tts,voxcpm2,samu,,samu,183,text,,test
+data/tts/voxcpm2/185_ref5.wav,1,tts,voxcpm2,samu,,samu,185,text,,test
+data/tts/voxcpm2/189_ref5.wav,1,tts,voxcpm2,samu,,samu,189,text,,test
+data/sts/knnvc/004_ref1.wav,1,sts,knnvc,marta,gonzalo,marta,004,confucius4,,test
+data/sts/knnvc/005_ref1.wav,1,sts,knnvc,marta,gonzalo,marta,005,confucius4,,test
+data/sts/knnvc/012_ref1.wav,1,sts,knnvc,marta,gonzalo,marta,012,confucius4,,test
+data/sts/knnvc/014_ref1.wav,1,sts,knnvc,marta,gonzalo,marta,014,confucius4,,test
+data/sts/knnvc/015_ref1.wav,1,sts,knnvc,marta,gonzalo,marta,015,confucius4,,test
+data/sts/knnvc/018_ref1.wav,1,sts,knnvc,marta,gonzalo,marta,018,confucius4,,test
+data/sts/knnvc/029_ref1.wav,1,sts,knnvc,marta,gonzalo,marta,029,confucius4,,test
+data/sts/knnvc/032_ref1.wav,1,sts,knnvc,marta,gonzalo,marta,032,confucius4,,test
+data/sts/knnvc/036_ref1.wav,1,sts,knnvc,marta,gonzalo,marta,036,confucius4,,test
+data/sts/knnvc/049_ref2.wav,1,sts,knnvc,noelia,marta,noelia,049,confucius4,,test
+data/sts/knnvc/055_ref2.wav,1,sts,knnvc,noelia,marta,noelia,055,confucius4,,test
+data/sts/knnvc/057_ref2.wav,1,sts,knnvc,noelia,marta,noelia,057,confucius4,,test
+data/sts/knnvc/077_ref2.wav,1,sts,knnvc,noelia,marta,noelia,077,confucius4,,test
+data/sts/knnvc/082_ref3.wav,1,sts,knnvc,rober,noelia,rober,082,confucius4,,test
+data/sts/knnvc/095_ref3.wav,1,sts,knnvc,rober,noelia,rober,095,confucius4,,test
+data/sts/knnvc/097_ref3.wav,1,sts,knnvc,rober,noelia,rober,097,confucius4,,test
+data/sts/knnvc/099_ref3.wav,1,sts,knnvc,rober,noelia,rober,099,confucius4,,test
+data/sts/knnvc/103_ref3.wav,1,sts,knnvc,rober,noelia,rober,103,confucius4,,test
+data/sts/knnvc/108_ref3.wav,1,sts,knnvc,rober,noelia,rober,108,confucius4,,test
+data/sts/knnvc/109_ref3.wav,1,sts,knnvc,rober,noelia,rober,109,confucius4,,test
+data/sts/knnvc/110_ref3.wav,1,sts,knnvc,rober,noelia,rober,110,confucius4,,test
+data/sts/knnvc/121_ref4.wav,1,sts,knnvc,samu,rober,samu,121,confucius4,,test
+data/sts/knnvc/124_ref4.wav,1,sts,knnvc,samu,rober,samu,124,confucius4,,test
+data/sts/knnvc/138_ref4.wav,1,sts,knnvc,samu,rober,samu,138,confucius4,,test
+data/sts/knnvc/142_ref4.wav,1,sts,knnvc,samu,rober,samu,142,confucius4,,test
+data/sts/knnvc/143_ref4.wav,1,sts,knnvc,samu,rober,samu,143,confucius4,,test
+data/sts/knnvc/158_ref4.wav,1,sts,knnvc,samu,rober,samu,158,confucius4,,test
+data/sts/knnvc/159_ref4.wav,1,sts,knnvc,samu,rober,samu,159,confucius4,,test
+data/sts/knnvc/168_ref5.wav,1,sts,knnvc,gonzalo,samu,gonzalo,168,confucius4,,test
+data/sts/knnvc/177_ref5.wav,1,sts,knnvc,gonzalo,samu,gonzalo,177,confucius4,,test
+data/sts/knnvc/183_ref5.wav,1,sts,knnvc,gonzalo,samu,gonzalo,183,confucius4,,test
+data/sts/knnvc/185_ref5.wav,1,sts,knnvc,gonzalo,samu,gonzalo,185,confucius4,,test
+data/sts/knnvc/189_ref5.wav,1,sts,knnvc,gonzalo,samu,gonzalo,189,confucius4,,test
+data/sts/rvc/004_ref1.wav,1,sts,rvc,mario,gonzalo,mario,004,confucius4,Mario_40,test
+data/sts/rvc/005_ref1.wav,1,sts,rvc,mario,gonzalo,mario,005,confucius4,Mario_40,test
+data/sts/rvc/012_ref1.wav,1,sts,rvc,mario,gonzalo,mario,012,confucius4,Mario_40,test
+data/sts/rvc/014_ref1.wav,1,sts,rvc,mario,gonzalo,mario,014,confucius4,Mario_40,test
+data/sts/rvc/015_ref1.wav,1,sts,rvc,mario,gonzalo,mario,015,confucius4,Mario_40,test
+data/sts/rvc/018_ref1.wav,1,sts,rvc,mario,gonzalo,mario,018,confucius4,Mario_40,test
+data/sts/rvc/029_ref1.wav,1,sts,rvc,mario,gonzalo,mario,029,confucius4,Mario_40,test
+data/sts/rvc/032_ref1.wav,1,sts,rvc,mario,gonzalo,mario,032,confucius4,Mario_40,test
+data/sts/rvc/036_ref1.wav,1,sts,rvc,mario,gonzalo,mario,036,confucius4,Mario_40,test
+data/sts/rvc/049_ref2.wav,1,sts,rvc,mario,marta,mario,049,confucius4,Mario_40,test
+data/sts/rvc/055_ref2.wav,1,sts,rvc,mario,marta,mario,055,confucius4,Mario_40,test
+data/sts/rvc/057_ref2.wav,1,sts,rvc,mario,marta,mario,057,confucius4,Mario_40,test
+data/sts/rvc/077_ref2.wav,1,sts,rvc,mario,marta,mario,077,confucius4,Mario_40,test
+data/sts/rvc/082_ref3.wav,1,sts,rvc,mario,noelia,mario,082,confucius4,Mario_40,test
+data/sts/rvc/095_ref3.wav,1,sts,rvc,mario,noelia,mario,095,confucius4,Mario_40,test
+data/sts/rvc/097_ref3.wav,1,sts,rvc,mario,noelia,mario,097,confucius4,Mario_40,test
+data/sts/rvc/099_ref3.wav,1,sts,rvc,mario,noelia,mario,099,confucius4,Mario_40,test
+data/sts/rvc/103_ref3.wav,1,sts,rvc,mario,noelia,mario,103,confucius4,Mario_40,test
+data/sts/rvc/108_ref3.wav,1,sts,rvc,mario,noelia,mario,108,confucius4,Mario_40,test
+data/sts/rvc/109_ref3.wav,1,sts,rvc,mario,noelia,mario,109,confucius4,Mario_40,test
+data/sts/rvc/110_ref3.wav,1,sts,rvc,mario,noelia,mario,110,confucius4,Mario_40,test
+data/sts/rvc/121_ref4.wav,1,sts,rvc,mario,rober,mario,121,confucius4,Mario_40,test
+data/sts/rvc/124_ref4.wav,1,sts,rvc,mario,rober,mario,124,confucius4,Mario_40,test
+data/sts/rvc/138_ref4.wav,1,sts,rvc,mario,rober,mario,138,confucius4,Mario_40,test
+data/sts/rvc/142_ref4.wav,1,sts,rvc,mario,rober,mario,142,confucius4,Mario_40,test
+data/sts/rvc/143_ref4.wav,1,sts,rvc,mario,rober,mario,143,confucius4,Mario_40,test
+data/sts/rvc/158_ref4.wav,1,sts,rvc,mario,rober,mario,158,confucius4,Mario_40,test
+data/sts/rvc/159_ref4.wav,1,sts,rvc,mario,rober,mario,159,confucius4,Mario_40,test
+data/sts/rvc/168_ref5.wav,1,sts,rvc,mario,samu,mario,168,confucius4,Mario_40,test
+data/sts/rvc/177_ref5.wav,1,sts,rvc,mario,samu,mario,177,confucius4,Mario_40,test
+data/sts/rvc/183_ref5.wav,1,sts,rvc,mario,samu,mario,183,confucius4,Mario_40,test
+data/sts/rvc/185_ref5.wav,1,sts,rvc,mario,samu,mario,185,confucius4,Mario_40,test
+data/sts/rvc/189_ref5.wav,1,sts,rvc,mario,samu,mario,189,confucius4,Mario_40,test

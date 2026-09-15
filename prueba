@@ -1,0 +1,16 @@
+from TTS.api import TTS
+
+# Cargar modelo
+tts = TTS(model_name="tts_models/ewe/openbible/vits")
+
+# Leer archivo de texto
+with open("texto.txt", "r", encoding="utf-8") as f:
+    texto = f.read()
+
+# Generar audio
+tts.tts_to_file(
+    text=texto,
+    file_path="salida.wav"
+)
+
+print("Audio generado correctamente.")

@@ -1,0 +1,36 @@
+from pathlib import Path
+import subprocess
+
+REAL_DIR = Path(
+    r"C:\Users\gonza\TFG\Deepfake-Detection\data\real"
+)
+
+m4a_files = list(REAL_DIR.rglob("*.m4a"))
+
+print(f"M4A encontrados: {len(m4a_files)}")
+
+for i, src in enumerate(m4a_files, 1):
+
+    dst = src.with_suffix(".wav")
+
+    print(
+        f"[{i:03d}/{len(m4a_files)}] "
+        f"{src.name} -> {dst.name}"
+    )
+
+    subprocess.run(
+        [
+            "ffmpeg",
+            "-y",
+            "-i", str(src),
+
+            "-ac", "1",          # mono
+            "-ar", "16000",      # 16 kHz
+            "-c:a", "pcm_s16le", # WAV PCM16
+
+            str(dst)
+        ],
+        check=True
+    )
+
+print("Conversión terminada.")

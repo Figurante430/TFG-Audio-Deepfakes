@@ -1,0 +1,39 @@
+{
+  "status": "FROZEN_RESULTS",
+  "created_at_utc": "2026-09-15T13:33:05.757443+00:00",
+  "holdout_fingerprint_sha256": "3fed1b260a404af75b21aab8a57f1cf2dd0dbc8967d2695b45780095008f6021",
+  "results_fingerprint_sha256": "f2f4d960cd9a41382e9797481cd8a17f6f69c4fa29d6dadd57de318c894171c4",
+  "files": [
+    {
+      "file": "detector_summary.csv",
+      "relative_path": "external_results/FINAL_DETECTION_RESULTS/detector_summary.csv",
+      "sha256": "7cbcfed5be4e26ce6454fc5d56eac059df6c37fab19a382cd72e500e4717f92c",
+      "bytes": 3016
+    },
+    {
+      "file": "generator_summary.csv",
+      "relative_path": "external_results/FINAL_DETECTION_RESULTS/generator_summary.csv",
+      "sha256": "c8a83aaf041842518447fcb6d07fec2d208b8b6b07479a872e1cd9bdaa928cc3",
+      "bytes": 4205
+    },
+    {
+      "file": "source_files_sha256.csv",
+      "relative_path": "external_results/FINAL_DETECTION_RESULTS/source_files_sha256.csv",
+      "sha256": "bd3664400e5cb8d33f869e4a1dae27f0ba1c963d7dc9e1c0760d7944d617d0f2",
+      "bytes": 5371
+    },
+    {
+      "file": "final_detection_report.json",
+      "relative_path": "external_results/FINAL_DETECTION_RESULTS/final_detection_report.json",
+      "sha256": "6d51b7d754774bda33103b0207821cda739e7965d6d25fb47ff4c53fd3da8090",
+      "bytes": 37043
+    },
+    {
+      "file": "tables_for_tfg.md",
+      "relative_path": "external_results/FINAL_DETECTION_RESULTS/tables_for_tfg.md",
+      "sha256": "c3fcf03a106f028dd6ffa4792e9cdb675a4def3953119a7dd25e40144bf636fc",
+      "bytes": 3213
+    }
+  ],
+  "rule": "These files summarize the final external evaluation. Do not alter historical predictions or retune models using the external holdout."
+}

@@ -1,0 +1,236 @@
+{
+  "name": "External final fake holdout - Confucius4-TTS",
+  "status": "FROZEN",
+  "frozen_at_utc": "2026-09-15T11:47:12.427894+00:00",
+  "generator": "Confucius4-TTS",
+  "count": 20,
+  "speakers": [
+    "vox_ext_01",
+    "vox_ext_02",
+    "vox_ext_03",
+    "vox_ext_04",
+    "vox_ext_05",
+    "vox_ext_06",
+    "vox_ext_07",
+    "vox_ext_08",
+    "vox_ext_09",
+    "vox_ext_10"
+  ],
+  "audios_per_speaker": 2,
+  "sample_rate": 22050,
+  "generation": {
+    "clone_mode": "transcript_free_zero_shot",
+    "language": "es",
+    "reference_transcript_used": false,
+    "device": "NVIDIA GeForce RTX 5060 Laptop GPU"
+  },
+  "model_identity": {
+    "config_path_at_generation": "C:\\Users\\gonza\\TFG\\Confucius4-TTS\\config\\inference_config.yaml",
+    "model_files": {
+      "config\\inference_config.yaml": {
+        "bytes": 1328,
+        "sha256": "d7fcbfbc11071d10e783934c56aa8847e6fe9ab8f15fe557598350b805aaaf57"
+      },
+      "checkpoints\\wav2vec2bert_stats.pt": {
+        "bytes": 9343,
+        "sha256": "c9c176c2b8850ab2e3ba828bbfa969deaf4566ce55db5f2687b8430b87526ad2"
+      }
+    }
+  },
+  "source_files": {
+    "jobs_csv": {
+      "path_at_generation": "C:\\Users\\gonza\\TFG\\Deepfake-Detection\\_external_fake_build\\confucius_jobs.csv",
+      "sha256": "9e5ccc1642bab9e53be101f8c0a7226341e77d21612ecfea3148b309dfaf8191"
+    },
+    "generation_csv": {
+      "path_at_generation": "C:\\Users\\gonza\\TFG\\Deepfake-Detection\\_external_fake_build\\confucius_generation.csv",
+      "sha256": "988313ac64413efd523b3e8b783b7c3a9fa18b24f6384caec314091ba8d39ec8"
+    },
+    "generation_manifest": {
+      "path_at_generation": "C:\\Users\\gonza\\TFG\\Deepfake-Detection\\_external_fake_build\\confucius_generation_manifest.json",
+      "sha256": "b89e01bee97f6bc1c04823700d8a818d82e4456f1fc87b4fc323f6be93a597bd"
+    }
+  },
+  "files": [
+    {
+      "file": "confucius_001.wav",
+      "speaker": "vox_ext_01",
+      "seed": 2026091701,
+      "sha256": "a2356050bbfdd0c5d5dc7c6b476247152da4a48b2968137913ff3189276532aa",
+      "bytes": 165420,
+      "duration_s": 3.7500226757369615,
+      "sample_rate": 22050
+    },
+    {
+      "file": "confucius_002.wav",
+      "speaker": "vox_ext_01",
+      "seed": 2026091702,
+      "sha256": "26594fdfb7b3e74888577e76004ddfb4749cb41970aaa1a129f1189a48c853ce",
+      "bytes": 194604,
+      "duration_s": 4.4117913832199545,
+      "sample_rate": 22050
+    },
+    {
+      "file": "confucius_003.wav",
+      "speaker": "vox_ext_02",
+      "seed": 2026091703,
+      "sha256": "731d4f6f70bc7986e96ec7f512e11b0c61bf310405ed99d74413822ff2501deb",
+      "bytes": 233004,
+      "duration_s": 5.282539682539682,
+      "sample_rate": 22050
+    },
+    {
+      "file": "confucius_004.wav",
+      "speaker": "vox_ext_02",
+      "seed": 2026091704,
+      "sha256": "f56f95fad14252fcd887c92dde9dee5d11e54d7a0bdd1c1e2ca5b802978cfdd6",
+      "bytes": 179244,
+      "duration_s": 4.063492063492063,
+      "sample_rate": 22050
+    },
+    {
+      "file": "confucius_005.wav",
+      "speaker": "vox_ext_03",
+      "seed": 2026091705,
+      "sha256": "e831cc715f4b8dfb406149ee18aa2a976fd8d2f8d1bab3b011d8b23c5742280d",
+      "bytes": 184876,
+      "duration_s": 4.191201814058957,
+      "sample_rate": 22050
+    },
+    {
+      "file": "confucius_006.wav",
+      "speaker": "vox_ext_03",
+      "seed": 2026091706,
+      "sha256": "87d6d88b1bf7ded0b5246e28015fffc0e031d8bdc5ac8269df28514e8e26d960",
+      "bytes": 158252,
+      "duration_s": 3.5874829931972787,
+      "sample_rate": 22050
+    },
+    {
+      "file": "confucius_007.wav",
+      "speaker": "vox_ext_04",
+      "seed": 2026091707,
+      "sha256": "7dc9634e461509a154032a13784d3e7652b157d7c76815a570477b632aed6010",
+      "bytes": 169516,
+      "duration_s": 3.842902494331066,
+      "sample_rate": 22050
+    },
+    {
+      "file": "confucius_008.wav",
+      "speaker": "vox_ext_04",
+      "seed": 2026091708,
+      "sha256": "cac76ff13635eaab0b90220d52a1e77dba308580c129c956b184fb64f88ffcd9",
+      "bytes": 169516,
+      "duration_s": 3.842902494331066,
+      "sample_rate": 22050
+    },
+    {
+      "file": "confucius_009.wav",
+      "speaker": "vox_ext_05",
+      "seed": 2026091709,
+      "sha256": "4373da4b7f27bddf6e42df07181a3eeff02aab31655f9ab0bbeb0349f42faf47",
+      "bytes": 162860,
+      "duration_s": 3.6919727891156464,
+      "sample_rate": 22050
+    },
+    {
+      "file": "confucius_010.wav",
+      "speaker": "vox_ext_05",
+      "seed": 2026091710,
+      "sha256": "c8a6e97567b9ef12d2a84940ed99452b914555f63072fb5439c308e513fde0e5",
+      "bytes": 178732,
+      "duration_s": 4.051882086167801,
+      "sample_rate": 22050
+    },
+    {
+      "file": "confucius_011.wav",
+      "speaker": "vox_ext_06",
+      "seed": 2026091711,
+      "sha256": "bf8ca8b889354aa5c7684472d1e64995ba241a403ccb781ecd18213dd1e9eacb",
+      "bytes": 181292,
+      "duration_s": 4.1099319727891155,
+      "sample_rate": 22050
+    },
+    {
+      "file": "confucius_012.wav",
+      "speaker": "vox_ext_06",
+      "seed": 2026091712,
+      "sha256": "1d91951f29ca8b5b1e52e310b3fce7447be00bced4e53cc6ddf0833453b00a92",
+      "bytes": 193580,
+      "duration_s": 4.388571428571429,
+      "sample_rate": 22050
+    },
+    {
+      "file": "confucius_013.wav",
+      "speaker": "vox_ext_07",
+      "seed": 2026091713,
+      "sha256": "8f88f4338693810888a829b672967ea1a91e75a75b1bd0d0779e8db5e1c4d9ca",
+      "bytes": 182828,
+      "duration_s": 4.144761904761904,
+      "sample_rate": 22050
+    },
+    {
+      "file": "confucius_014.wav",
+      "speaker": "vox_ext_07",
+      "seed": 2026091714,
+      "sha256": "61a178cfc8e194685aee3d4c393ebf9926660b56f8f270865b37a4193d7a2fc0",
+      "bytes": 212012,
+      "duration_s": 4.806530612244898,
+      "sample_rate": 22050
+    },
+    {
+      "file": "confucius_015.wav",
+      "speaker": "vox_ext_08",
+      "seed": 2026091715,
+      "sha256": "0453128f0aa59aca60d4ebc86349408ca18b66428b545355e1155db5a3cdd5d5",
+      "bytes": 188460,
+      "duration_s": 4.272471655328798,
+      "sample_rate": 22050
+    },
+    {
+      "file": "confucius_016.wav",
+      "speaker": "vox_ext_08",
+      "seed": 2026091716,
+      "sha256": "96d2510f12c870a6ed8c3aa49d437d4e2e837448329d0b66603de6cb5adcaa30",
+      "bytes": 191020,
+      "duration_s": 4.330521541950113,
+      "sample_rate": 22050
+    },
+    {
+      "file": "confucius_017.wav",
+      "speaker": "vox_ext_09",
+      "seed": 2026091717,
+      "sha256": "793087a429521604072cca8e45de7fc6eb310756cedb73ef7bc0b0c27cc8b27c",
+      "bytes": 147500,
+      "duration_s": 3.3436734693877552,
+      "sample_rate": 22050
+    },
+    {
+      "file": "confucius_018.wav",
+      "speaker": "vox_ext_09",
+      "seed": 2026091718,
+      "sha256": "878e43acf53f9b9a0c22122768227dac6bf8cb4d801fcfe948d4eab24ff3f0fd",
+      "bytes": 176684,
+      "duration_s": 4.005442176870749,
+      "sample_rate": 22050
+    },
+    {
+      "file": "confucius_019.wav",
+      "speaker": "vox_ext_10",
+      "seed": 2026091719,
+      "sha256": "cf9b1608c1383ebe896703bb28ac0ea19d4d4029ce3a8c4adc5aa0caa8614775",
+      "bytes": 194604,
+      "duration_s": 4.4117913832199545,
+      "sample_rate": 22050
+    },
+    {
+      "file": "confucius_020.wav",
+      "speaker": "vox_ext_10",
+      "seed": 2026091720,
+      "sha256": "6f089bcf1d8eeac1c770fb75fa6613ac5dd3a4a7dc4ec146f8ee203db0e171f9",
+      "bytes": 192556,
+      "duration_s": 4.365351473922902,
+      "sample_rate": 22050
+    }
+  ]
+}

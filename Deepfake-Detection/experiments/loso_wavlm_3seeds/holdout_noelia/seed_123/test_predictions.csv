@@ -1,0 +1,54 @@
+﻿path,label,prob_fake,generator,speaker_id,prediction_calibrated,prediction_05,threshold_calibrated,seed,held_out_speaker
+data_normalized/real/noelia/Noe_ (4).wav,0,1.1324882507324219e-06,real,noelia,0,0,0.4853515625,123,noelia
+data_normalized/real/noelia/Noe_ (5).wav,0,1.1920928955078125e-07,real,noelia,0,0,0.4853515625,123,noelia
+data_normalized/real/noelia/Noe_ (12).wav,0,0.0,real,noelia,0,0,0.4853515625,123,noelia
+data_normalized/real/noelia/Noe_ (14).wav,0,0.00010889768600463867,real,noelia,0,0,0.4853515625,123,noelia
+data_normalized/real/noelia/Noe_ (15).wav,0,3.349781036376953e-05,real,noelia,0,0,0.4853515625,123,noelia
+data_normalized/real/noelia/Noe_ (18).wav,0,8.881092071533203e-06,real,noelia,0,0,0.4853515625,123,noelia
+data_normalized/real/noelia/Noe_ (29).wav,0,1.5497207641601562e-06,real,noelia,0,0,0.4853515625,123,noelia
+data_normalized/real/noelia/Noe_ (32).wav,0,5.364418029785156e-07,real,noelia,0,0,0.4853515625,123,noelia
+data_normalized/real/noelia/Noe_ (36).wav,0,0.00037860870361328125,real,noelia,0,0,0.4853515625,123,noelia
+data_normalized/tts/confucius4/082_ref3.wav,1,1.0,confucius4,noelia,1,1,0.4853515625,123,noelia
+data_normalized/tts/confucius4/095_ref3.wav,1,1.0,confucius4,noelia,1,1,0.4853515625,123,noelia
+data_normalized/tts/confucius4/097_ref3.wav,1,1.0,confucius4,noelia,1,1,0.4853515625,123,noelia
+data_normalized/tts/confucius4/099_ref3.wav,1,1.0,confucius4,noelia,1,1,0.4853515625,123,noelia
+data_normalized/tts/confucius4/103_ref3.wav,1,1.0,confucius4,noelia,1,1,0.4853515625,123,noelia
+data_normalized/tts/confucius4/108_ref3.wav,1,1.0,confucius4,noelia,1,1,0.4853515625,123,noelia
+data_normalized/tts/confucius4/109_ref3.wav,1,1.0,confucius4,noelia,1,1,0.4853515625,123,noelia
+data_normalized/tts/confucius4/110_ref3.wav,1,1.0,confucius4,noelia,1,1,0.4853515625,123,noelia
+data_normalized/tts/cosyvoice/082_ref3.wav,1,1.0,cosyvoice,noelia,1,1,0.4853515625,123,noelia
+data_normalized/tts/cosyvoice/095_ref3.wav,1,1.0,cosyvoice,noelia,1,1,0.4853515625,123,noelia
+data_normalized/tts/cosyvoice/097_ref3.wav,1,1.0,cosyvoice,noelia,1,1,0.4853515625,123,noelia
+data_normalized/tts/cosyvoice/099_ref3.wav,1,1.0,cosyvoice,noelia,1,1,0.4853515625,123,noelia
+data_normalized/tts/cosyvoice/103_ref3.wav,1,0.9970703125,cosyvoice,noelia,1,1,0.4853515625,123,noelia
+data_normalized/tts/cosyvoice/108_ref3.wav,1,1.0,cosyvoice,noelia,1,1,0.4853515625,123,noelia
+data_normalized/tts/cosyvoice/109_ref3.wav,1,1.0,cosyvoice,noelia,1,1,0.4853515625,123,noelia
+data_normalized/tts/cosyvoice/110_ref3.wav,1,1.0,cosyvoice,noelia,1,1,0.4853515625,123,noelia
+data_normalized/tts/openVoice/082_ref3.wav,1,1.0,openvoice,noelia,1,1,0.4853515625,123,noelia
+data_normalized/tts/openVoice/095_ref3.wav,1,1.0,openvoice,noelia,1,1,0.4853515625,123,noelia
+data_normalized/tts/openVoice/097_ref3.wav,1,1.0,openvoice,noelia,1,1,0.4853515625,123,noelia
+data_normalized/tts/openVoice/099_ref3.wav,1,1.0,openvoice,noelia,1,1,0.4853515625,123,noelia
+data_normalized/tts/openVoice/103_ref3.wav,1,1.0,openvoice,noelia,1,1,0.4853515625,123,noelia
+data_normalized/tts/openVoice/108_ref3.wav,1,1.0,openvoice,noelia,1,1,0.4853515625,123,noelia
+data_normalized/tts/openVoice/109_ref3.wav,1,1.0,openvoice,noelia,1,1,0.4853515625,123,noelia
+data_normalized/tts/openVoice/110_ref3.wav,1,1.0,openvoice,noelia,1,1,0.4853515625,123,noelia
+data_normalized/tts/qwen/082_ref3.wav,1,1.0,qwen,noelia,1,1,0.4853515625,123,noelia
+data_normalized/tts/qwen/095_ref3.wav,1,1.0,qwen,noelia,1,1,0.4853515625,123,noelia
+data_normalized/tts/qwen/097_ref3.wav,1,1.0,qwen,noelia,1,1,0.4853515625,123,noelia
+data_normalized/tts/qwen/099_ref3.wav,1,1.0,qwen,noelia,1,1,0.4853515625,123,noelia
+data_normalized/tts/qwen/103_ref3.wav,1,1.0,qwen,noelia,1,1,0.4853515625,123,noelia
+data_normalized/tts/qwen/108_ref3.wav,1,1.0,qwen,noelia,1,1,0.4853515625,123,noelia
+data_normalized/tts/qwen/109_ref3.wav,1,1.0,qwen,noelia,1,1,0.4853515625,123,noelia
+data_normalized/tts/qwen/110_ref3.wav,1,1.0,qwen,noelia,1,1,0.4853515625,123,noelia
+data_normalized/tts/voxcpm2/082_ref3.wav,1,1.0,voxcpm2,noelia,1,1,0.4853515625,123,noelia
+data_normalized/tts/voxcpm2/095_ref3.wav,1,1.0,voxcpm2,noelia,1,1,0.4853515625,123,noelia
+data_normalized/tts/voxcpm2/097_ref3.wav,1,1.0,voxcpm2,noelia,1,1,0.4853515625,123,noelia
+data_normalized/tts/voxcpm2/099_ref3.wav,1,1.0,voxcpm2,noelia,1,1,0.4853515625,123,noelia
+data_normalized/tts/voxcpm2/103_ref3.wav,1,1.0,voxcpm2,noelia,1,1,0.4853515625,123,noelia
+data_normalized/tts/voxcpm2/108_ref3.wav,1,1.0,voxcpm2,noelia,1,1,0.4853515625,123,noelia
+data_normalized/tts/voxcpm2/109_ref3.wav,1,1.0,voxcpm2,noelia,1,1,0.4853515625,123,noelia
+data_normalized/tts/voxcpm2/110_ref3.wav,1,1.0,voxcpm2,noelia,1,1,0.4853515625,123,noelia
+data_normalized/sts/knnvc/049_ref2.wav,1,1.0,knnvc,noelia,1,1,0.4853515625,123,noelia
+data_normalized/sts/knnvc/055_ref2.wav,1,1.0,knnvc,noelia,1,1,0.4853515625,123,noelia
+data_normalized/sts/knnvc/057_ref2.wav,1,0.99853515625,knnvc,noelia,1,1,0.4853515625,123,noelia
+data_normalized/sts/knnvc/077_ref2.wav,1,1.0,knnvc,noelia,1,1,0.4853515625,123,noelia

@@ -1,0 +1,21 @@
+{
+  "seed": 123,
+  "threshold": 0.5969619154930115,
+  "checkpoint": "C:\\Users\\gonza\\TFG\\Deepfake-Detection\\experiments\\wavlm_domain_adapt_real\\seed_123\\best_model.pt",
+  "checkpoint_sha256": "1eeb3c5e308aa33b092472286f1e6bd04f7402ee72b002ee0982ce248c326c6d",
+  "accuracy": 0.6681818181818182,
+  "balanced_accuracy": 0.6575,
+  "precision": 0.6690647482014388,
+  "recall": 0.775,
+  "specificity": 0.54,
+  "f1": 0.7181467181467182,
+  "fpr": 0.46,
+  "fnr": 0.225,
+  "tp": 93,
+  "tn": 54,
+  "fp": 46,
+  "fn": 27,
+  "roc_auc": 0.7229583333333334,
+  "eer": 0.33166666666666667,
+  "eer_threshold": 0.8531803488731384
+}

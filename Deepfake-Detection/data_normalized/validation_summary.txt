@@ -1,0 +1,64 @@
+========================================================================
+VALIDACIÓN DEL DATASET
+========================================================================
+
+TOTAL : 1635
+OK    : 1599
+WARN  : 36
+ERROR : 0
+
+DURACIÓN
+  mínima : 0.948 s
+  máxima : 148.893 s
+  media  : 6.565 s
+  mediana: 5.080 s
+  total  : 178.89 min
+
+SAMPLE RATE
+  16000      1635
+
+CANALES
+  1          1635
+
+SAMPLE WIDTH
+  2 bytes    1635
+
+POR LABEL
+  0                  234
+  1                  1401
+
+POR CATEGORÍA
+  real               234
+  sts                401
+  tts                1000
+
+POR GENERADOR
+  confucius4         200
+  cosyvoice          200
+  knnvc              200
+  openvoice          200
+  qwen               200
+  real               234
+  rvc                201
+  voxcpm2            200
+
+POR SPEAKER FINAL
+  gonzalo            280
+  mario              242
+  marta              280
+  noelia             280
+  rober              280
+  samu               273
+
+POR SPLIT
+  test               278
+  train              1129
+  val                228
+
+PROBLEMAS DETECTADOS
+  TOO_LONG                       35
+  CLIPPING                       1
+
+METADATA / SPLITS
+  [OK] No hay rutas duplicadas.
+  [OK] No hay leakage de utterance_id entre splits.

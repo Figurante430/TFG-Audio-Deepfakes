@@ -1,0 +1,236 @@
+{
+  "name": "External final fake holdout - VoxCPM2",
+  "status": "FROZEN",
+  "frozen_at_utc": "2026-09-15T12:31:56.485609+00:00",
+  "generator": "VoxCPM2",
+  "model": "openbmb/VoxCPM2",
+  "count": 20,
+  "speakers": [
+    "vox_ext_01",
+    "vox_ext_02",
+    "vox_ext_03",
+    "vox_ext_04",
+    "vox_ext_05",
+    "vox_ext_06",
+    "vox_ext_07",
+    "vox_ext_08",
+    "vox_ext_09",
+    "vox_ext_10"
+  ],
+  "audios_per_speaker": 2,
+  "sample_rate": 48000,
+  "generation": {
+    "clone_mode": "reference_only_voice_cloning",
+    "reference_transcript_used": false,
+    "cfg_value": 2.0,
+    "inference_timesteps": 10,
+    "normalize": false,
+    "denoise": false,
+    "retry_badcase": false,
+    "seed_strategy": "global_python_numpy_torch_rng_before_each_generation",
+    "optimize": false,
+    "device": "NVIDIA GeForce RTX 5060 Laptop GPU"
+  },
+  "model_identity": {
+    "requested_model_id": "openbmb/VoxCPM2",
+    "source": "openbmb/VoxCPM2",
+    "source_type": "huggingface_local_cache",
+    "sample_rate": 48000
+  },
+  "source_files": {
+    "jobs_csv": {
+      "path_at_generation": "C:\\Users\\gonza\\TFG\\Deepfake-Detection\\_external_fake_build\\voxcpm2_jobs.csv",
+      "sha256": "4719f6d1ae5db99781f68751dfb6c933945eb5710d88436e4abe6ea45ac30c27"
+    },
+    "generation_csv": {
+      "path_at_generation": "C:\\Users\\gonza\\TFG\\Deepfake-Detection\\_external_fake_build\\voxcpm2_generation.csv",
+      "sha256": "8721a044a7da0cc10ed5a3d5090171fdb9567bae7b99d7587530b46d73a207bf"
+    },
+    "generation_manifest": {
+      "path_at_generation": "C:\\Users\\gonza\\TFG\\Deepfake-Detection\\_external_fake_build\\voxcpm2_generation_manifest.json",
+      "sha256": "0533be2121629592c848e36651c8a197c76dfb023d1af2e72f28aa113d5db2c7"
+    }
+  },
+  "files": [
+    {
+      "file": "voxcpm2_001.wav",
+      "speaker": "vox_ext_01",
+      "seed": 2026091901,
+      "sha256": "7fea9bfa6ef546b97b9b95f551f129ad7a64a9d3d0b2f1519565f9d5bca79350",
+      "bytes": 276524,
+      "duration_s": 2.88,
+      "sample_rate": 48000
+    },
+    {
+      "file": "voxcpm2_002.wav",
+      "speaker": "vox_ext_01",
+      "seed": 2026091902,
+      "sha256": "614a7c4448a1b6595adc5ca3787e255f68bebfd6ee0d66292df7de8f2bbdc297",
+      "bytes": 322604,
+      "duration_s": 3.36,
+      "sample_rate": 48000
+    },
+    {
+      "file": "voxcpm2_003.wav",
+      "speaker": "vox_ext_02",
+      "seed": 2026091903,
+      "sha256": "8298e0fb661552dedf0516084bf667845f73a669bb55d048a8c102a9f57d1b7b",
+      "bytes": 414764,
+      "duration_s": 4.32,
+      "sample_rate": 48000
+    },
+    {
+      "file": "voxcpm2_004.wav",
+      "speaker": "vox_ext_02",
+      "seed": 2026091904,
+      "sha256": "20e452824385be955ebf274ff068488ceab8f648131aafc68172e0df0b825179",
+      "bytes": 353324,
+      "duration_s": 3.68,
+      "sample_rate": 48000
+    },
+    {
+      "file": "voxcpm2_005.wav",
+      "speaker": "vox_ext_03",
+      "seed": 2026091905,
+      "sha256": "942bf8207bd41d64a80bbe42af0a8e6cd544b04d946a5ae260447fec2dc02a18",
+      "bytes": 337964,
+      "duration_s": 3.52,
+      "sample_rate": 48000
+    },
+    {
+      "file": "voxcpm2_006.wav",
+      "speaker": "vox_ext_03",
+      "seed": 2026091906,
+      "sha256": "d132e3c07ea4c93788bb21be6cc7cd86a7b996d72bab7f621881ce1e46595323",
+      "bytes": 368684,
+      "duration_s": 3.84,
+      "sample_rate": 48000
+    },
+    {
+      "file": "voxcpm2_007.wav",
+      "speaker": "vox_ext_04",
+      "seed": 2026091907,
+      "sha256": "ab89cfc36e3e988fa9d9fc9da7fdae10fb4176e0f26bb0559c8cd2c89ad5aacd",
+      "bytes": 291884,
+      "duration_s": 3.04,
+      "sample_rate": 48000
+    },
+    {
+      "file": "voxcpm2_008.wav",
+      "speaker": "vox_ext_04",
+      "seed": 2026091908,
+      "sha256": "760150c5063c1334dcbe5d42c843bfb307b79c95da312b67df3b01608a6dd4bb",
+      "bytes": 353324,
+      "duration_s": 3.68,
+      "sample_rate": 48000
+    },
+    {
+      "file": "voxcpm2_009.wav",
+      "speaker": "vox_ext_05",
+      "seed": 2026091909,
+      "sha256": "8289ee9805955072fa869384d79a81f5554b6aa7ad231472b047f90d5ffbe873",
+      "bytes": 322604,
+      "duration_s": 3.36,
+      "sample_rate": 48000
+    },
+    {
+      "file": "voxcpm2_010.wav",
+      "speaker": "vox_ext_05",
+      "seed": 2026091910,
+      "sha256": "6d1599abe704de4dd13d5c2b10154d37a6bc27dce1001b9ec0bb402ee549e541",
+      "bytes": 337964,
+      "duration_s": 3.52,
+      "sample_rate": 48000
+    },
+    {
+      "file": "voxcpm2_011.wav",
+      "speaker": "vox_ext_06",
+      "seed": 2026091911,
+      "sha256": "0cf9adc92926824c9d81f9c80ac52313ecf4d8b55fdda64d40a72d4280f4be6b",
+      "bytes": 261164,
+      "duration_s": 2.72,
+      "sample_rate": 48000
+    },
+    {
+      "file": "voxcpm2_012.wav",
+      "speaker": "vox_ext_06",
+      "seed": 2026091912,
+      "sha256": "c37e953247b842811036c4f4381d6d5695b52386e094166f6a1e28f2d0ca47b7",
+      "bytes": 384044,
+      "duration_s": 4.0,
+      "sample_rate": 48000
+    },
+    {
+      "file": "voxcpm2_013.wav",
+      "speaker": "vox_ext_07",
+      "seed": 2026091913,
+      "sha256": "7f55e993743e285612395688c1375d4da238ec4e598f17bb1b1c687456647c87",
+      "bytes": 322604,
+      "duration_s": 3.36,
+      "sample_rate": 48000
+    },
+    {
+      "file": "voxcpm2_014.wav",
+      "speaker": "vox_ext_07",
+      "seed": 2026091914,
+      "sha256": "b94a07da934a20d5d61ebe0b634f17835eee260d74deeb4e5dda3c143a19e57e",
+      "bytes": 522284,
+      "duration_s": 5.44,
+      "sample_rate": 48000
+    },
+    {
+      "file": "voxcpm2_015.wav",
+      "speaker": "vox_ext_08",
+      "seed": 2026091915,
+      "sha256": "851590f182ec8a48c7cce112d456cef5eb7f477c741aadad41223dffcaab8e23",
+      "bytes": 414764,
+      "duration_s": 4.32,
+      "sample_rate": 48000
+    },
+    {
+      "file": "voxcpm2_016.wav",
+      "speaker": "vox_ext_08",
+      "seed": 2026091916,
+      "sha256": "d1dd3e5bc3d6fb767d58036c281f51d8f45c3e88284c1f675927fcb796dfb9b5",
+      "bytes": 476204,
+      "duration_s": 4.96,
+      "sample_rate": 48000
+    },
+    {
+      "file": "voxcpm2_017.wav",
+      "speaker": "vox_ext_09",
+      "seed": 2026091917,
+      "sha256": "3f44bb7a8e63b7789358511abfa46e428584d48599d79e57c16fd6d591612c04",
+      "bytes": 337964,
+      "duration_s": 3.52,
+      "sample_rate": 48000
+    },
+    {
+      "file": "voxcpm2_018.wav",
+      "speaker": "vox_ext_09",
+      "seed": 2026091918,
+      "sha256": "38c8d6daa20f55271788c76171385525b01f5bbbcfed4dffaaec24979cd3f68e",
+      "bytes": 368684,
+      "duration_s": 3.84,
+      "sample_rate": 48000
+    },
+    {
+      "file": "voxcpm2_019.wav",
+      "speaker": "vox_ext_10",
+      "seed": 2026091919,
+      "sha256": "dc731245a11eeddb86b11fa22ece35e4b612caa6fa25c7961c39bcfbd3f7c408",
+      "bytes": 337964,
+      "duration_s": 3.52,
+      "sample_rate": 48000
+    },
+    {
+      "file": "voxcpm2_020.wav",
+      "speaker": "vox_ext_10",
+      "seed": 2026091920,
+      "sha256": "2dbf71e3ac808b460f61e37aa703b62ede06ae8d03e15e7778cd84f55c5682c3",
+      "bytes": 430124,
+      "duration_s": 4.48,
+      "sample_rate": 48000
+    }
+  ]
+}

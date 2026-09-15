@@ -1,0 +1,61 @@
+ANÁLISIS ACÚSTICO DEL EXTERNAL REAL TEST
+========================================================================
+
+Audios analizados: 100
+Speakers problemáticos: speaker_ext_02 + speaker_ext_03
+Control: speaker_ext_01 + speaker_ext_04 + speaker_ext_05
+
+FAKE VOTE RATE MEDIO POR SPEAKER
+------------------------------------------------------------------------
+speaker_ext_01     vote_fake=0.0786 prob_fake_mean=0.1907
+speaker_ext_02     vote_fake=0.3690 prob_fake_mean=0.4397
+speaker_ext_03     vote_fake=0.3476 prob_fake_mean=0.5167
+speaker_ext_04     vote_fake=0.0952 prob_fake_mean=0.1855
+speaker_ext_05     vote_fake=0.0024 prob_fake_mean=0.0594
+
+TOP 10 CORRELACIONES CON FAKE VOTE RATE
+------------------------------------------------------------------------
+duration_s                   Pearson=+0.3445 Spearman=+0.4720
+frame_db_p50                 Pearson=+0.2137 Spearman=+0.4598
+silence_ratio                Pearson=-0.3485 Spearman=-0.4562
+near_zero_ratio              Pearson=-0.3699 Spearman=-0.4477
+zero_crossing_rate           Pearson=+0.3311 Spearman=+0.4384
+mean_abs                     Pearson=+0.2866 Spearman=+0.3825
+spectral_flatness            Pearson=+0.3298 Spearman=+0.3658
+frame_db_p10                 Pearson=+0.3687 Spearman=+0.3569
+hf_energy_ratio_4k           Pearson=+0.2004 Spearman=+0.3499
+spectral_bandwidth_hz        Pearson=+0.2599 Spearman=+0.3423
+
+TOP 10 DIFERENCIAS 02+03 VS CONTROL (COHEN'S d)
+------------------------------------------------------------------------
+zero_crossing_rate           problem=0.1583 control=0.0897 d=+1.8509
+near_zero_ratio              problem=0.0412 control=0.2624 d=-1.8213
+frame_db_p10                 problem=-58.6384 control=-140.5387 d=+1.5771
+mean_abs                     problem=0.0510 control=0.0265 d=+1.5269
+dynamic_range_proxy_db       problem=45.1971 control=119.2499 d=-1.3524
+frame_db_p90                 problem=-15.5055 control=-23.3597 d=+1.2599
+rms_dbfs                     problem=-20.3550 control=-28.0779 d=+1.2502
+spectral_bandwidth_hz        problem=932.7206 control=539.7773 d=+1.1603
+rolloff95_hz                 problem=2647.9238 control=1363.7602 d=+1.1364
+peak_dbfs                    problem=-2.1357 control=-8.1832 d=+1.0981
+
+TOP 15 ARCHIVOS MÁS SOSPECHOSOS PARA LOS 21 MODELOS
+------------------------------------------------------------------------
+speaker_ext_02     speaker_ext_02_004.wav       fake_votes=21/21 vote_rate=1.0000 prob_mean=0.9993
+speaker_ext_03     speaker_ext_03_018.wav       fake_votes=21/21 vote_rate=1.0000 prob_mean=0.9889
+speaker_ext_02     speaker_ext_02_019.wav       fake_votes=21/21 vote_rate=1.0000 prob_mean=0.9857
+speaker_ext_02     speaker_ext_02_018.wav       fake_votes=21/21 vote_rate=1.0000 prob_mean=0.9852
+speaker_ext_02     speaker_ext_02_001.wav       fake_votes=21/21 vote_rate=1.0000 prob_mean=0.9812
+speaker_ext_03     speaker_ext_03_009.wav       fake_votes=21/21 vote_rate=1.0000 prob_mean=0.9749
+speaker_ext_04     speaker_ext_04_016.wav       fake_votes=21/21 vote_rate=1.0000 prob_mean=0.9428
+speaker_ext_03     speaker_ext_03_013.wav       fake_votes=20/21 vote_rate=0.9524 prob_mean=0.9287
+speaker_ext_01     speaker_ext_01_013.wav       fake_votes=19/21 vote_rate=0.9048 prob_mean=0.9559
+speaker_ext_02     speaker_ext_02_005.wav       fake_votes=17/21 vote_rate=0.8095 prob_mean=0.9175
+speaker_ext_02     speaker_ext_02_014.wav       fake_votes=17/21 vote_rate=0.8095 prob_mean=0.8980
+speaker_ext_03     speaker_ext_03_008.wav       fake_votes=17/21 vote_rate=0.8095 prob_mean=0.8821
+speaker_ext_02     speaker_ext_02_011.wav       fake_votes=16/21 vote_rate=0.7619 prob_mean=0.9062
+speaker_ext_03     speaker_ext_03_017.wav       fake_votes=16/21 vote_rate=0.7619 prob_mean=0.9052
+speaker_ext_04     speaker_ext_04_009.wav       fake_votes=16/21 vote_rate=0.7619 prob_mean=0.8611
+
+NOTA: snr_proxy_db y dynamic_range_proxy_db son proxies basados
+en energía por frames, no estimaciones físicas de SNR/dinámica.

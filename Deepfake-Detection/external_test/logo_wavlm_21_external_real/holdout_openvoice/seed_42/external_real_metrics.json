@@ -1,0 +1,15 @@
+{
+  "n": 100,
+  "tn": 92,
+  "fp": 8,
+  "specificity": 0.92,
+  "fpr": 0.08,
+  "prob_fake_mean": 0.10757542154339647,
+  "prob_fake_median": 5.116105512570357e-06,
+  "prob_fake_min": 4.001747663708727e-13,
+  "prob_fake_max": 0.9984269142150879,
+  "held_out_generator": "openvoice",
+  "seed": 42,
+  "threshold": 0.74267578125,
+  "checkpoint": "C:\\Users\\gonza\\TFG\\Deepfake-Detection\\experiments\\logo_wavlm_3seeds\\holdout_openvoice\\seed_42\\best_model.pt"
+}

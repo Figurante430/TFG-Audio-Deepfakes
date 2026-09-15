@@ -1,0 +1,37 @@
+{
+  "held_out_generator": "rvc",
+  "best_epoch": 5,
+  "val_f1": 1.0,
+  "calibrated_threshold": 0.8630711436271667,
+  "n_train": 990,
+  "n_val": 199,
+  "n_test": 80,
+  "threshold_0.5": {
+    "accuracy": 0.8875,
+    "precision": 1.0,
+    "recall": 0.7272727272727273,
+    "specificity": 1.0,
+    "f1": 0.8421052631578948,
+    "tp": 24,
+    "tn": 47,
+    "fp": 0,
+    "fn": 9,
+    "roc_auc": 0.988394584139265,
+    "eer": 0.08800773694390718,
+    "eer_threshold": 0.011479722335934639
+  },
+  "threshold_calibrated": {
+    "accuracy": 0.7375,
+    "precision": 1.0,
+    "recall": 0.36363636363636365,
+    "specificity": 1.0,
+    "f1": 0.5333333333333333,
+    "tp": 12,
+    "tn": 47,
+    "fp": 0,
+    "fn": 21,
+    "roc_auc": 0.988394584139265,
+    "eer": 0.08800773694390718,
+    "eer_threshold": 0.011479722335934639
+  }
+}
